@@ -8,9 +8,11 @@ import java.io.*;
 import java.net.*;
 import java.util.ArrayList;
 import org.json.*;
+import org.apache.storm.starter.xml.*;
+
 public class IncidentCommunicator {
  
-    private ArrayList<IncidentBean> beanList = new ArrayList<IncidentBean>();
+    private ArrayList<Root.Disruptions.Disruption> beanList = new ArrayList<Root.Disruptions.Disruption>();
     private static final Logger LOG = LoggerFactory.getLogger(IncidentCommunicator.class);
     private static final String arrivalUrl = "https://data.tfl.gov.uk/tfl/syndication/feeds/tims_feed.xml?app_id=ef3b4027&app_key=5c0b4a956599179156d4979df6bcb346";
 
@@ -43,16 +45,16 @@ public class IncidentCommunicator {
     private void makeAndFormIncidentRequest(){
         LOG.info("XML: Attempting parse");
         xmlParser xmlP = new xmlParser();
-        String output = xmlP.parseXml();
+        beanList = xmlP.parseXml();
         LOG.info("XML: done parsing");
     }
     
    
     
-    public ArrayList<IncidentBean> getIncidentUpdates(){
+    public ArrayList<Root.Disruptions.Disruption> getIncidentUpdates(){
         
         if(beanList.size() > 0){
-            ArrayList<IncidentBean> beansToReturn = new ArrayList<IncidentBean>();
+            ArrayList<Root.Disruptions.Disruption> beansToReturn = new ArrayList<Root.Disruptions.Disruption>();
             beansToReturn.addAll(beanList);
             beanList.clear();
             LOG.info("sending "+beansToReturn.size()+" to topology");

@@ -2,6 +2,7 @@ package org.apache.storm.starter.xml;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.io.Serializable;
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlAttribute;
@@ -647,8 +648,9 @@ public class Root {
             "causeArea",
             "recurringSchedule"
         })
-        public static class Disruption {
-
+        public static class Disruption implements Serializable{
+            private static final long serialVersionUID = 1L;
+            
             protected String status;
             protected String severity;
             protected String levelOfInterest;

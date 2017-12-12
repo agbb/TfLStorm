@@ -23,8 +23,10 @@ public class xmlParser {
         
     }
     
-    public String parseXml(){
+    public ArrayList<Root.Disruptions.Disruption> parseXml(){
+        ArrayList<Root.Disruptions.Disruption> output = new ArrayList<Root.Disruptions.Disruption>();
         try{
+            
             JAXBContext jc = JAXBContext.newInstance("org.apache.storm.starter.xml");
             Unmarshaller unmarshaller = jc.createUnmarshaller();
             URL url = new URL("https://data.tfl.gov.uk/tfl/syndication/feeds/tims_feed.xml?app_id=ef3b4027&app_key=5c0b4a956599179156d4979df6bcb346");
@@ -32,17 +34,20 @@ public class xmlParser {
             JAXBElement<Root> feed = unmarshaller.unmarshal(new StreamSource(xml), Root.class);
             xml.close();
             Root xmlRoot = feed.getValue();
+            
+            
             ArrayList<Object> headerOrDisrupt = (ArrayList<Object>) xmlRoot.getHeaderOrDisruptions();
             Root.Disruptions dis = (Root.Disruptions) headerOrDisrupt.get(1);
             ArrayList <Root.Disruptions.Disruption> disruptionList = (ArrayList<Root.Disruptions.Disruption>) dis.getDisruption();
-            LOG.info("XML output: "+xmlRoot);
-            LOG.info("XML list length: "+headerOrDisrupt.size());
-            LOG.info("XML Disruption list length: "+ disruptionList.size());
-            return "done";
+            for(int i = 0; i <disruptionList.size(); i++){
+                output.add((Root.Disruptions.Disruption) disruptionList.get(i));
+            }
+            LOG.info("XML disruptions added to output: "+output.size());
+            return output;
         }catch(Exception e){
             LOG.error("XML: "+e.toString());
         }
-        return "its fucked";
+        return output;
     }
     
 }
