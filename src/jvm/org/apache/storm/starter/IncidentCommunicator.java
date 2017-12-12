@@ -39,7 +39,7 @@ public class IncidentCommunicator {
                   java.util.Date date = new java.util.Date();
                   makeAndFormIncidentRequest();
             }
-         }, 1000,600000);
+         }, 1000,300000);
     }
     
     private void makeAndFormIncidentRequest(){

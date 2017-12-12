@@ -56,6 +56,7 @@ public class PoopTopology {
     private static final IncidentCommunicator incidentComms = IncidentCommunicator.getInstance();
     private static final ArrivalCommunicator1 arrivalComms = ArrivalCommunicator1.getInstance();
 
+
     private static int iteration = 0;
 
     public static class ArrivalSpout extends BaseRichSpout {
@@ -76,13 +77,12 @@ public class PoopTopology {
             } else {
                 try {
                     Thread.sleep(500);
-                    LOG.info("waiting for new data");
                     arrivalBeans = arrivalComms.getArrivalUpdates();
                     if (arrivalBeans.size() > 0) {
-                        LOG.info("NEW DATA - arrivalBeans size:" + arrivalBeans.size() + "");
+                        LOG.info("ARRIVAL: - arrivalBeans size:" + arrivalBeans.size() + "");
                     }
                 } catch (Exception e) {
-                    LOG.error("sleep failed");
+                    LOG.error("ARRIVAL: sleep failed");
                 }
             }
             return;
@@ -106,11 +106,13 @@ public class PoopTopology {
 
     public static class IncidentSpout extends BaseRichSpout {
         SpoutOutputCollector _collector;
+        
 
         @Override
         public void open(Map conf, TopologyContext context, SpoutOutputCollector collector) {
             _collector = collector;
             incidentComms.beginIncidentRequestLoop();
+            
         }
 
         @Override
@@ -153,6 +155,7 @@ public class PoopTopology {
     }
 
     public static class AddExclaim extends BaseBasicBolt {
+
         @Override
         public void execute(Tuple tuple, BasicOutputCollector collector) {
 
@@ -174,15 +177,49 @@ public class PoopTopology {
         }
     }
 
-    public static class MakeSevere extends BaseBasicBolt {
-
+    public static class PersistIncident extends BaseBasicBolt {
+        RedisConnector RConnect;
+        
+        @Override
+    public void prepare(Map conf, TopologyContext context) {
+        RConnect = new RedisConnector();
+    }
+        
         @Override
         public void execute(Tuple tuple, BasicOutputCollector collector) {
+            
             Root.Disruptions.Disruption bean = (Root.Disruptions.Disruption) tuple.getValue(0);
             String severity = bean.getSeverity();
-            String location = bean.getLocation(); 
-            LOG.info("INCIDENT: "+location+": "+severity);
-            bean.setSeverity("High");
+            String location = bean.getLocation();
+            RConnect.persist(location,severity);
+            //LOG.info("INCIDENT: "+location+": "+severity);
+
+            collector.emit(new Values(bean, 1));
+        }
+
+        @Override
+        public void declareOutputFields(OutputFieldsDeclarer declarer) {
+            declarer.declare(new Fields("word", "count"));
+        }
+    }
+    
+    public static class RetreiveIncident extends BaseBasicBolt {
+        RedisConnector RConnect;
+        
+        @Override
+        public void prepare(Map conf, TopologyContext context) {
+        RConnect = new RedisConnector();
+    }
+        
+        @Override
+        public void execute(Tuple tuple, BasicOutputCollector collector) {
+            
+            Root.Disruptions.Disruption bean = (Root.Disruptions.Disruption) tuple.getValue(0);
+
+            String location = bean.getLocation();
+            String severity = RConnect.retreive(location);
+            LOG.info("INCIDENT: REDIS: "+location+": "+severity);
+
             collector.emit(new Values(bean, 1));
         }
 
@@ -216,11 +253,12 @@ public class PoopTopology {
 
         TopologyBuilder builder = new TopologyBuilder();
 
-        builder.setSpout("arrivalSpout", new ArrivalSpout(), 1);
-        builder.setSpout("incidentSpout", new IncidentSpout(), 1);
+        builder.setSpout("ArrivalSpout", new ArrivalSpout(), 1);
+        builder.setSpout("IncidentSpout", new IncidentSpout(), 1);
         
-        builder.setBolt("AddExclaim", new AddExclaim(), 4).shuffleGrouping("arrivalSpout");
-        builder.setBolt("MakeSevere", new AddExclaim(), 4).shuffleGrouping("incidentSpout");
+        builder.setBolt("AddExclaim", new AddExclaim(), 4).shuffleGrouping("ArrivalSpout");
+        builder.setBolt("PersistIncident", new PersistIncident(), 4).shuffleGrouping("IncidentSpout");
+        builder.setBolt("RetreiveIncident", new RetreiveIncident(), 4).shuffleGrouping("PersistIncident");
         
         // builder.setBolt("count", new WordCount(), 4).fieldsGrouping("split",
         // new Fields("word"));
