@@ -189,11 +189,7 @@ public class PoopTopology {
         public void execute(Tuple tuple, BasicOutputCollector collector) {
             
             Root.Disruptions.Disruption bean = (Root.Disruptions.Disruption) tuple.getValue(0);
-            String severity = bean.getSeverity();
-            String location = bean.getLocation();
-            RConnect.persist(location,severity);
-            //LOG.info("INCIDENT: "+location+": "+severity);
-
+            RConnect.persistIncident(bean);
             collector.emit(new Values(bean, 1));
         }
 
@@ -203,7 +199,7 @@ public class PoopTopology {
         }
     }
     
-    public static class RetreiveIncident extends BaseBasicBolt {
+    public static class RetreiveAndCompareIncident extends BaseBasicBolt {
         RedisConnector RConnect;
         
         @Override
@@ -215,40 +211,72 @@ public class PoopTopology {
         public void execute(Tuple tuple, BasicOutputCollector collector) {
             
             Root.Disruptions.Disruption bean = (Root.Disruptions.Disruption) tuple.getValue(0);
+            ArrayList<Root.Disruptions.Disruption> dists = RConnect.getIncidentArray();
+            
+            LOG.info("INCIDENT: REDIS: reocvered dists list of size: "+dists.size());
+            boolean found = false;
+            boolean invalid = false;
+            
+            //Check if incident should be removed. 
+            if(bean.getStatus().equals("inactive")){
+                 invalid = true;   
+            }else if(TimeComparitor.isInPast(bean.getEndTime())){
+                 invalid = true;   
+            }
+            
+            for(int i =0; i<dists.size(); i++){
 
-            String location = bean.getLocation();
-            String severity = RConnect.retreive(location);
-            LOG.info("INCIDENT: REDIS: "+location+": "+severity);
-
-            collector.emit(new Values(bean, 1));
+                if(bean.getId()==dists.get(i).getId()){
+                    found = true;
+                }
+            }
+            
+            //A new, valid incident.
+            if(!found && !invalid){
+                  LOG.info("INCIDENT: new incident found, emmiting to persist.");
+                  collector.emit("toPersist",new Values(bean, 1));
+            }
+            
+            //An invalid incident, that exists. 
+            if(found && invalid){
+                 LOG.info("INCIDENT: invalid incident found, emmiting to remove."); 
+                 collector.emit("toRemove",new Values(bean, 1));
+            }
         }
 
         @Override
         public void declareOutputFields(OutputFieldsDeclarer declarer) {
-            declarer.declare(new Fields("word", "count"));
+            declarer.declareStream("toPersist",new Fields("incidient"));
+            declarer.declareStream("toRemove",new Fields("incidient"));
         }
     }
 
-    // public static class WordCount extends BaseBasicBolt {
-    // Map<String, Integer> counts = new HashMap<String, Integer>();
+    public static class RemoveIncident extends BaseBasicBolt {
+        RedisConnector RConnect;
+        
+        @Override
+        public void prepare(Map conf, TopologyContext context) {
+        RConnect = new RedisConnector();
+        }
+        
+        @Override
+        public void execute(Tuple tuple, BasicOutputCollector collector) {
+            
+            Root.Disruptions.Disruption bean = (Root.Disruptions.Disruption) tuple.getValue(0);
+            LOG.info("INCIDENT: incident for removeal submitted.");
+            //Remove incident from store here.
 
-    // @Override
-    // public void execute(Tuple tuple, BasicOutputCollector collector) {
-    // String word = tuple.getString(0);
-    // Integer count = counts.get(word);
-    // if (count == null)
-    // count = 0;
-    // count++;
-    // counts.put(word, count);
-    // collector.emit(new Values(word, count));
-    // }
 
-    // @Override
-    // public void declareOutputFields(OutputFieldsDeclarer declarer) {
-    // declarer.declare(new Fields("word", "count"));
-    // }
-    // }
+        }
 
+        @Override
+        public void declareOutputFields(OutputFieldsDeclarer declarer) {
+            //declarer.declareStream("toPersist",new Fields("incidient"));
+            //declarer.declareStream("toRemove",new Fields("incidient"));
+        }
+    }
+    
+    
     public static void main(String[] args) throws Exception {
 
         TopologyBuilder builder = new TopologyBuilder();
@@ -257,8 +285,9 @@ public class PoopTopology {
         builder.setSpout("IncidentSpout", new IncidentSpout(), 1);
         
         builder.setBolt("AddExclaim", new AddExclaim(), 4).shuffleGrouping("ArrivalSpout");
-        builder.setBolt("PersistIncident", new PersistIncident(), 4).shuffleGrouping("IncidentSpout");
-        builder.setBolt("RetreiveIncident", new RetreiveIncident(), 4).shuffleGrouping("PersistIncident");
+        builder.setBolt("RetreiveAndCompareIncident", new RetreiveAndCompareIncident(), 4).shuffleGrouping("IncidentSpout");
+        builder.setBolt("PersistIncident", new PersistIncident(), 4).shuffleGrouping("RetreiveAndCompareIncident","toPersist");
+        builder.setBolt("RemoveIncident", new PersistIncident(), 4).shuffleGrouping("RetreiveAndCompareIncident","toRemove");
         
         // builder.setBolt("count", new WordCount(), 4).fieldsGrouping("split",
         // new Fields("word"));
