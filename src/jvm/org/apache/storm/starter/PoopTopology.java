@@ -50,9 +50,7 @@ import org.slf4j.LoggerFactory;
  */
 public class PoopTopology {
 
-    
 
-  
     public static void main(String[] args) throws Exception {
 
         TopologyBuilder builder = new TopologyBuilder();

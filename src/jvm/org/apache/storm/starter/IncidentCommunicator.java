@@ -61,7 +61,6 @@ public class IncidentCommunicator {
             return beansToReturn;
         }else{
             //Just send empty list.
-            LOG.info("sending empty incident list to topology.");
             return beanList;
         }
     }

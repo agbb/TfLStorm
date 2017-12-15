@@ -105,7 +105,7 @@ public class ArrivalCommunicator1 {
                 }
             }
         }
-        LOG.info("added "+beansToReturn.size()+" items to the array, out of "+rows.length+" total");
+        
         return beansToReturn;
     }
     
@@ -119,7 +119,6 @@ public class ArrivalCommunicator1 {
             return beansToReturn;
         }else{
             //Just send empty list.
-            LOG.info("sending empty list to topology.");
             return beanList;
         }
     }

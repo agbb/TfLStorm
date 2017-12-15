@@ -38,7 +38,7 @@ public class RetreiveAndCompareIncident extends BaseBasicBolt {
         @Override
         public void execute(Tuple tuple, BasicOutputCollector collector) {
             
-            LOG.info("INCIDENT: new incident to compare.");
+
             Root.Disruptions.Disruption bean = (Root.Disruptions.Disruption) tuple.getValue(0);
             ArrayList<Root.Disruptions.Disruption> dists = RConnect.getIncidentArray();
             

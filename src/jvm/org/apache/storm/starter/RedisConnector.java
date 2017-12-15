@@ -24,6 +24,7 @@ import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import org.apache.storm.starter.xml.*;
 
 public class RedisConnector implements Serializable {
@@ -96,18 +97,22 @@ public class RedisConnector implements Serializable {
         Long start = 0L; 
         
         try {
-            ArrayList<byte[]> outputBytes = (ArrayList<byte[]>)syncCommands.lrange(key, start, incidentListLength-1);
-            LOG.info("REDIS: Items found: "+outputBytes.size());
-            for(int i =0; i<outputBytes.size(); i++){
-                byte[] bytes = outputBytes.get(i);
-                
-                ByteArrayInputStream bis = new ByteArrayInputStream(bytes);
-                ObjectInput in = new ObjectInputStream(bis);
-                Root.Disruptions.Disruption disruptionObject = (Root.Disruptions.Disruption) in.readObject(); 
-                output.add(disruptionObject);
+            List<byte[]> optionalBytes = syncCommands.lrange(key, start, incidentListLength-1);
+            if (optionalBytes.size()>0){
+
+                ArrayList<byte[]> outputBytes = (ArrayList<byte[]>)optionalBytes;
+                LOG.info("REDIS: Items found: "+outputBytes.size());
+                for(int i =0; i<outputBytes.size(); i++){
+                    byte[] bytes = outputBytes.get(i);
+
+                    ByteArrayInputStream bis = new ByteArrayInputStream(bytes);
+                    ObjectInput in = new ObjectInputStream(bis);
+                    Root.Disruptions.Disruption disruptionObject = (Root.Disruptions.Disruption) in.readObject(); 
+                    output.add(disruptionObject);
+                }
+            }else{
+                LOG.info("REDIS: empty list found, returning early.");
             }
-            
-            
             
         } catch (Exception e) {
                LOG.error("REDIS: "+e.toString());  
