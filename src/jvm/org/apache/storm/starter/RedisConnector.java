@@ -78,8 +78,7 @@ public class RedisConnector implements Serializable {
             ObjectOutputStream out = new ObjectOutputStream(bos);
             out.writeObject(disruption);
             out.close();
-            byte[] buf = bos.toByteArray();
-            String bufferString = new String(buf, "UTF-8");
+            byte[] buf = bos.toByteArray();   
             LOG.info("REDIS: pesisting new item.");
             //syncCommands.lPush(key, buf);
             syncCommands.lpush(key, buf);
@@ -93,7 +92,7 @@ public class RedisConnector implements Serializable {
     public ArrayList<Root.Disruptions.Disruption> getIncidentArray() {
         ArrayList<Root.Disruptions.Disruption> output = new ArrayList<Root.Disruptions.Disruption>();
         Long incidentListLength = syncCommands.llen(key);
-        LOG.info("REDIS: Request for removal of "+incidentListLength+" items");
+        LOG.info("REDIS: Request for retrieval of "+incidentListLength+" items");
         Long start = 0L; 
         
         try {

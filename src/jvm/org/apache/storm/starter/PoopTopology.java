@@ -119,7 +119,6 @@ public class PoopTopology {
         public void nextTuple() {
 
             if(incidentBeans.size()>0){
-                LOG.info("INCIDENT: emmiting disruption tuple");
                 Root.Disruptions.Disruption nextBean = incidentBeans.remove(0);
                 _collector.emit(new Values(nextBean), nextBean);
             }else{
@@ -164,7 +163,7 @@ public class PoopTopology {
                 String stopPointName = bean.getStopPointName();
                 bean.setStopPointName(stopPointName + "!");
                 LOG.info(bean.getStopPointName());
-                collector.emit(new Values(bean, 1));
+                collector.emit(new Values(bean));
             } catch (Exception e) {
                 LOG.error("**ArrivalBean error**", e);
                 collector.reportError(e);
@@ -190,12 +189,12 @@ public class PoopTopology {
             
             Root.Disruptions.Disruption bean = (Root.Disruptions.Disruption) tuple.getValue(0);
             RConnect.persistIncident(bean);
-            collector.emit(new Values(bean, 1));
+            collector.emit(new Values(bean));
         }
 
         @Override
         public void declareOutputFields(OutputFieldsDeclarer declarer) {
-            declarer.declare(new Fields("word", "count"));
+            declarer.declare(new Fields("incident"));
         }
     }
     
@@ -210,6 +209,7 @@ public class PoopTopology {
         @Override
         public void execute(Tuple tuple, BasicOutputCollector collector) {
             
+            LOG.info("INCIDENT: new incident to compare.");
             Root.Disruptions.Disruption bean = (Root.Disruptions.Disruption) tuple.getValue(0);
             ArrayList<Root.Disruptions.Disruption> dists = RConnect.getIncidentArray();
             
@@ -219,14 +219,18 @@ public class PoopTopology {
             
             //Check if incident should be removed. 
             if(bean.getStatus().equals("inactive")){
+                 LOG.info("INCIDENT: found, but invalid");
                  invalid = true;   
             }else if(TimeComparitor.isInPast(bean.getEndTime())){
+                LOG.info("INCIDENT: found, but invalid");
                  invalid = true;   
             }
             
+            //This is not working.
             for(int i =0; i<dists.size(); i++){
 
-                if(bean.getId()==dists.get(i).getId()){
+                if(bean.getId().equals(dists.get(i).getId())){
+                    LOG.info("INCIDENT: found, but already exists");
                     found = true;
                 }
             }
@@ -234,13 +238,13 @@ public class PoopTopology {
             //A new, valid incident.
             if(!found && !invalid){
                   LOG.info("INCIDENT: new incident found, emmiting to persist.");
-                  collector.emit("toPersist",new Values(bean, 1));
+                  collector.emit("toPersist",new Values(bean));
             }
             
             //An invalid incident, that exists. 
             if(found && invalid){
                  LOG.info("INCIDENT: invalid incident found, emmiting to remove."); 
-                 collector.emit("toRemove",new Values(bean, 1));
+                 collector.emit("toRemove",new Values(bean));
             }
         }
 
@@ -256,7 +260,7 @@ public class PoopTopology {
         
         @Override
         public void prepare(Map conf, TopologyContext context) {
-        RConnect = new RedisConnector();
+            RConnect = new RedisConnector();
         }
         
         @Override
