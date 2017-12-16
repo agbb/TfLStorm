@@ -46,16 +46,40 @@ public class Line {
         return false;
     }
     
-    public distanceToLineSegment(Point point){
+    public double distanceToLineSegment(Point point){
         
         //https://stackoverflow.com/questions/849211/shortest-distance-between-a-point-and-a-line-segment
         //calculate distance to segment squared.
         //Then take the square root.
         
+        //Get length of line segment.
+        double length = pointToPointDistance(_start,_end);
+        
+        //Line segment is actually a point, return distance.
+        if(length == 0){
+           return pointToPointDistance(point,_start);
+        }
+        
+        //Project point onto the line.
+        double t = ((point.x - _start.x) * (_end.x - _start.x) + (point.y - _start.y) * (_end.y - _start.y))/length;
+        
+        //Clam from 0 to 1.
+        t = Math.max(0,Math.min(1,t));
+        Point temp = new Point(_start.x + t * (_end.x - _start.x), _start.y + t * (_end.y - _start.y));
+        double distanceSquared = pointToPointDistance(point,temp);
+        return Math.sqrt(distanceSquared);
+            
+        
     }
     
-    private double pointToPointDistance(Point v, Point, w){
-       return Math.pow((v.x - w.x),2) + Math.pow((v.y - w.y),2);
+    
+    
+    private double pointToPointDistance(Point v, Point w){
+       double xDist = v.x - w.x;
+       double yDist = v.y - w.y;
+       double result = Math.pow(xDist,2) + Math.pow(yDist,2);
+      return result;
+        
     }
 
     /**

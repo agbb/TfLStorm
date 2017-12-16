@@ -19,6 +19,9 @@ import org.apache.storm.utils.Utils;
 import org.apache.storm.starter.xml.*;
 import org.apache.storm.starter.*;
 import org.apache.storm.starter.polygon.*;
+import org.apache.storm.starter.xml.Root.Disruptions.Disruption;
+import org.apache.storm.starter.xml.Root.Disruptions.Disruption.CauseArea.Streets.Street;
+import org.apache.storm.starter.xml.Root.Disruptions.Disruption.CauseArea.Boundary.Polygon;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -37,7 +40,7 @@ public class AddExclaim extends BaseBasicBolt {
 
     @Override
         public void execute(Tuple tuple, BasicOutputCollector collector) {
-            ArrayList<Root.Disruptions.Disruption> dists = RConnect.getIncidentArray();
+            ArrayList<Disruption> dists = RConnect.getIncidentArray();
             int count = 0;
             try {
                 ArrivalBean bean = (ArrivalBean) tuple.getValue(0);
@@ -56,7 +59,7 @@ public class AddExclaim extends BaseBasicBolt {
                 LOG.error("INTERSECT:", e);
                 collector.reportError(e);
             }
-                LOG.info("INTERSECT: disruptions recovered: "+dists.size()+" with "+count+" polygons.");
+                LOG.info("INTERSECT: disruptions recovered: "+dists.size());
             
             //Emit unaffected arrivals.
             //Emit affected arrivals.
@@ -67,24 +70,45 @@ public class AddExclaim extends BaseBasicBolt {
         declarer.declare(new Fields("ArrivalBean"));
     }
 
-    private boolean getDisruptionAreaPolygon(Root.Disruptions.Disruption disruption) {
+    private boolean getDisruptionAreaPolygon(Disruption disruption) {
 
-        ArrayList<Root.Disruptions.Disruption.CauseArea.Boundary.Polygon> polygons;
+        
         //If polygon: check if point is inside polygon. 
         //If no polygon: lines - check if stop falls on line or distance to line segment
         //https://stackoverflow.com/questions/849211/shortest-distance-between-a-point-and-a-line-segment
+        
         try {
-            polygons = (ArrayList<Root.Disruptions.Disruption.CauseArea.Boundary.Polygon>) disruption.getCauseArea()
-                    .get(0).getBoundary().get(0).getPolygon();
-        } catch (Exception e) {
-           //LOG.info("INTERSECT: no polygon");
-            return false;
-        }
-        for (int k = 0; k < polygons.size(); k++) {
-           // LOG.info("INTERSECT: polygon cordinates are " + polygons.get(k).getCoordinatesEN() + " or "
-                  //  + polygons.get(k).getCoordinatesLL());
-        }
-        return true;
+            //Disruption either defined by streets or polygon.
+            
+                //Get the list of streets out of the (VERY) poorly named Streets data structure.
+            ArrayList<Street> streets = (ArrayList<Street>) disruption.getCauseArea()
+                    .get(0).getStreets().get(0).getStreet();
 
+            LOG.info("INTERSECT: number of streets in disruption: "+streets.size());
+                
+            for(int i =0; i<streets.size(); i++){
+                ArrayList<Street.Link> links = (ArrayList<Street.Link>) streets.get(i).getLink();
+                
+                 LOG.info("INTERSECT: number of links in disruption: "+links.size());
+                
+                for(int j =0; j<links.size(); j++){
+                   LOG.info("INTERSECT: link co-ordinates: "+links.get(i).getLine().get(0).getCoordinatesLL());
+                }
+            }
+           }catch(java.lang.IndexOutOfBoundsException e){
+                LOG.info("failed to find streets, looking for polygon.");
+                try{
+                    ArrayList<Polygon> polygons;
+                    polygons = (ArrayList<Polygon>) disruption.getCauseArea()
+                            .get(0).getBoundary().get(0).getPolygon();
+                    for (int k = 0; k < polygons.size(); k++) {
+                        LOG.info("INTERSECT: polygon cordinates are " + polygons.get(k).getCoordinatesEN() + " or "  + polygons.get(k).getCoordinatesLL());
+                    }
+                }catch(Exception e2){
+                          LOG.error("INTERSECT: "+e2);
+                }
+        }
+        
+       return false;
     }
 }
