@@ -68,6 +68,7 @@ public class PoopTopology {
         builder.setBolt("DetermineIncidentRadius", new DetermineIncidentRadius(),4).shuffleGrouping("ParsePoints");
         builder.setBolt("DetectIntersect", new DetectIntersect(), 4).shuffleGrouping("DetermineIncidentRadius");
         builder.setBolt("DetermineDisruption", new DetermineDisruption(), 4).shuffleGrouping("DetectIntersect","disruptedArrival");
+        builder.setBolt("OutputDisruption", new OutputDisruption(), 4).shuffleGrouping("DetermineDisruption");
         
         // builder.setBolt("count", new WordCount(), 4).fieldsGrouping("split",
         // new Fields("word"));

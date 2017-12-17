@@ -58,9 +58,9 @@ public class DetermineDisruption extends BaseBasicBolt {
         Double levelOfInterestMult = LEVEL_OF_INTEREST.valueOf(levelOfInterest).getNumVal();
         Double hazardMult = HAZARD.valueOf(category).getNumVal();
         
-        double result = (Math.pow(severityMult,2) + levelOfInterestMult + hazardMult) * Math.pow(distance,2);
+        double result = (Math.pow(severityMult,2) + Math.pow(levelOfInterestMult,2) + Math.pow(hazardMult,2)) * (1/distance);
         
-        double delay = result/60;
+        pair.estimatedDelay = result/60;
         
         LOG.info("DETERMINE: "+delay);
 //         if(result> 0 && < 100){
@@ -82,13 +82,13 @@ public class DetermineDisruption extends BaseBasicBolt {
 //             pair.estimatedDelay = 1500;
 //         }
         
-        
+        collector.emit("disruptedArrivalWithPrediction",new Values(pair));
         
     }
 
     @Override
     public void declareOutputFields(OutputFieldsDeclarer declarer) {
-        declarer.declare(new Fields("incident"));
+        declarer.declare(new Fields("ArrivalDisruptionPair"));
     }
 
 }

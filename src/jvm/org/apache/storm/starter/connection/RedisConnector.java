@@ -38,14 +38,17 @@ public class RedisConnector implements Serializable {
     private StatefulRedisConnection<byte[], byte[]> connection;
     private RedisCommands<byte[], byte[]> syncCommands;
     private String keyString = "IncidentKey";
-    private byte[] key;
+    private string disruptionString = "DisruptionKey"
+    private byte[] incidentKey;
+    private byte[] disruptionKey;
     private ArrayList<Root.Disruptions.Disruption> cached;
     private boolean cacheInvalid = true;
     // private RedisConnector connectorSingleton;
 
     public RedisConnector() {
         LOG.info("REDIS: instantiated");
-        key = keyString.getBytes();
+        incidentKey = keyString.getBytes();
+        disruptionKey = disruptionString.getBytes();
         makeConnection();
         cached = new ArrayList<Root.Disruptions.Disruption>();
     }
@@ -61,7 +64,7 @@ public class RedisConnector implements Serializable {
         redisClient = new RedisClient(RedisURI.create("redis://127.0.0.1:6379"));
         connection = redisClient.connect(new ByteArrayCodec());
         syncCommands = connection.sync();
-        syncCommands.del(key);
+        syncCommands.del(incidentKey);
         LOG.info("REDIS: Connected to Redis");
         
         //Periodically invalidate cache
@@ -99,7 +102,7 @@ public class RedisConnector implements Serializable {
             out.close();
             byte[] buf = bos.toByteArray();   
             //syncCommands.lPush(key, buf);
-            syncCommands.lpush(key, buf);
+            syncCommands.lpush(incidentKey, buf);
             cacheInvalid = true;
         }catch(Exception e){
              LOG.error("REDIS: "+e.toString());   
@@ -111,11 +114,11 @@ public class RedisConnector implements Serializable {
     public ArrayList<Root.Disruptions.Disruption> getIncidentArray() {
         if(cacheInvalid){
             ArrayList<Root.Disruptions.Disruption> output = new ArrayList<Root.Disruptions.Disruption>();
-            Long incidentListLength = syncCommands.llen(key);
+            Long incidentListLength = syncCommands.llen(incidentKey);
             Long start = 0L; 
 
             try {
-                List<byte[]> optionalBytes = syncCommands.lrange(key, start, incidentListLength-1);
+                List<byte[]> optionalBytes = syncCommands.lrange(incidentKey, start, incidentListLength-1);
                 if (optionalBytes.size()>0){
 
                     ArrayList<byte[]> outputBytes = (ArrayList<byte[]>)optionalBytes;
@@ -138,6 +141,61 @@ public class RedisConnector implements Serializable {
             return output;
         }else{
             return cached;
+        }
+    }
+    
+    public persistDelay(ArrivalDisruptionPair candidate){
+        
+        LOG.info("REDIS: attempting persist");
+        ArrayList<ArrivalDisruptionPair> output = new ArrayList<ArrivalDisruptionPair>();
+            Long disruptionListLength = syncCommands.llen(disruptionKey);
+            Long start = 0L; 
+        try {
+            List<byte[]> optionalBytes = syncCommands.lrange(disruptionKey, start, incidentListLength-1);
+            if (optionalBytes.size()>0){
+
+                ArrayList<byte[]> outputBytes = (ArrayList<byte[]>)optionalBytes;
+                for(int i =0; i<outputBytes.size(); i++){
+                    byte[] bytes = outputBytes.get(i);
+
+                    ByteArrayInputStream bis = new ByteArrayInputStream(bytes);
+                    ObjectInput in = new ObjectInputStream(bis);
+                    ArrivalDisruptionPair pair = (ArrivalDisruptionPair) in.readObject(); 
+                    output.add(disruptionObject);
+                }
+            }else{
+            }
+
+        } catch (Exception e) {
+               LOG.error("REDIS: "+e.toString());  
+        }
+        if(output.size()>0){
+           boolean found = false;
+           for(int i = 0; i<output.size(); i++){
+               String outputPK = output.arrivalBean.getStopCode2+""+output.arrivalBean.getVehicleID();
+               String candidatePK = candidate.arrivalBean.getStopCode2+""+candidate.arrivalBean.getVehicleID();
+              if(outputPK.equals(candidatePK)){
+                  LOG.info("REDIS: item already exists.");
+                 found = true;
+                 break;
+              }
+           }
+            if(!found){
+                LOG.info("REDIS: new item, persisting");
+                 try{
+            
+                    ByteArrayOutputStream bos = new ByteArrayOutputStream();
+                    ObjectOutputStream out = new ObjectOutputStream(bos);
+                    out.writeObject(candidate);
+                    out.close();
+                    byte[] buf = bos.toByteArray();   
+                    //syncCommands.lPush(key, buf);
+                    syncCommands.lpush(disruptionKey, buf);
+                    cacheInvalid = true;
+                }catch(Exception e){
+                     LOG.error("REDIS: "+e.toString());   
+                }
+             }
         }
     }
 
