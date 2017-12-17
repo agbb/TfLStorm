@@ -10,7 +10,8 @@ import org.apache.storm.tuple.Fields;
 import org.apache.storm.tuple.Tuple;
 import org.apache.storm.tuple.Values;
 import org.apache.storm.starter.*;
-
+import org.apache.storm.starter.data.*;
+import org.apache.storm.starter.connection.*;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.ArrayList;

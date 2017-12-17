@@ -1,6 +1,8 @@
-package org.apache.storm.starter;
+package org.apache.storm.starter.data;
 
 import java.io.Serializable;
+import org.apache.storm.starter.polygon.*;
+
 
 public class ArrivalBean implements Serializable {
     private static final long serialVersionUID = 1L;
@@ -9,8 +11,7 @@ public class ArrivalBean implements Serializable {
     String StopPointName;
 	String StopCode2;
     String Towards;
-    Double Latitude;
-    Double Longitude;
+    Point Point;
     String LineID;
     String DestinationName;
     int VehicleID;
@@ -19,14 +20,13 @@ public class ArrivalBean implements Serializable {
     int ExpireTime;
     Boolean hasExpired;
 
-    public ArrivalBean(String stopPointName, String stopCode2, String towards, Double latitude, Double longitude,
+    public ArrivalBean(String stopPointName, String stopCode2, String towards, Point point,
 			String lineID, String destinationName, int vehicleID, String registrationNumber, int estimatedTime,
 			int expireTime, Boolean hasExpired) {
 		StopPointName = stopPointName;
 		StopCode2 = stopCode2;
 		Towards = towards;
-		Latitude = latitude;
-		Longitude = longitude;
+		Point = point;
 		LineID = lineID;
 		DestinationName = destinationName;
 		VehicleID = vehicleID;
@@ -52,12 +52,8 @@ public class ArrivalBean implements Serializable {
 		return Towards;
 	}
 
-	public Double getLatitude() {
-		return Latitude;
-	}
-
-	public Double getLongitude() {
-		return Longitude;
+	public Point getCoords() {
+		return this.Point;
 	}
 
 	public String getLineID() {
@@ -100,13 +96,11 @@ public class ArrivalBean implements Serializable {
 		Towards = towards;
 	}
 
-	public void setLatitude(Double latitude) {
-		Latitude = latitude;
+	public void setCoords(Point point) {
+        
+		this.Point = point;
 	}
 
-	public void setLongitude(Double longitude) {
-		Longitude = longitude;
-	}
 
 	public void setLineID(String lineID) {
 		LineID = lineID;

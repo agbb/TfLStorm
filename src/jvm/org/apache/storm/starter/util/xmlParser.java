@@ -1,4 +1,4 @@
-package org.apache.storm.starter;
+package org.apache.storm.starter.util;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

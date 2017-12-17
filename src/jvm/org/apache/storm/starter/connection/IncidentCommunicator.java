@@ -1,4 +1,4 @@
-package org.apache.storm.starter;
+package org.apache.storm.starter.connection;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -9,6 +9,8 @@ import java.net.*;
 import java.util.ArrayList;
 import org.json.*;
 import org.apache.storm.starter.xml.*;
+import org.apache.storm.starter.data.*;
+import org.apache.storm.starter.util.*;
 
 public class IncidentCommunicator {
  

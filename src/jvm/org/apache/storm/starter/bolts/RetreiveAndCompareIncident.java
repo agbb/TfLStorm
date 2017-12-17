@@ -18,6 +18,8 @@ import org.apache.storm.utils.NimbusClient;
 import org.apache.storm.utils.Utils;
 import org.apache.storm.starter.xml.*;
 import org.apache.storm.starter.*;
+import org.apache.storm.starter.connection.*;
+import org.apache.storm.starter.util.*;
 
 import java.util.HashMap;
 import java.util.Map;

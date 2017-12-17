@@ -179,7 +179,11 @@ public class Root {
                 }
                 return this.causeArea;
             }
-
+            
+            public void nullCauseArea() {
+                causeArea = null;
+            }
+            
             public List<Root.Disruptions.Disruption.RecurringSchedule> getRecurringSchedule() {
                 if (recurringSchedule == null) {
                     recurringSchedule = new ArrayList<Root.Disruptions.Disruption.RecurringSchedule>();

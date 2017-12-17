@@ -1,4 +1,4 @@
-package org.apache.storm.starter;
+package org.apache.storm.starter.util;
 
 
 public class TimeComparitor{

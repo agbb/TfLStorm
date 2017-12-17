@@ -1,4 +1,4 @@
-package org.apache.storm.starter;
+package org.apache.storm.starter.connection;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -8,6 +8,10 @@ import java.io.*;
 import java.net.*;
 import java.util.ArrayList;
 import org.json.*;
+import org.apache.storm.starter.polygon.*;
+import org.apache.storm.starter.data.*;
+import org.apache.storm.starter.util.*;
+
 
 public class ArrivalCommunicator1 {
  
@@ -72,7 +76,7 @@ public class ArrivalCommunicator1 {
     
     private ArrayList<ArrivalBean> formatArrivalResult(String rawArrivalResult){
         String[] rows = rawArrivalResult.split("\\[");
-        LOG.info("result "+rows.length+" chars "+rawArrivalResult.length());
+        LOG.info("ARRIVAL: result "+rows.length+" chars "+rawArrivalResult.length());
         ArrayList<ArrivalBean> beansToReturn = new ArrayList<ArrivalBean>();
         for(int i =2; i<rows.length; i++){
             String row = "{data:["+rows[i]+"}";
@@ -80,17 +84,19 @@ public class ArrivalCommunicator1 {
             JSONArray jsonarray = jsonObj.getJSONArray("data");
             
             if(jsonarray.length()!=12){
-                LOG.error("Number of elements in arrival data. Expected 12, got "+jsonarray.length());
-                LOG.error("Offending Array: "+jsonarray.toString());
+                LOG.error("ARRIVAL: Number of elements in arrival data. Expected 12, got "+jsonarray.length());
+                LOG.error("ARRIVAL: Offending Array: "+jsonarray.toString());
                 continue;
             }else{
                 try{
+                    
+                    Point xy = new Point(jsonarray.getDouble(5),jsonarray.getDouble(4));
+                    xy = CoordinateConverter.convertLLtoEN(xy);
                     ArrivalBean bean = new ArrivalBean();
                     bean.setStopPointName(jsonarray.getString(1));
                     bean.setStopCode2(jsonarray.getString(2));
-                    bean.setTowards(jsonarray.getString(3));
-                    bean.setLatitude(jsonarray.getDouble(4));
-                    bean.setLongitude(jsonarray.getDouble(5));
+                    //bean.setTowards(jsonarray.getString(3));
+                    bean.setCoords(xy);
                     bean.setLineID(jsonarray.getString(6));
                     bean.setDestinationName(jsonarray.getString(7));
                     bean.setVehicleID(jsonarray.getInt(8));
@@ -99,9 +105,10 @@ public class ArrivalCommunicator1 {
                     bean.setExpireTime(jsonarray.getInt(11));
                     bean.setHasExpired(false);
                     beansToReturn.add(bean);
+
                 }catch(Exception e){
-                    //LOG.error("A JSON row item was malformed and not parsed: "+e.toString());
-                   // LOG.error("Offending Array: "+jsonarray.toString());
+                    LOG.error("ARRIVAL: "+e);
+                    //LOG.error("ARRIVAL:"+JSONArray[3]);
                 }
             }
         }
@@ -115,7 +122,7 @@ public class ArrivalCommunicator1 {
             ArrayList<ArrivalBean> beansToReturn = new ArrayList<ArrivalBean>();
             beansToReturn.addAll(beanList);
             beanList.clear();
-            LOG.info("sending "+beansToReturn.size()+" to topology");
+            LOG.info("ARRIVAL: sending "+beansToReturn.size()+" to topology");
             return beansToReturn;
         }else{
             //Just send empty list.

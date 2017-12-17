@@ -36,6 +36,8 @@ import org.apache.storm.utils.Utils;
 import org.apache.storm.starter.xml.*;
 import org.apache.storm.starter.bolts.*;
 import org.apache.storm.starter.spouts.*;
+import org.apache.storm.starter.data.*;
+
 
 import java.util.HashMap;
 import java.util.Map;
@@ -58,10 +60,13 @@ public class PoopTopology {
         builder.setSpout("ArrivalSpout", new ArrivalSpout(), 1);
         builder.setSpout("IncidentSpout", new IncidentSpout(), 1);
         
-        builder.setBolt("AddExclaim", new AddExclaim(), 4).shuffleGrouping("ArrivalSpout");
+        
         builder.setBolt("RetreiveAndCompareIncident", new RetreiveAndCompareIncident(), 4).shuffleGrouping("IncidentSpout");
         builder.setBolt("PersistIncident", new PersistIncident(), 4).shuffleGrouping("RetreiveAndCompareIncident","toPersist");
         builder.setBolt("RemoveIncident", new PersistIncident(), 4).shuffleGrouping("RetreiveAndCompareIncident","toRemove");
+        builder.setBolt("ParsePoints", new ParsePoints(), 4).shuffleGrouping("ArrivalSpout");
+        builder.setBolt("DetermineIncidentRadius", new DetermineIncidentRadius(),4).shuffleGrouping("ParsePoints");
+        builder.setBolt("DetectIntersect", new DetectIntersect(), 4).shuffleGrouping("DetermineIncidentRadius");
         
         // builder.setBolt("count", new WordCount(), 4).fieldsGrouping("split",
         // new Fields("word"));

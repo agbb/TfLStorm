@@ -1,4 +1,4 @@
-package org.apache.storm.starter;
+package org.apache.storm.starter.connection;
 
 import com.lambdaworks.redis.*;
 import com.lambdaworks.redis.RedisClient;
@@ -25,7 +25,9 @@ import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+
 import org.apache.storm.starter.xml.*;
+import org.apache.storm.starter.data.*;
 
 public class RedisConnector implements Serializable {
 
