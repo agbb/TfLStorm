@@ -72,7 +72,9 @@ public class Line {
         
     }
     
-    
+    public double getLength(){
+        return Math.hypot(_start.x-_end.x, _start.y-_end.y);
+    }
     
     private double pointToPointDistance(Point v, Point w){
        double xDist = v.x - w.x;

@@ -65,7 +65,7 @@ public class ParsePoints extends BaseBasicBolt {
                 LOG.error("POINTS:", e);
                 collector.reportError(e);
             }
-                LOG.info("POINTS: disruptions recovered: "+dists.size());
+
             
             //Emit unaffected arrivals.
             //Emit affected arrivals.

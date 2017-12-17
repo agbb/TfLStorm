@@ -59,13 +59,22 @@ public class DetectIntersect extends BaseBasicBolt {
         }
          if(minDist<distBean.getRadius()){    
              LOG.info("INTERSECT: Disruption intersect found! Raduis was"+distBean.getRadius()+ "and distance was: "+ minDist);
+             
+             ArrivalDisruptionPair newPair = new ArrivalDisruptionPair();
+             newPair.arrivalBean = arrBean;
+             newPair.disruptionBean = distBean;
+             newPair.distance = minDist;
+             collector.emit("disruptedArrival",new Values(newPair));
          }
-        //collector.emit(new Values(bean));
+        collector.emit("undisruptedArrival",new Values(arrBean));
+        
     }
 
     @Override
     public void declareOutputFields(OutputFieldsDeclarer declarer) {
-        declarer.declare(new Fields("incident"));
+        declarer.declareStream("disruptedArrival",new Fields("ArrivalDisruptionPair"));
+        declarer.declareStream("undisruptedArrival",new Fields("arrivalBean"));
+
     }
 
 }

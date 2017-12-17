@@ -47,7 +47,7 @@ public class DetermineIncidentRadius extends BaseBasicBolt {
             ParsedDisruptionBean distBean = (ParsedDisruptionBean) tuple.getValue(1);
             Disruption disruption = distBean.getDisruptionXml();
             
-            double baseline = 85.0;
+            double baseline = 100.0;
             String severity = disruption.getSeverity();
             String levelOfInterest = disruption.getLevelOfInterest();
             String category = disruption.getCategory().replaceAll(" ","");
@@ -58,7 +58,6 @@ public class DetermineIncidentRadius extends BaseBasicBolt {
             
             double radiusOutput = baseline * Math.pow(severityMult,2) * levelOfInterestMult;
             
-            LOG.info("SEVERITY "+radiusOutput+" "+severity+" "+levelOfInterest);
             distBean.setRadius(radiusOutput);
             collector.emit(new Values(arrBean,distBean));
         }

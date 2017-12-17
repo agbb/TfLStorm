@@ -107,7 +107,7 @@ public class ArrivalCommunicator1 {
                     beansToReturn.add(bean);
 
                 }catch(Exception e){
-                    LOG.error("ARRIVAL: "+e);
+                    //LOG.error("ARRIVAL: "+e);
                     //LOG.error("ARRIVAL:"+JSONArray[3]);
                 }
             }
