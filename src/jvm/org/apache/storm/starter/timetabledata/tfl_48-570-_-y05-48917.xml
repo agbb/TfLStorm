@@ -1,0 +1,5032 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TransXChange CreationDateTime="2017-12-11T17:51:35.2903888Z" ModificationDateTime="2017-12-11T17:51:35.2903888Z" Modification="new" FileName="tfl_48-570-_-y05-48917.xml" RevisionNumber="3" SchemaVersion="2.1" xml:lang="en" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.transxchange.org.uk/">
+	<NptgLocalities>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0060502</NptgLocalityRef>
+			<LocalityName>Chelsea</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034943</NptgLocalityRef>
+			<LocalityName>Pimlico (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+	</NptgLocalities>
+	<StopPoints>
+		<StopPoint CreationDateTime="2016-01-12T00:00:00">
+			<AtcoCode>490011763W</AtcoCode>
+			<Descriptor>
+				<CommonName>Royal Hospital Chelsea / Lower Sloane St</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060502</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>528105</Easting>
+					<Northing>178279</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Royal Hospital Chelsea / Lower Sloane St</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-15T00:00:00">
+			<AtcoCode>490010156S</AtcoCode>
+			<Descriptor>
+				<CommonName>National Army Museum</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060502</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>527791</Easting>
+					<Northing>177984</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>National Army Museum</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490006876S</AtcoCode>
+			<Descriptor>
+				<CommonName>Chelsea Physic Garden</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060502</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>527625</Easting>
+					<Northing>177772</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Chelsea Physic Garden</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-09-17T00:00:00">
+			<AtcoCode>490015845E</AtcoCode>
+			<Descriptor>
+				<CommonName>Bull Ring Gate</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034943</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>528219</Easting>
+					<Northing>177859</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bull Ring Gate</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-15T00:00:00">
+			<AtcoCode>490009205N</AtcoCode>
+			<Descriptor>
+				<CommonName>Lister Hospital</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034943</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>528506</Easting>
+					<Northing>177977</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Lister Hospital</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-03T00:00:00">
+			<AtcoCode>490005063N</AtcoCode>
+			<Descriptor>
+				<CommonName>Royal Hospital Chelsea</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034943</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>528271</Easting>
+					<Northing>178218</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Royal Hospital Chelsea</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-12-05T00:00:00">
+			<AtcoCode>490011763N</AtcoCode>
+			<Descriptor>
+				<CommonName>Royal Hospital Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060502</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>528088</Easting>
+					<Northing>178389</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Royal Hospital Road</Notes>
+		</StopPoint>
+	</StopPoints>
+	<RouteSections>
+		<RouteSection id="RS_48-570-_-y05-48917-O-1">
+			<RouteLink id="RL_48-570-_-y05-48917-O-1-1">
+				<From>
+					<StopPointRef>490011763W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010156S</StopPointRef>
+				</To>
+				<Distance>410</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-570-_-y05-48917-O-1-2">
+				<From>
+					<StopPointRef>490010156S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006876S</StopPointRef>
+				</To>
+				<Distance>290</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-570-_-y05-48917-O-1-3">
+				<From>
+					<StopPointRef>490006876S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015845E</StopPointRef>
+				</To>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-570-_-y05-48917-O-1-4">
+				<From>
+					<StopPointRef>490015845E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009205N</StopPointRef>
+				</To>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-570-_-y05-48917-O-1-5">
+				<From>
+					<StopPointRef>490009205N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005063N</StopPointRef>
+				</To>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-570-_-y05-48917-O-1-6">
+				<From>
+					<StopPointRef>490005063N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011763N</StopPointRef>
+				</To>
+				<Direction>outbound</Direction>
+			</RouteLink>
+		</RouteSection>
+	</RouteSections>
+	<Routes>
+		<Route id="R_48-570-_-y05-48917-O-1">
+			<PrivateCode>R_48-570-_-y05-48917-O-1</PrivateCode>
+			<Description>Royal Hospital Chelsea / Lower Sloane St - Royal Hospital Road</Description>
+			<RouteSectionRef>RS_48-570-_-y05-48917-O-1</RouteSectionRef>
+		</Route>
+	</Routes>
+	<JourneyPatternSections>
+		<JourneyPatternSection id="JPS_48-570-_-y05-48917-1-1-O">
+			<JourneyPatternTimingLink id="JPL_48-570-_-y05-48917-1-O-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490011763W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010156S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-570-_-y05-48917-O-1-1</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-570-_-y05-48917-1-O-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010156S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006876S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-570-_-y05-48917-O-1-2</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-570-_-y05-48917-1-O-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006876S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015845E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-570-_-y05-48917-O-1-3</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-570-_-y05-48917-1-O-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015845E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009205N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-570-_-y05-48917-O-1-4</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-570-_-y05-48917-1-O-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009205N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005063N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-570-_-y05-48917-O-1-5</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-570-_-y05-48917-1-O-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005063N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>setDown</Activity>
+					<StopPointRef>490011763N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-570-_-y05-48917-O-1-6</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+	</JourneyPatternSections>
+	<Operators>
+		<Operator id="OId_LG">
+			<OperatorCode>LG</OperatorCode>
+			<OperatorShortName>LONDON GENERAL TRANSPOR</OperatorShortName>
+			<OperatorNameOnLicence>LONDON GENERAL TRANSPORT SERVICES LTD</OperatorNameOnLicence>
+			<TradingName>LONDON GENERAL TRANSPORT SERVICES LTD</TradingName>
+		</Operator>
+	</Operators>
+	<Services>
+		<Service>
+			<ServiceCode>48-570-_-y05-48917</ServiceCode>
+			<PrivateCode>48-570-_-y05-48917</PrivateCode>
+			<Lines>
+				<Line id="48-570-_-y05-48917">
+					<LineName>570</LineName>
+				</Line>
+			</Lines>
+			<OperatingPeriod>
+				<StartDate>2017-12-09</StartDate>
+				<EndDate>2018-03-11</EndDate>
+			</OperatingPeriod>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToSunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<RegisteredOperatorRef>OId_LG</RegisteredOperatorRef>
+			<StopRequirements>
+				<NoNewStopsRequired />
+			</StopRequirements>
+			<Mode>bus</Mode>
+			<Description>Lower Sloane Street and Royal Hospital Road Circular</Description>
+			<StandardService>
+				<Origin>Royal Hospital Chelsea / Lower Sloane St</Origin>
+				<Destination>Royal Hospital Road</Destination>
+				<JourneyPattern id="JP_48-570-_-y05-48917-1-O-1">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_48-570-_-y05-48917-O-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_48-570-_-y05-48917-1-1-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+			</StandardService>
+		</Service>
+	</Services>
+	<VehicleJourneys>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-1-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-1-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>06:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-3-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-3-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>06:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-5-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-5-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>06:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-7-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-7-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>07:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-9-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-9-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>07:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-11-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-11-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>08:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-13-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-13-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>08:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-15-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-15-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>08:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-17-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-17-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>09:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-19-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-19-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>09:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-21-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-21-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-23-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-23-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-25-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-25-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-27-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-27-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>11:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-29-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-29-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>11:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-31-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-31-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-33-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-33-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-35-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-35-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-37-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-37-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>13:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-39-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-39-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>13:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-41-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-41-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-43-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-43-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-45-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-45-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-47-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-47-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-49-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-49-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-51-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-51-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>16:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-53-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-53-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>16:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-55-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-55-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>16:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-57-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-57-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>17:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-59-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-59-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>17:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-61-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-61-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>18:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-63-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-63-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>18:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-65-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-65-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>18:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-67-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-67-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>19:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-69-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-69-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>19:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-71-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-71-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>20:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-73-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-73-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>20:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-75-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-75-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>20:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-77-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-77-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>21:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-79-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-79-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>21:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-81-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-81-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>22:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-83-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-83-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>22:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-85-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-85-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>22:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-87-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-87-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>23:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-89-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-89-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>23:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-91-MF</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Tuesday />
+						<Wednesday />
+						<Thursday />
+						<Friday />
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-09</StartDate>
+							<EndDate>2017-12-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-01-02</StartDate>
+							<EndDate>2018-01-02</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-91-MF</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>00:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-1-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-1-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>06:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-3-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-3-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>06:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-5-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-5-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>06:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-7-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-7-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>07:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-9-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-9-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>07:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-11-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-11-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>08:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-13-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-13-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>08:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-15-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-15-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>08:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-17-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-17-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>09:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-19-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-19-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>09:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-21-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-21-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-23-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-23-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-25-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-25-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-27-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-27-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>11:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-29-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-29-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>11:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-31-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-31-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-33-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-33-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-35-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-35-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-37-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-37-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>13:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-39-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-39-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>13:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-41-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-41-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-43-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-43-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-45-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-45-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-47-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-47-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-49-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-49-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-51-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-51-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>16:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-53-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-53-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>16:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-55-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-55-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>16:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-57-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-57-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>17:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-59-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-59-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>17:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-61-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-61-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>18:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-63-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-63-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>18:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-65-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-65-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>18:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-67-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-67-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>19:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-69-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-69-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>19:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-71-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-71-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>20:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-73-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-73-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>20:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-75-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-75-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>20:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-77-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-77-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>21:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-79-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-79-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>21:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-81-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-81-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>22:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-83-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-83-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>22:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-85-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-85-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>22:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-87-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-87-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>23:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-89-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-89-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>23:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-91-Sa</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-28</StartDate>
+							<EndDate>2017-12-30</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-91-Sa</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>00:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-1-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-1-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>06:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-3-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-3-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>06:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-5-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-5-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>06:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-7-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-7-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>07:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-9-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-9-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>07:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-11-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-11-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>08:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-13-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-13-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>08:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-15-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-15-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>08:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-17-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-17-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>09:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-19-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-19-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>09:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-21-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-21-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-23-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-23-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-25-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-25-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-27-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-27-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>11:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-29-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-29-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>11:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-31-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-31-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-33-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-33-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-35-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-35-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-37-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-37-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>13:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-39-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-39-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>13:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-41-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-41-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-43-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-43-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-45-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-45-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-47-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-47-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-49-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-49-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-51-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-51-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>16:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-53-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-53-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>16:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-55-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-55-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>16:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-57-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-57-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>17:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-59-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-59-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>17:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-61-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-61-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>18:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-63-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-63-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>18:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-65-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-65-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>18:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-67-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-67-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>19:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-69-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-69-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>19:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-71-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-71-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>20:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-73-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-73-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>20:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-75-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-75-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>20:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-77-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-77-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>21:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-79-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-79-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>21:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-81-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-81-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>22:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-83-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-83-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>22:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-85-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-85-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>22:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-87-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-87-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>23:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-89-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Sunday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-89-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>23:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-570-_-y05-48917-91-Su</PrivateCode>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Monday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-01-02</StartDate>
+							<EndDate>2018-01-02</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<ChristmasDay />
+						<NewYearsDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<BoxingDay />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-570-_-y05-48917-91-Su</VehicleJourneyCode>
+			<ServiceRef>48-570-_-y05-48917</ServiceRef>
+			<LineRef>48-570-_-y05-48917</LineRef>
+			<JourneyPatternRef>JP_48-570-_-y05-48917-1-O-1</JourneyPatternRef>
+			<DepartureTime>00:00:00</DepartureTime>
+		</VehicleJourney>
+	</VehicleJourneys>
+</TransXChange>

@@ -38,11 +38,13 @@ public class RedisConnector implements Serializable {
     private StatefulRedisConnection<byte[], byte[]> connection;
     private RedisCommands<byte[], byte[]> syncCommands;
     private String keyString = "IncidentKey";
-    private string disruptionString = "DisruptionKey"
+    private String disruptionString = "DisruptionKey";
     private byte[] incidentKey;
     private byte[] disruptionKey;
-    private ArrayList<Root.Disruptions.Disruption> cached;
-    private boolean cacheInvalid = true;
+    private ArrayList<Root.Disruptions.Disruption> cachedIncidents;
+    ArrayList<ArrivalDisruptionPair> cachedPairs;
+    private boolean incidentCacheInvalid = true;
+    private boolean pairCacheInvalid = true;
     // private RedisConnector connectorSingleton;
 
     public RedisConnector() {
@@ -50,7 +52,8 @@ public class RedisConnector implements Serializable {
         incidentKey = keyString.getBytes();
         disruptionKey = disruptionString.getBytes();
         makeConnection();
-        cached = new ArrayList<Root.Disruptions.Disruption>();
+        cachedIncidents = new ArrayList<Root.Disruptions.Disruption>();
+        cachedPairs = new ArrayList<ArrivalDisruptionPair>();
     }
 
     // public static RedisConnector getInstance(){
@@ -65,6 +68,7 @@ public class RedisConnector implements Serializable {
         connection = redisClient.connect(new ByteArrayCodec());
         syncCommands = connection.sync();
         syncCommands.del(incidentKey);
+        syncCommands.del(disruptionKey);
         LOG.info("REDIS: Connected to Redis");
         
         //Periodically invalidate cache
@@ -73,7 +77,7 @@ public class RedisConnector implements Serializable {
 
             @Override
             public void run() {
-                 cacheInvalid = true;
+                 incidentCacheInvalid = true;
             }
          }, 10000,10000);
     }
@@ -94,7 +98,10 @@ public class RedisConnector implements Serializable {
 
     public void persistIncident(Root.Disruptions.Disruption disruption){
         
+        incidentCacheInvalid = true;
+        
         try{
+            
             
             ByteArrayOutputStream bos = new ByteArrayOutputStream();
             ObjectOutputStream out = new ObjectOutputStream(bos);
@@ -103,16 +110,23 @@ public class RedisConnector implements Serializable {
             byte[] buf = bos.toByteArray();   
             //syncCommands.lPush(key, buf);
             syncCommands.lpush(incidentKey, buf);
-            cacheInvalid = true;
+            
         }catch(Exception e){
              LOG.error("REDIS: "+e.toString());   
         }
     }
     
-    
+    public void invalidateIncidentCache(){
+       incidentCacheInvalid = true;
+    }
+    public void invalidatePairCache(){
+       pairCacheInvalid = true;
+    }
     
     public ArrayList<Root.Disruptions.Disruption> getIncidentArray() {
-        if(cacheInvalid){
+        
+        
+        if(incidentCacheInvalid){
             ArrayList<Root.Disruptions.Disruption> output = new ArrayList<Root.Disruptions.Disruption>();
             Long incidentListLength = syncCommands.llen(incidentKey);
             Long start = 0L; 
@@ -130,73 +144,66 @@ public class RedisConnector implements Serializable {
                         Root.Disruptions.Disruption disruptionObject = (Root.Disruptions.Disruption) in.readObject(); 
                         output.add(disruptionObject);
                     }
-                }else{
                 }
-
-            } catch (Exception e) {
-                   LOG.error("REDIS: "+e.toString());  
+            }catch (Exception e) {
+                 LOG.error("REDIS: "+e.toString());  
             }
-            cached = output;
-            cacheInvalid = false;
+            cachedIncidents = output;
+            incidentCacheInvalid = false;
             return output;
         }else{
-            return cached;
+            return cachedIncidents;
         }
     }
     
-    public persistDelay(ArrivalDisruptionPair candidate){
+    public ArrayList<ArrivalDisruptionPair> getDisruption(){
         
-        LOG.info("REDIS: attempting persist");
+        
         ArrayList<ArrivalDisruptionPair> output = new ArrayList<ArrivalDisruptionPair>();
-            Long disruptionListLength = syncCommands.llen(disruptionKey);
-            Long start = 0L; 
-        try {
-            List<byte[]> optionalBytes = syncCommands.lrange(disruptionKey, start, incidentListLength-1);
-            if (optionalBytes.size()>0){
+        Long disruptionListLength = syncCommands.llen(disruptionKey);
+        LOG.info("REDIS: attempting persist. Existing Length: "+disruptionListLength);
+        Long start = 0L; 
+        
+        if(false){//!pairCacheInvalid){
+         return cachedPairs;   
+        }else{
 
-                ArrayList<byte[]> outputBytes = (ArrayList<byte[]>)optionalBytes;
-                for(int i =0; i<outputBytes.size(); i++){
-                    byte[] bytes = outputBytes.get(i);
+            try {
+                List<byte[]> optionalBytes = syncCommands.lrange(disruptionKey, start, disruptionListLength-1);
+                if (optionalBytes.size()>0){
+                    ArrayList<byte[]> outputBytes = (ArrayList<byte[]>)optionalBytes;
+                    for(int i =0; i<outputBytes.size(); i++){
+                        byte[] bytes = outputBytes.get(i);
 
-                    ByteArrayInputStream bis = new ByteArrayInputStream(bytes);
-                    ObjectInput in = new ObjectInputStream(bis);
-                    ArrivalDisruptionPair pair = (ArrivalDisruptionPair) in.readObject(); 
-                    output.add(disruptionObject);
+                        ByteArrayInputStream bis = new ByteArrayInputStream(bytes);
+                        ObjectInput in = new ObjectInputStream(bis);
+                        ArrivalDisruptionPair pair = (ArrivalDisruptionPair) in.readObject(); 
+                        output.add(pair);
+                    }
                 }
-            }else{
+            }catch (Exception e) {
+                LOG.error("REDIS: "+e.toString());  
             }
-
-        } catch (Exception e) {
-               LOG.error("REDIS: "+e.toString());  
         }
-        if(output.size()>0){
-           boolean found = false;
-           for(int i = 0; i<output.size(); i++){
-               String outputPK = output.arrivalBean.getStopCode2+""+output.arrivalBean.getVehicleID();
-               String candidatePK = candidate.arrivalBean.getStopCode2+""+candidate.arrivalBean.getVehicleID();
-              if(outputPK.equals(candidatePK)){
-                  LOG.info("REDIS: item already exists.");
-                 found = true;
-                 break;
-              }
-           }
-            if(!found){
-                LOG.info("REDIS: new item, persisting");
-                 try{
-            
-                    ByteArrayOutputStream bos = new ByteArrayOutputStream();
-                    ObjectOutputStream out = new ObjectOutputStream(bos);
-                    out.writeObject(candidate);
-                    out.close();
-                    byte[] buf = bos.toByteArray();   
-                    //syncCommands.lPush(key, buf);
-                    syncCommands.lpush(disruptionKey, buf);
-                    cacheInvalid = true;
-                }catch(Exception e){
-                     LOG.error("REDIS: "+e.toString());   
-                }
-             }
+        cachedPairs = output;
+        pairCacheInvalid = false;
+        return output;
+    }
+    
+    public void persistDisruption(ArrivalDisruptionPair candidate){
+   
+        LOG.info("REDIS: new disruption, persisting");
+         try{
+            ByteArrayOutputStream bos = new ByteArrayOutputStream();
+            ObjectOutputStream out = new ObjectOutputStream(bos);
+            out.writeObject(candidate);
+            out.close();
+            byte[] buf = bos.toByteArray();   
+            syncCommands.lpush(disruptionKey, buf);
+            pairCacheInvalid = true;
+        }catch(Exception e){
+             LOG.error("REDIS: "+e.toString());   
         }
     }
-
+    
 }

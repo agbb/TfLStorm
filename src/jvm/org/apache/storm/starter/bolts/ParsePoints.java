@@ -45,6 +45,7 @@ public class ParsePoints extends BaseBasicBolt {
         public void execute(Tuple tuple, BasicOutputCollector collector) {
             ArrayList<Disruption> dists = RConnect.getIncidentArray();
             int count = 0;
+            LOG.info("PARSE: comapring arrival to: "+dists.size());
             try {
                 ArrivalBean bean = (ArrivalBean) tuple.getValue(0);
                 
@@ -55,7 +56,7 @@ public class ParsePoints extends BaseBasicBolt {
                         ParsedDisruptionBean distBean = new ParsedDisruptionBean();
                         distBean.setDisruptionXml(dists.get(i));
                         distBean.setPointList(points);
-                        //Save space.
+                        //Save memory.
                         distBean.getDisruptionXml().nullCauseArea();
                         collector.emit(new Values(bean,distBean));
                     }

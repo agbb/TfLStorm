@@ -1,0 +1,920 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TransXChange CreationDateTime="2017-12-11T18:14:40.1431464Z" ModificationDateTime="2017-12-11T18:14:40.1431464Z" Modification="new" FileName="tfl_54-609-_-y05-46763.xml" RevisionNumber="3" SchemaVersion="2.1" xml:lang="en" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.transxchange.org.uk/">
+	<NptgLocalities>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034751</NptgLocalityRef>
+			<LocalityName>Barnes</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0060449</NptgLocalityRef>
+			<LocalityName>Hammersmith (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034767</NptgLocalityRef>
+			<LocalityName>Mortlake</LocalityName>
+		</AnnotatedNptgLocalityRef>
+	</NptgLocalities>
+	<StopPoints>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490007840S</AtcoCode>
+			<Descriptor>
+				<CommonName>Harrodian School</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034751</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>521834</Easting>
+					<Northing>177300</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Harrodian School</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490018948N</AtcoCode>
+			<Descriptor>
+				<CommonName>Hammersmith Bridge /North Side</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060449</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>523051</Easting>
+					<Northing>178231</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hammersmith Bridge /North Side</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-06-10T00:00:00">
+			<AtcoCode>490007703M</AtcoCode>
+			<Descriptor>
+				<CommonName>Hammersmith Bridge Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060449</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>523268</Easting>
+					<Northing>178513</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hammersmith Bridge Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-20T00:00:00">
+			<AtcoCode>490007705J</AtcoCode>
+			<Descriptor>
+				<CommonName>Hammersmith Bus Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060449</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>523428</Easting>
+					<Northing>178603</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hammersmith Bus Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-06-10T00:00:00">
+			<AtcoCode>490007703K</AtcoCode>
+			<Descriptor>
+				<CommonName>Hammersmith Bridge Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060449</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>523213</Easting>
+					<Northing>178450</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hammersmith Bridge Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-24T00:00:00">
+			<AtcoCode>490015770L</AtcoCode>
+			<Descriptor>
+				<CommonName>Hammersmith Bridge</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060449</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>523093</Easting>
+					<Northing>178269</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hammersmith Bridge</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-11-06T00:00:00">
+			<AtcoCode>490009353W</AtcoCode>
+			<Descriptor>
+				<CommonName>Lonsdale Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034751</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>522810</Easting>
+					<Northing>177821</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Lonsdale Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-09-09T00:00:00">
+			<AtcoCode>490001015BJ</AtcoCode>
+			<Descriptor>
+				<CommonName>Barnes Bridge</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034751</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>521447</Easting>
+					<Northing>176304</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Barnes Bridge</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-26T00:00:00">
+			<AtcoCode>490014596W</AtcoCode>
+			<Descriptor>
+				<CommonName>White Hart Lane (SW14)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034767</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>521178</Easting>
+					<Northing>176027</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>White Hart Lane (SW14)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-05-25T00:00:00">
+			<AtcoCode>490006144S</AtcoCode>
+			<Descriptor>
+				<CommonName>Avondale Road_ Mortlake</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034767</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>520968</Easting>
+					<Northing>175954</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Avondale Road, Mortlake</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-16T00:00:00">
+			<AtcoCode>490006144N</AtcoCode>
+			<Descriptor>
+				<CommonName>Mortlake Bus Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034767</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>521008</Easting>
+					<Northing>175773</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Mortlake Bus Station</Notes>
+		</StopPoint>
+	</StopPoints>
+	<RouteSections>
+		<RouteSection id="RS_54-609-_-y05-46763-O-1">
+			<RouteLink id="RL_54-609-_-y05-46763-O-1-1">
+				<From>
+					<StopPointRef>490007840S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490018948N</StopPointRef>
+				</To>
+				<Distance>1738</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-609-_-y05-46763-O-1-2">
+				<From>
+					<StopPointRef>490018948N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007703M</StopPointRef>
+				</To>
+				<Distance>424</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-609-_-y05-46763-O-1-3">
+				<From>
+					<StopPointRef>490007703M</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007705J</StopPointRef>
+				</To>
+				<Distance>311</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+		</RouteSection>
+		<RouteSection id="RS_54-609-_-y05-46763-I-2">
+			<RouteLink id="RL_54-609-_-y05-46763-I-2-1">
+				<From>
+					<StopPointRef>490007705J</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007703K</StopPointRef>
+				</To>
+				<Distance>550</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-609-_-y05-46763-I-2-2">
+				<From>
+					<StopPointRef>490007703K</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015770L</StopPointRef>
+				</To>
+				<Distance>221</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-609-_-y05-46763-I-2-3">
+				<From>
+					<StopPointRef>490015770L</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009353W</StopPointRef>
+				</To>
+				<Distance>530</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-609-_-y05-46763-I-2-4">
+				<From>
+					<StopPointRef>490009353W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007840S</StopPointRef>
+				</To>
+				<Distance>1262</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-609-_-y05-46763-I-2-5">
+				<From>
+					<StopPointRef>490007840S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001015BJ</StopPointRef>
+				</To>
+				<Distance>1082</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-609-_-y05-46763-I-2-6">
+				<From>
+					<StopPointRef>490001015BJ</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014596W</StopPointRef>
+				</To>
+				<Distance>400</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-609-_-y05-46763-I-2-7">
+				<From>
+					<StopPointRef>490014596W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006144S</StopPointRef>
+				</To>
+				<Distance>307</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-609-_-y05-46763-I-2-8">
+				<From>
+					<StopPointRef>490006144S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006144N</StopPointRef>
+				</To>
+				<Distance>126</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+		</RouteSection>
+		<RouteSection id="RS_54-609-_-y05-46763-I-3">
+			<RouteLink id="RL_54-609-_-y05-46763-I-3-1">
+				<From>
+					<StopPointRef>490007705J</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007703K</StopPointRef>
+				</To>
+				<Distance>550</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-609-_-y05-46763-I-3-2">
+				<From>
+					<StopPointRef>490007703K</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015770L</StopPointRef>
+				</To>
+				<Distance>221</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-609-_-y05-46763-I-3-3">
+				<From>
+					<StopPointRef>490015770L</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009353W</StopPointRef>
+				</To>
+				<Distance>530</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-609-_-y05-46763-I-3-4">
+				<From>
+					<StopPointRef>490009353W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007840S</StopPointRef>
+				</To>
+				<Distance>1262</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+		</RouteSection>
+	</RouteSections>
+	<Routes>
+		<Route id="R_54-609-_-y05-46763-O-1">
+			<PrivateCode>R_54-609-_-y05-46763-O-1</PrivateCode>
+			<Description>Harrodian School - Hammersmith Bus Station</Description>
+			<RouteSectionRef>RS_54-609-_-y05-46763-O-1</RouteSectionRef>
+		</Route>
+		<Route id="R_54-609-_-y05-46763-I-2">
+			<PrivateCode>R_54-609-_-y05-46763-I-2</PrivateCode>
+			<Description>Hammersmith Bus Station - Mortlake Bus Station</Description>
+			<RouteSectionRef>RS_54-609-_-y05-46763-I-2</RouteSectionRef>
+		</Route>
+		<Route id="R_54-609-_-y05-46763-I-3">
+			<PrivateCode>R_54-609-_-y05-46763-I-3</PrivateCode>
+			<Description>Hammersmith Bus Station - Harrodian School</Description>
+			<RouteSectionRef>RS_54-609-_-y05-46763-I-3</RouteSectionRef>
+		</Route>
+	</Routes>
+	<JourneyPatternSections>
+		<JourneyPatternSection id="JPS_54-609-_-y05-46763-1-1-O">
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-1-O-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490007840S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018948N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-O-1-1</RouteLinkRef>
+				<RunTime>PT3M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-1-O-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018948N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007703M</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-O-1-2</RouteLinkRef>
+				<RunTime>PT3M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-1-O-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007703M</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>setDown</Activity>
+					<StopPointRef>490007705J</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-O-1-3</RouteLinkRef>
+				<RunTime>PT3M20S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_54-609-_-y05-46763-2-2-I">
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-2-I-2-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490007705J</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007703K</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-I-2-1</RouteLinkRef>
+				<RunTime>PT2M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-2-I-2-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007703K</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015770L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-I-2-2</RouteLinkRef>
+				<RunTime>PT2M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-2-I-2-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015770L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009353W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-I-2-3</RouteLinkRef>
+				<RunTime>PT2M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-2-I-2-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009353W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007840S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-I-2-4</RouteLinkRef>
+				<RunTime>PT6M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-2-I-2-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007840S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001015BJ</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-I-2-5</RouteLinkRef>
+				<RunTime>PT1M45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-2-I-2-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001015BJ</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014596W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-I-2-6</RouteLinkRef>
+				<RunTime>PT1M45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-2-I-2-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014596W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006144S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-I-2-7</RouteLinkRef>
+				<RunTime>PT1M45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-2-I-2-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006144S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>setDown</Activity>
+					<StopPointRef>490006144N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-I-2-8</RouteLinkRef>
+				<RunTime>PT1M45S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_54-609-_-y05-46763-3-3-I">
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-3-I-3-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490007705J</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007703K</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-I-3-1</RouteLinkRef>
+				<RunTime>PT2M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-3-I-3-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007703K</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015770L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-I-3-2</RouteLinkRef>
+				<RunTime>PT2M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-3-I-3-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015770L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009353W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-I-3-3</RouteLinkRef>
+				<RunTime>PT2M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-609-_-y05-46763-3-I-3-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009353W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>setDown</Activity>
+					<StopPointRef>490007840S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-609-_-y05-46763-I-3-4</RouteLinkRef>
+				<RunTime>PT7M</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+	</JourneyPatternSections>
+	<Operators>
+		<Operator id="OId_ML">
+			<OperatorCode>ML</OperatorCode>
+			<OperatorShortName>METROLINE TRAVEL LIMITED</OperatorShortName>
+			<OperatorNameOnLicence>METROLINE TRAVEL LIMITED</OperatorNameOnLicence>
+			<TradingName>METROLINE TRAVEL LIMITED</TradingName>
+		</Operator>
+	</Operators>
+	<Services>
+		<Service>
+			<ServiceCode>54-609-_-y05-46763</ServiceCode>
+			<PrivateCode>54-609-_-y05-46763</PrivateCode>
+			<Lines>
+				<Line id="54-609-_-y05-46763">
+					<LineName>609</LineName>
+				</Line>
+			</Lines>
+			<OperatingPeriod>
+				<StartDate>2017-12-11</StartDate>
+				<EndDate>2018-12-21</EndDate>
+			</OperatingPeriod>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-12</StartDate>
+							<EndDate>2018-02-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-03</StartDate>
+							<EndDate>2018-04-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-09</StartDate>
+							<EndDate>2018-04-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-05-29</StartDate>
+							<EndDate>2018-06-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-23</StartDate>
+							<EndDate>2018-07-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-30</StartDate>
+							<EndDate>2018-08-03</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-06</StartDate>
+							<EndDate>2018-08-10</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-13</StartDate>
+							<EndDate>2018-08-17</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-20</StartDate>
+							<EndDate>2018-08-24</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-28</StartDate>
+							<EndDate>2018-08-31</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<RegisteredOperatorRef>OId_ML</RegisteredOperatorRef>
+			<StopRequirements>
+				<NoNewStopsRequired />
+			</StopRequirements>
+			<Mode>bus</Mode>
+			<Description>Harrodian School - Hammersmith</Description>
+			<StandardService>
+				<Origin>Harrodian School</Origin>
+				<Destination>Hammersmith Bus Station</Destination>
+				<JourneyPattern id="JP_54-609-_-y05-46763-1-O-1">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-609-_-y05-46763-O-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-609-_-y05-46763-1-1-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_54-609-_-y05-46763-2-I-2">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-609-_-y05-46763-I-2</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-609-_-y05-46763-2-2-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_54-609-_-y05-46763-3-I-3">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-609-_-y05-46763-I-3</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-609-_-y05-46763-3-3-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+			</StandardService>
+		</Service>
+	</Services>
+	<VehicleJourneys>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-609-_-y05-46763-1-MFSc</PrivateCode>
+			<DestinationDisplay>Hammersmith</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_54-609-_-y05-46763-1-MFSc</VehicleJourneyCode>
+			<ServiceRef>54-609-_-y05-46763</ServiceRef>
+			<LineRef>54-609-_-y05-46763</LineRef>
+			<JourneyPatternRef>JP_54-609-_-y05-46763-1-O-1</JourneyPatternRef>
+			<DepartureTime>16:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-609-_-y05-46763-2-MFSc</PrivateCode>
+			<DestinationDisplay>Mortlake</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_54-609-_-y05-46763-2-MFSc</VehicleJourneyCode>
+			<ServiceRef>54-609-_-y05-46763</ServiceRef>
+			<LineRef>54-609-_-y05-46763</LineRef>
+			<JourneyPatternRef>JP_54-609-_-y05-46763-2-I-2</JourneyPatternRef>
+			<DepartureTime>07:50:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-609-_-y05-46763-3-MFSc</PrivateCode>
+			<DestinationDisplay>Hammersmith</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_54-609-_-y05-46763-3-MFSc</VehicleJourneyCode>
+			<ServiceRef>54-609-_-y05-46763</ServiceRef>
+			<LineRef>54-609-_-y05-46763</LineRef>
+			<JourneyPatternRef>JP_54-609-_-y05-46763-1-O-1</JourneyPatternRef>
+			<DepartureTime>16:50:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-609-_-y05-46763-4-MFSc</PrivateCode>
+			<DestinationDisplay>Mortlake</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_54-609-_-y05-46763-4-MFSc</VehicleJourneyCode>
+			<ServiceRef>54-609-_-y05-46763</ServiceRef>
+			<LineRef>54-609-_-y05-46763</LineRef>
+			<JourneyPatternRef>JP_54-609-_-y05-46763-2-I-2</JourneyPatternRef>
+			<DepartureTime>08:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-609-_-y05-46763-6-MFSc</PrivateCode>
+			<DestinationDisplay>Mortlake</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_54-609-_-y05-46763-6-MFSc</VehicleJourneyCode>
+			<ServiceRef>54-609-_-y05-46763</ServiceRef>
+			<LineRef>54-609-_-y05-46763</LineRef>
+			<JourneyPatternRef>JP_54-609-_-y05-46763-2-I-2</JourneyPatternRef>
+			<DepartureTime>08:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-609-_-y05-46763-8-MFSc</PrivateCode>
+			<DestinationDisplay>Harrodian School</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_54-609-_-y05-46763-8-MFSc</VehicleJourneyCode>
+			<ServiceRef>54-609-_-y05-46763</ServiceRef>
+			<LineRef>54-609-_-y05-46763</LineRef>
+			<JourneyPatternRef>JP_54-609-_-y05-46763-3-I-3</JourneyPatternRef>
+			<DepartureTime>16:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-609-_-y05-46763-10-MFSc</PrivateCode>
+			<DestinationDisplay>Harrodian School</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_54-609-_-y05-46763-10-MFSc</VehicleJourneyCode>
+			<ServiceRef>54-609-_-y05-46763</ServiceRef>
+			<LineRef>54-609-_-y05-46763</LineRef>
+			<JourneyPatternRef>JP_54-609-_-y05-46763-3-I-3</JourneyPatternRef>
+			<DepartureTime>16:33:00</DepartureTime>
+		</VehicleJourney>
+	</VehicleJourneys>
+</TransXChange>

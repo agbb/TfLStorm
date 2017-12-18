@@ -1,0 +1,2769 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TransXChange CreationDateTime="2017-12-11T17:50:37.1536952Z" ModificationDateTime="2017-12-11T17:50:37.1536952Z" Modification="new" FileName="tfl_48-399-_-y05-41923.xml" RevisionNumber="3" SchemaVersion="2.1" xml:lang="en" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.transxchange.org.uk/">
+	<NptgLocalities>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0060454</NptgLocalityRef>
+			<LocalityName>High Barnet</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0033967</NptgLocalityRef>
+			<LocalityName>Hadley (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0033977</NptgLocalityRef>
+			<LocalityName>Monken Hadley</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034302</NptgLocalityRef>
+			<LocalityName>Hadley Wood</LocalityName>
+		</AnnotatedNptgLocalityRef>
+	</NptgLocalities>
+	<StopPoints>
+		<StopPoint CreationDateTime="2015-06-05T00:00:00">
+			<AtcoCode>490013559S</AtcoCode>
+			<Descriptor>
+				<CommonName>The Spires</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060454</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524336</Easting>
+					<Northing>196823</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Spires</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-16T00:00:00">
+			<AtcoCode>490011868T</AtcoCode>
+			<Descriptor>
+				<CommonName>Salisbury Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060454</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524311</Easting>
+					<Northing>196655</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Salisbury Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-25T00:00:00">
+			<AtcoCode>490012515A</AtcoCode>
+			<Descriptor>
+				<CommonName>St Albans Road Hadley Green</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033967</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524480</Easting>
+					<Northing>196857</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>St Albans Road Hadley Green</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-19T00:00:00">
+			<AtcoCode>490007631N</AtcoCode>
+			<Descriptor>
+				<CommonName>Hadley Green</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033967</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524544</Easting>
+					<Northing>197096</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hadley Green</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-09T00:00:00">
+			<AtcoCode>490006280N</AtcoCode>
+			<Descriptor>
+				<CommonName>Dury Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033977</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524653</Easting>
+					<Northing>197544</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Dury Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490020373E</AtcoCode>
+			<Descriptor>
+				<CommonName>Convent Close</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033977</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524798</Easting>
+					<Northing>197486</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Convent Close</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-06T00:00:00">
+			<AtcoCode>490009971E</AtcoCode>
+			<Descriptor>
+				<CommonName>Monken Hadley Church</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033977</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524996</Easting>
+					<Northing>197392</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Monken Hadley Church</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-28T00:00:00">
+			<AtcoCode>490020374E</AtcoCode>
+			<Descriptor>
+				<CommonName>Monken Hadley C of E School</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033977</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525281</Easting>
+					<Northing>197519</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Monken Hadley C of E School</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490019552E</AtcoCode>
+			<Descriptor>
+				<CommonName>Pagitts Grove</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525707</Easting>
+					<Northing>197721</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Pagitts Grove</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490023075E</AtcoCode>
+			<Descriptor>
+				<CommonName>Broadgates Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525926</Easting>
+					<Northing>197813</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Broadgates Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490005750E1</AtcoCode>
+			<Descriptor>
+				<CommonName>Parkgate Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>526349</Easting>
+					<Northing>197958</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Parkgate Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-10T00:00:00">
+			<AtcoCode>490018566E</AtcoCode>
+			<Descriptor>
+				<CommonName>Camlet Way / Beech Hill Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>526373</Easting>
+					<Northing>197961</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Camlet Way / Beech Hill Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490019554S</AtcoCode>
+			<Descriptor>
+				<CommonName>Newmans Way</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>526386</Easting>
+					<Northing>197641</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Newmans Way</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490019555E</AtcoCode>
+			<Descriptor>
+				<CommonName>Greenbrook Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>526569</Easting>
+					<Northing>197661</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Greenbrook Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490019556N</AtcoCode>
+			<Descriptor>
+				<CommonName>Wood Ride</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>526622</Easting>
+					<Northing>197931</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Wood Ride</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490020376E</AtcoCode>
+			<Descriptor>
+				<CommonName>Hadley Wood Golf Club</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>527032</Easting>
+					<Northing>198049</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hadley Wood Golf Club</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490019558E</AtcoCode>
+			<Descriptor>
+				<CommonName>Beech Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>527474</Easting>
+					<Northing>198151</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Beech Hill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490008929W</AtcoCode>
+			<Descriptor>
+				<CommonName>Lancaster Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>527196</Easting>
+					<Northing>198235</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Lancaster Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490019560W</AtcoCode>
+			<Descriptor>
+				<CommonName>Duchy Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>526763</Easting>
+					<Northing>198222</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Duchy Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-09-01T00:00:00">
+			<AtcoCode>490001130W</AtcoCode>
+			<Descriptor>
+				<CommonName>Hadley Wood</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>526231</Easting>
+					<Northing>198177</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hadley Wood</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-06T00:00:00">
+			<AtcoCode>490005750S</AtcoCode>
+			<Descriptor>
+				<CommonName>Crescent West</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>526054</Easting>
+					<Northing>197915</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Crescent West</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490023075W</AtcoCode>
+			<Descriptor>
+				<CommonName>Broadgates Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525923</Easting>
+					<Northing>197792</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Broadgates Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490019552W</AtcoCode>
+			<Descriptor>
+				<CommonName>Pagitts Grove</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034302</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525715</Easting>
+					<Northing>197681</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Pagitts Grove</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-28T00:00:00">
+			<AtcoCode>490020374W</AtcoCode>
+			<Descriptor>
+				<CommonName>Monken Hadley C of E School</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033977</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525369</Easting>
+					<Northing>197514</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Monken Hadley C of E School</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-06T00:00:00">
+			<AtcoCode>490009971W</AtcoCode>
+			<Descriptor>
+				<CommonName>Monken Hadley Church</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033977</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524963</Easting>
+					<Northing>197406</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Monken Hadley Church</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-07T00:00:00">
+			<AtcoCode>490020373W</AtcoCode>
+			<Descriptor>
+				<CommonName>Convent Close</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033977</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524763</Easting>
+					<Northing>197468</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Convent Close</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-09T00:00:00">
+			<AtcoCode>490006280S</AtcoCode>
+			<Descriptor>
+				<CommonName>Dury Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033977</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524663</Easting>
+					<Northing>197530</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Dury Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-19T00:00:00">
+			<AtcoCode>490007631S</AtcoCode>
+			<Descriptor>
+				<CommonName>Hadley Green</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033967</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524552</Easting>
+					<Northing>197053</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hadley Green</Notes>
+		</StopPoint>
+	</StopPoints>
+	<RouteSections>
+		<RouteSection id="RS_48-399-_-y05-41923-O-1">
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-1">
+				<From>
+					<StopPointRef>490013559S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011868T</StopPointRef>
+				</To>
+				<Distance>208</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-2">
+				<From>
+					<StopPointRef>490011868T</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012515A</StopPointRef>
+				</To>
+				<Distance>347</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-3">
+				<From>
+					<StopPointRef>490012515A</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007631N</StopPointRef>
+				</To>
+				<Distance>300</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-4">
+				<From>
+					<StopPointRef>490007631N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006280N</StopPointRef>
+				</To>
+				<Distance>464</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-5">
+				<From>
+					<StopPointRef>490006280N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490020373E</StopPointRef>
+				</To>
+				<Distance>161</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-6">
+				<From>
+					<StopPointRef>490020373E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009971E</StopPointRef>
+				</To>
+				<Distance>230</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-7">
+				<From>
+					<StopPointRef>490009971E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490020374E</StopPointRef>
+				</To>
+				<Distance>366</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-8">
+				<From>
+					<StopPointRef>490020374E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019552E</StopPointRef>
+				</To>
+				<Distance>486</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-9">
+				<From>
+					<StopPointRef>490019552E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490023075E</StopPointRef>
+				</To>
+				<Distance>238</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-10">
+				<From>
+					<StopPointRef>490023075E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005750E1</StopPointRef>
+				</To>
+				<Distance>447</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-11">
+				<From>
+					<StopPointRef>490005750E1</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490018566E</StopPointRef>
+				</To>
+				<Distance>43</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-12">
+				<From>
+					<StopPointRef>490018566E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019554S</StopPointRef>
+				</To>
+				<Distance>366</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-13">
+				<From>
+					<StopPointRef>490019554S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019555E</StopPointRef>
+				</To>
+				<Distance>284</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-14">
+				<From>
+					<StopPointRef>490019555E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019556N</StopPointRef>
+				</To>
+				<Distance>314</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-15">
+				<From>
+					<StopPointRef>490019556N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490020376E</StopPointRef>
+				</To>
+				<Distance>494</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-16">
+				<From>
+					<StopPointRef>490020376E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019558E</StopPointRef>
+				</To>
+				<Distance>454</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-17">
+				<From>
+					<StopPointRef>490019558E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008929W</StopPointRef>
+				</To>
+				<Distance>433</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-18">
+				<From>
+					<StopPointRef>490008929W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019560W</StopPointRef>
+				</To>
+				<Distance>433</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-1-19">
+				<From>
+					<StopPointRef>490019560W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001130W</StopPointRef>
+				</To>
+				<Distance>560</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+		</RouteSection>
+		<RouteSection id="RS_48-399-_-y05-41923-O-2">
+			<RouteLink id="RL_48-399-_-y05-41923-O-2-1">
+				<From>
+					<StopPointRef>490018566E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019554S</StopPointRef>
+				</To>
+				<Distance>366</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-2-2">
+				<From>
+					<StopPointRef>490019554S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019555E</StopPointRef>
+				</To>
+				<Distance>284</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-2-3">
+				<From>
+					<StopPointRef>490019555E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019556N</StopPointRef>
+				</To>
+				<Distance>314</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-2-4">
+				<From>
+					<StopPointRef>490019556N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490020376E</StopPointRef>
+				</To>
+				<Distance>494</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-2-5">
+				<From>
+					<StopPointRef>490020376E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019558E</StopPointRef>
+				</To>
+				<Distance>454</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-2-6">
+				<From>
+					<StopPointRef>490019558E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008929W</StopPointRef>
+				</To>
+				<Distance>433</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-2-7">
+				<From>
+					<StopPointRef>490008929W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019560W</StopPointRef>
+				</To>
+				<Distance>433</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-O-2-8">
+				<From>
+					<StopPointRef>490019560W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001130W</StopPointRef>
+				</To>
+				<Distance>560</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+		</RouteSection>
+		<RouteSection id="RS_48-399-_-y05-41923-I-3">
+			<RouteLink id="RL_48-399-_-y05-41923-I-3-1">
+				<From>
+					<StopPointRef>490001130W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005750S</StopPointRef>
+				</To>
+				<Distance>389</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-I-3-2">
+				<From>
+					<StopPointRef>490005750S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490023075W</StopPointRef>
+				</To>
+				<Distance>244</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-I-3-3">
+				<From>
+					<StopPointRef>490023075W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019552W</StopPointRef>
+				</To>
+				<Distance>236</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-I-3-4">
+				<From>
+					<StopPointRef>490019552W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490020374W</StopPointRef>
+				</To>
+				<Distance>382</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-I-3-5">
+				<From>
+					<StopPointRef>490020374W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009971W</StopPointRef>
+				</To>
+				<Distance>493</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-I-3-6">
+				<From>
+					<StopPointRef>490009971W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490020373W</StopPointRef>
+				</To>
+				<Distance>213</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-I-3-7">
+				<From>
+					<StopPointRef>490020373W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006280S</StopPointRef>
+				</To>
+				<Distance>158</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-I-3-8">
+				<From>
+					<StopPointRef>490006280S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007631S</StopPointRef>
+				</To>
+				<Distance>489</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-399-_-y05-41923-I-3-9">
+				<From>
+					<StopPointRef>490007631S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013559S</StopPointRef>
+				</To>
+				<Distance>476</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+		</RouteSection>
+	</RouteSections>
+	<Routes>
+		<Route id="R_48-399-_-y05-41923-O-1">
+			<PrivateCode>R_48-399-_-y05-41923-O-1</PrivateCode>
+			<Description>The Spires - Hadley Wood</Description>
+			<RouteSectionRef>RS_48-399-_-y05-41923-O-1</RouteSectionRef>
+		</Route>
+		<Route id="R_48-399-_-y05-41923-O-2">
+			<PrivateCode>R_48-399-_-y05-41923-O-2</PrivateCode>
+			<Description>Camlet Way / Beech Hill Avenue - Hadley Wood</Description>
+			<RouteSectionRef>RS_48-399-_-y05-41923-O-2</RouteSectionRef>
+		</Route>
+		<Route id="R_48-399-_-y05-41923-I-3">
+			<PrivateCode>R_48-399-_-y05-41923-I-3</PrivateCode>
+			<Description>Hadley Wood - The Spires</Description>
+			<RouteSectionRef>RS_48-399-_-y05-41923-I-3</RouteSectionRef>
+		</Route>
+	</Routes>
+	<JourneyPatternSections>
+		<JourneyPatternSection id="JPS_48-399-_-y05-41923-2-2-O">
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-2-O-2-2">
+				<From SequenceNumber="12">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490018566E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019554S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-2-1</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-2-O-2-3">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019554S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019555E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-2-2</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-2-O-2-4">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019555E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019556N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-2-3</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-2-O-2-5">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019556N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020376E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-2-4</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-2-O-2-6">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020376E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019558E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-2-5</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-2-O-2-7">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019558E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008929W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-2-6</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-2-O-2-8">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008929W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019560W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-2-7</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-2-O-2-9">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019560W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>setDown</Activity>
+					<StopPointRef>490001130W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-2-8</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_48-399-_-y05-41923-3-3-I">
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-3-I-3-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490001130W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005750S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-1</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-3-I-3-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005750S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490023075W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-2</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-3-I-3-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490023075W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019552W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-3</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-3-I-3-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019552W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020374W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-4</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-3-I-3-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020374W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009971W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-5</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-3-I-3-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009971W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020373W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-6</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-3-I-3-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020373W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006280S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-7</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-3-I-3-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006280S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007631S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-8</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-3-I-3-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007631S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>setDown</Activity>
+					<StopPointRef>490013559S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-9</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_48-399-_-y05-41923-1-1-O">
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490013559S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011868T</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-1</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011868T</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012515A</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-2</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012515A</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007631N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-3</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007631N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006280N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-4</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006280N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020373E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-5</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020373E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009971E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-6</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009971E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020374E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-7</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020374E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019552E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-8</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019552E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490023075E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-9</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490023075E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005750E1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-10</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005750E1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018566E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-11</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018566E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019554S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-12</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019554S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019555E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-13</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019555E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019556N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-14</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019556N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020376E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-15</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020376E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019558E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-16</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019558E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008929W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-17</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008929W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019560W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-18</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-1-O-1-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019560W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>setDown</Activity>
+					<StopPointRef>490001130W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-O-1-19</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_48-399-_-y05-41923-4-3-I">
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-4-I-3-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490001130W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005750S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-1</RouteLinkRef>
+				<RunTime>PT48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-4-I-3-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005750S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490023075W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-2</RouteLinkRef>
+				<RunTime>PT48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-4-I-3-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490023075W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019552W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-3</RouteLinkRef>
+				<RunTime>PT48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-4-I-3-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019552W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020374W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-4</RouteLinkRef>
+				<RunTime>PT48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-4-I-3-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020374W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009971W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-5</RouteLinkRef>
+				<RunTime>PT48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-4-I-3-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009971W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020373W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-6</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-4-I-3-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490020373W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006280S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-7</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-4-I-3-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006280S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007631S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-8</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-399-_-y05-41923-4-I-3-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007631S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>setDown</Activity>
+					<StopPointRef>490013559S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-399-_-y05-41923-I-3-9</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+	</JourneyPatternSections>
+	<Operators>
+		<Operator id="OId_LG">
+			<OperatorCode>LG</OperatorCode>
+			<OperatorShortName>LONDON GENERAL TRANSPOR</OperatorShortName>
+			<OperatorNameOnLicence>LONDON GENERAL TRANSPORT SERVICES LTD</OperatorNameOnLicence>
+			<TradingName>LONDON GENERAL TRANSPORT SERVICES LTD</TradingName>
+		</Operator>
+	</Operators>
+	<Services>
+		<Service>
+			<ServiceCode>48-399-_-y05-41923</ServiceCode>
+			<PrivateCode>48-399-_-y05-41923</PrivateCode>
+			<Lines>
+				<Line id="48-399-_-y05-41923">
+					<LineName>399</LineName>
+				</Line>
+			</Lines>
+			<OperatingPeriod>
+				<StartDate>2017-12-09</StartDate>
+				<EndDate>2018-12-23</EndDate>
+			</OperatingPeriod>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToSaturday />
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile>
+			<RegisteredOperatorRef>OId_LG</RegisteredOperatorRef>
+			<StopRequirements>
+				<NoNewStopsRequired />
+			</StopRequirements>
+			<Mode>bus</Mode>
+			<Description>Barnet - Hadley Wood</Description>
+			<StandardService>
+				<Origin>The Spires</Origin>
+				<Destination>Hadley Wood</Destination>
+				<JourneyPattern id="JP_48-399-_-y05-41923-2-O-2">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_48-399-_-y05-41923-O-2</RouteRef>
+					<JourneyPatternSectionRefs>JPS_48-399-_-y05-41923-2-2-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_48-399-_-y05-41923-3-I-3">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_48-399-_-y05-41923-I-3</RouteRef>
+					<JourneyPatternSectionRefs>JPS_48-399-_-y05-41923-3-3-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_48-399-_-y05-41923-1-O-1">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_48-399-_-y05-41923-O-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_48-399-_-y05-41923-1-1-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_48-399-_-y05-41923-4-I-3">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_48-399-_-y05-41923-I-3</RouteRef>
+					<JourneyPatternSectionRefs>JPS_48-399-_-y05-41923-4-3-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+			</StandardService>
+		</Service>
+	</Services>
+	<VehicleJourneys>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-1-MF</PrivateCode>
+			<DestinationDisplay>Hadley Wood Station</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-1-MF</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-2-O-2</JourneyPatternRef>
+			<DepartureTime>09:56:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-2-MF</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-2-MF</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-3-I-3</JourneyPatternRef>
+			<DepartureTime>10:03:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-3-MF</PrivateCode>
+			<DestinationDisplay>Hadley Wood Station</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-3-MF</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-4-MF</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-4-MF</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-3-I-3</JourneyPatternRef>
+			<DepartureTime>11:03:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-5-MF</PrivateCode>
+			<DestinationDisplay>Hadley Wood Station</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-5-MF</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-1-O-1</JourneyPatternRef>
+			<DepartureTime>11:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-6-MF</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-6-MF</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-3-I-3</JourneyPatternRef>
+			<DepartureTime>12:03:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-7-MF</PrivateCode>
+			<DestinationDisplay>Hadley Wood Station</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-7-MF</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-8-MF</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-8-MF</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-3-I-3</JourneyPatternRef>
+			<DepartureTime>13:03:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-9-MF</PrivateCode>
+			<DestinationDisplay>Hadley Wood Station</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-9-MF</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-1-O-1</JourneyPatternRef>
+			<DepartureTime>13:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-10-MF</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-10-MF</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-4-I-3</JourneyPatternRef>
+			<DepartureTime>14:03:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-11-MF</PrivateCode>
+			<DestinationDisplay>Hadley Wood Station</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-11-MF</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-1-Sa</PrivateCode>
+			<DestinationDisplay>Hadley Wood Station</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-1-Sa</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-2-O-2</JourneyPatternRef>
+			<DepartureTime>09:56:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-2-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-2-Sa</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-3-I-3</JourneyPatternRef>
+			<DepartureTime>10:03:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-3-Sa</PrivateCode>
+			<DestinationDisplay>Hadley Wood Station</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-3-Sa</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-4-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-4-Sa</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-3-I-3</JourneyPatternRef>
+			<DepartureTime>11:03:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-5-Sa</PrivateCode>
+			<DestinationDisplay>Hadley Wood Station</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-5-Sa</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-1-O-1</JourneyPatternRef>
+			<DepartureTime>11:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-6-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-6-Sa</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-3-I-3</JourneyPatternRef>
+			<DepartureTime>12:03:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-7-Sa</PrivateCode>
+			<DestinationDisplay>Hadley Wood Station</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-7-Sa</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-8-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-8-Sa</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-3-I-3</JourneyPatternRef>
+			<DepartureTime>13:03:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-9-Sa</PrivateCode>
+			<DestinationDisplay>Hadley Wood Station</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-9-Sa</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-1-O-1</JourneyPatternRef>
+			<DepartureTime>13:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-10-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-10-Sa</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-4-I-3</JourneyPatternRef>
+			<DepartureTime>14:03:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-399-_-y05-41923-11-Sa</PrivateCode>
+			<DestinationDisplay>Hadley Wood Station</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-399-_-y05-41923-11-Sa</VehicleJourneyCode>
+			<ServiceRef>48-399-_-y05-41923</ServiceRef>
+			<LineRef>48-399-_-y05-41923</LineRef>
+			<JourneyPatternRef>JP_48-399-_-y05-41923-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:45:00</DepartureTime>
+		</VehicleJourney>
+	</VehicleJourneys>
+</TransXChange>

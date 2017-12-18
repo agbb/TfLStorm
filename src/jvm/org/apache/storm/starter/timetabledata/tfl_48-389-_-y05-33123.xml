@@ -1,0 +1,1798 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TransXChange CreationDateTime="2017-12-11T17:50:36.7613239Z" ModificationDateTime="2017-12-11T17:50:36.7613239Z" Modification="new" FileName="tfl_48-389-_-y05-33123.xml" RevisionNumber="3" SchemaVersion="2.1" xml:lang="en" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.transxchange.org.uk/">
+	<NptgLocalities>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0060454</NptgLocalityRef>
+			<LocalityName>High Barnet</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0060494</NptgLocalityRef>
+			<LocalityName>Barnet</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0033951</NptgLocalityRef>
+			<LocalityName>Chipping Barnet</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0033988</NptgLocalityRef>
+			<LocalityName>Totteridge (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0033967</NptgLocalityRef>
+			<LocalityName>Hadley (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+	</NptgLocalities>
+	<StopPoints>
+		<StopPoint CreationDateTime="2015-06-05T00:00:00">
+			<AtcoCode>490013559S</AtcoCode>
+			<Descriptor>
+				<CommonName>The Spires</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060454</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524336</Easting>
+					<Northing>196823</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Spires</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-16T00:00:00">
+			<AtcoCode>490011868T</AtcoCode>
+			<Descriptor>
+				<CommonName>Salisbury Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060454</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524311</Easting>
+					<Northing>196655</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Salisbury Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-01T00:00:00">
+			<AtcoCode>490003639D</AtcoCode>
+			<Descriptor>
+				<CommonName>Barnet High Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060494</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524505</Easting>
+					<Northing>196628</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Barnet High Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-05-27T00:00:00">
+			<AtcoCode>490003634H</AtcoCode>
+			<Descriptor>
+				<CommonName>Barnet High St / Barnet Church</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060494</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524703</Easting>
+					<Northing>196406</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Barnet High St / Barnet Church</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-08-08T00:00:00">
+			<AtcoCode>490009772N</AtcoCode>
+			<Descriptor>
+				<CommonName>High Barnet Station / Meadway</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060494</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524839</Easting>
+					<Northing>196269</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>High Barnet Station / Meadway</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-03-09T00:00:00">
+			<AtcoCode>490000107R</AtcoCode>
+			<Descriptor>
+				<CommonName>High Barnet</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060494</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525097</Easting>
+					<Northing>196051</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>High Barnet</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-06T00:00:00">
+			<AtcoCode>490013897W</AtcoCode>
+			<Descriptor>
+				<CommonName>Underhill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033951</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525202</Easting>
+					<Northing>195882</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Underhill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-16T00:00:00">
+			<AtcoCode>490013904S</AtcoCode>
+			<Descriptor>
+				<CommonName>Underhill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033951</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525160</Easting>
+					<Northing>195839</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Underhill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-06T00:00:00">
+			<AtcoCode>490012081S</AtcoCode>
+			<Descriptor>
+				<CommonName>Sherrards Way</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033951</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525541</Easting>
+					<Northing>195368</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Sherrards Way</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-06T00:00:00">
+			<AtcoCode>490014454W</AtcoCode>
+			<Descriptor>
+				<CommonName>Western Way</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033988</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525464</Easting>
+					<Northing>195077</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Western Way</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-06T00:00:00">
+			<AtcoCode>490007384N</AtcoCode>
+			<Descriptor>
+				<CommonName>Grasvenor Avenue Infants School</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033951</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525379</Easting>
+					<Northing>195479</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Grasvenor Avenue Infants School</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-06T00:00:00">
+			<AtcoCode>490006710N</AtcoCode>
+			<Descriptor>
+				<CommonName>Fairfield Way</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033951</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525325</Easting>
+					<Northing>195675</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Fairfield Way</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-01-25T00:00:00">
+			<AtcoCode>490013897N</AtcoCode>
+			<Descriptor>
+				<CommonName>Underhill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033951</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525232</Easting>
+					<Northing>195920</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Underhill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-03-09T00:00:00">
+			<AtcoCode>490000107Q</AtcoCode>
+			<Descriptor>
+				<CommonName>High Barnet</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060494</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524985</Easting>
+					<Northing>196130</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>High Barnet</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-05T00:00:00">
+			<AtcoCode>490003634L</AtcoCode>
+			<Descriptor>
+				<CommonName>Barnet Church</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060494</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524687</Easting>
+					<Northing>196406</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Barnet Church</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-01T00:00:00">
+			<AtcoCode>490003639J</AtcoCode>
+			<Descriptor>
+				<CommonName>Barnet High Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060494</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524515</Easting>
+					<Northing>196502</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Barnet High Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-25T00:00:00">
+			<AtcoCode>490012424B</AtcoCode>
+			<Descriptor>
+				<CommonName>St. Albans Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033967</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>524477</Easting>
+					<Northing>196773</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>St. Albans Road</Notes>
+		</StopPoint>
+	</StopPoints>
+	<RouteSections>
+		<RouteSection id="RS_48-389-_-y05-33123-O-1">
+			<RouteLink id="RL_48-389-_-y05-33123-O-1-1">
+				<From>
+					<StopPointRef>490013559S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011868T</StopPointRef>
+				</To>
+				<Distance>208</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-O-1-2">
+				<From>
+					<StopPointRef>490011868T</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003639D</StopPointRef>
+				</To>
+				<Distance>210</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-O-1-3">
+				<From>
+					<StopPointRef>490003639D</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003634H</StopPointRef>
+				</To>
+				<Distance>336</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-O-1-4">
+				<From>
+					<StopPointRef>490003634H</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009772N</StopPointRef>
+				</To>
+				<Distance>190</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-O-1-5">
+				<From>
+					<StopPointRef>490009772N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000107R</StopPointRef>
+				</To>
+				<Distance>334</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-O-1-6">
+				<From>
+					<StopPointRef>490000107R</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013897W</StopPointRef>
+				</To>
+				<Distance>322</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-O-1-7">
+				<From>
+					<StopPointRef>490013897W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013904S</StopPointRef>
+				</To>
+				<Distance>114</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-O-1-8">
+				<From>
+					<StopPointRef>490013904S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012081S</StopPointRef>
+				</To>
+				<Distance>794</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-O-1-9">
+				<From>
+					<StopPointRef>490012081S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014454W</StopPointRef>
+				</To>
+				<Distance>446</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+		</RouteSection>
+		<RouteSection id="RS_48-389-_-y05-33123-I-2">
+			<RouteLink id="RL_48-389-_-y05-33123-I-2-1">
+				<From>
+					<StopPointRef>490014454W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007384N</StopPointRef>
+				</To>
+				<Distance>417</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-I-2-2">
+				<From>
+					<StopPointRef>490007384N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006710N</StopPointRef>
+				</To>
+				<Distance>207</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-I-2-3">
+				<From>
+					<StopPointRef>490006710N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013897N</StopPointRef>
+				</To>
+				<Distance>283</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-I-2-4">
+				<From>
+					<StopPointRef>490013897N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000107Q</StopPointRef>
+				</To>
+				<Distance>324</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-I-2-5">
+				<From>
+					<StopPointRef>490000107Q</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003634L</StopPointRef>
+				</To>
+				<Distance>407</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-I-2-6">
+				<From>
+					<StopPointRef>490003634L</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003639J</StopPointRef>
+				</To>
+				<Distance>195</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-I-2-7">
+				<From>
+					<StopPointRef>490003639J</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012424B</StopPointRef>
+				</To>
+				<Distance>268</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_48-389-_-y05-33123-I-2-8">
+				<From>
+					<StopPointRef>490012424B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013559S</StopPointRef>
+				</To>
+				<Distance>241</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+		</RouteSection>
+	</RouteSections>
+	<Routes>
+		<Route id="R_48-389-_-y05-33123-O-1">
+			<PrivateCode>R_48-389-_-y05-33123-O-1</PrivateCode>
+			<Description>The Spires - Western Way</Description>
+			<RouteSectionRef>RS_48-389-_-y05-33123-O-1</RouteSectionRef>
+		</Route>
+		<Route id="R_48-389-_-y05-33123-I-2">
+			<PrivateCode>R_48-389-_-y05-33123-I-2</PrivateCode>
+			<Description>Western Way - The Spires</Description>
+			<RouteSectionRef>RS_48-389-_-y05-33123-I-2</RouteSectionRef>
+		</Route>
+	</Routes>
+	<JourneyPatternSections>
+		<JourneyPatternSection id="JPS_48-389-_-y05-33123-1-1-O">
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-1-O-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490013559S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011868T</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-O-1-1</RouteLinkRef>
+				<RunTime>PT1M8S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-1-O-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011868T</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003639D</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-O-1-2</RouteLinkRef>
+				<RunTime>PT1M9S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-1-O-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003639D</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003634H</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-O-1-3</RouteLinkRef>
+				<RunTime>PT1M48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-1-O-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003634H</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009772N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-O-1-4</RouteLinkRef>
+				<RunTime>PT1M3S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-1-O-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009772N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000107R</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-O-1-5</RouteLinkRef>
+				<RunTime>PT1M52S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-1-O-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000107R</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013897W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-O-1-6</RouteLinkRef>
+				<RunTime>PT1M1S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-1-O-1-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013897W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013904S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-O-1-7</RouteLinkRef>
+				<RunTime>PT21S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-1-O-1-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013904S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012081S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-O-1-8</RouteLinkRef>
+				<RunTime>PT2M10S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-1-O-1-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012081S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>setDown</Activity>
+					<StopPointRef>490014454W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-O-1-9</RouteLinkRef>
+				<RunTime>PT1M28S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_48-389-_-y05-33123-2-2-I">
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-2-I-2-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490014454W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007384N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-I-2-1</RouteLinkRef>
+				<RunTime>PT1M45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-2-I-2-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007384N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006710N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-I-2-2</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-2-I-2-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006710N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013897N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-I-2-3</RouteLinkRef>
+				<RunTime>PT1M7S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-2-I-2-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013897N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000107Q</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-I-2-4</RouteLinkRef>
+				<RunTime>PT1M18S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-2-I-2-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000107Q</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003634L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-I-2-5</RouteLinkRef>
+				<RunTime>PT1M49S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-2-I-2-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003634L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003639J</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-I-2-6</RouteLinkRef>
+				<RunTime>PT52S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-2-I-2-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003639J</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012424B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-I-2-7</RouteLinkRef>
+				<RunTime>PT1M12S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_48-389-_-y05-33123-2-I-2-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012424B</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>setDown</Activity>
+					<StopPointRef>490013559S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_48-389-_-y05-33123-I-2-8</RouteLinkRef>
+				<RunTime>PT1M7S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+	</JourneyPatternSections>
+	<Operators>
+		<Operator id="OId_LG">
+			<OperatorCode>LG</OperatorCode>
+			<OperatorShortName>LONDON GENERAL TRANSPOR</OperatorShortName>
+			<OperatorNameOnLicence>LONDON GENERAL TRANSPORT SERVICES LTD</OperatorNameOnLicence>
+			<TradingName>LONDON GENERAL TRANSPORT SERVICES LTD</TradingName>
+		</Operator>
+	</Operators>
+	<Services>
+		<Service>
+			<ServiceCode>48-389-_-y05-33123</ServiceCode>
+			<PrivateCode>48-389-_-y05-33123</PrivateCode>
+			<Lines>
+				<Line id="48-389-_-y05-33123">
+					<LineName>389</LineName>
+				</Line>
+			</Lines>
+			<OperatingPeriod>
+				<StartDate>2017-12-09</StartDate>
+				<EndDate>2018-12-23</EndDate>
+			</OperatingPeriod>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToSaturday />
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile>
+			<RegisteredOperatorRef>OId_LG</RegisteredOperatorRef>
+			<StopRequirements>
+				<NoNewStopsRequired />
+			</StopRequirements>
+			<Mode>bus</Mode>
+			<Description>Western Way - Barnet</Description>
+			<StandardService>
+				<Origin>The Spires</Origin>
+				<Destination>Western Way</Destination>
+				<JourneyPattern id="JP_48-389-_-y05-33123-1-O-1">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_48-389-_-y05-33123-O-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_48-389-_-y05-33123-1-1-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_48-389-_-y05-33123-2-I-2">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_48-389-_-y05-33123-I-2</RouteRef>
+					<JourneyPatternSectionRefs>JPS_48-389-_-y05-33123-2-2-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+			</StandardService>
+		</Service>
+	</Services>
+	<VehicleJourneys>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-1-MF</PrivateCode>
+			<DestinationDisplay>Barnet, Western Way</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-1-MF</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:17:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-2-MF</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-2-MF</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-2-I-2</JourneyPatternRef>
+			<DepartureTime>10:29:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-3-MF</PrivateCode>
+			<DestinationDisplay>Barnet, Western Way</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-3-MF</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-1-O-1</JourneyPatternRef>
+			<DepartureTime>11:17:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-4-MF</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-4-MF</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-2-I-2</JourneyPatternRef>
+			<DepartureTime>11:29:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-5-MF</PrivateCode>
+			<DestinationDisplay>Barnet, Western Way</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-5-MF</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:17:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-6-MF</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-6-MF</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-2-I-2</JourneyPatternRef>
+			<DepartureTime>12:29:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-7-MF</PrivateCode>
+			<DestinationDisplay>Barnet, Western Way</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-7-MF</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-1-O-1</JourneyPatternRef>
+			<DepartureTime>13:17:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-8-MF</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-8-MF</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-2-I-2</JourneyPatternRef>
+			<DepartureTime>13:29:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-9-MF</PrivateCode>
+			<DestinationDisplay>Barnet, Western Way</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-9-MF</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:17:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-10-MF</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2016-12-28</StartDate>
+							<EndDate>2016-12-30</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-10-MF</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-2-I-2</JourneyPatternRef>
+			<DepartureTime>14:29:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-1-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, Western Way</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-1-Sa</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-1-O-1</JourneyPatternRef>
+			<DepartureTime>10:17:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-2-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-2-Sa</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-2-I-2</JourneyPatternRef>
+			<DepartureTime>10:29:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-3-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, Western Way</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-3-Sa</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-1-O-1</JourneyPatternRef>
+			<DepartureTime>11:17:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-4-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-4-Sa</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-2-I-2</JourneyPatternRef>
+			<DepartureTime>11:29:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-5-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, Western Way</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-5-Sa</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-1-O-1</JourneyPatternRef>
+			<DepartureTime>12:17:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-6-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-6-Sa</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-2-I-2</JourneyPatternRef>
+			<DepartureTime>12:29:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-7-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, Western Way</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-7-Sa</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-1-O-1</JourneyPatternRef>
+			<DepartureTime>13:17:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-8-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-8-Sa</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-2-I-2</JourneyPatternRef>
+			<DepartureTime>13:29:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-9-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, Western Way</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-9-Sa</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-1-O-1</JourneyPatternRef>
+			<DepartureTime>14:17:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-48-389-_-y05-33123-10-Sa</PrivateCode>
+			<DestinationDisplay>Barnet, The Spires</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Saturday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<GoodFriday />
+					</DaysOfOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_48-389-_-y05-33123-10-Sa</VehicleJourneyCode>
+			<ServiceRef>48-389-_-y05-33123</ServiceRef>
+			<LineRef>48-389-_-y05-33123</LineRef>
+			<JourneyPatternRef>JP_48-389-_-y05-33123-2-I-2</JourneyPatternRef>
+			<DepartureTime>14:29:00</DepartureTime>
+		</VehicleJourney>
+	</VehicleJourneys>
+</TransXChange>

@@ -52,7 +52,7 @@ public class DetermineDisruption extends BaseBasicBolt {
           category = "Hazard";
         }
 
-        LOG.info("DETERMINE: new pair found "+(pair.disruptionBean.getDisruptionXml() == null)+" "+pair.arrivalBean.getStopPointName());
+        LOG.info("DETERMINE: new pair found "+pair.arrivalBean.getStopPointName());
         
         Double severityMult = SEVERITY.valueOf(severity).getNumVal();
         Double levelOfInterestMult = LEVEL_OF_INTEREST.valueOf(levelOfInterest).getNumVal();
@@ -60,9 +60,9 @@ public class DetermineDisruption extends BaseBasicBolt {
         
         double result = (Math.pow(severityMult,2) + Math.pow(levelOfInterestMult,2) + Math.pow(hazardMult,2)) * (1/distance);
         
-        pair.estimatedDelay = result/60;
+        pair.calculatedDelay = result;
         
-        LOG.info("DETERMINE: "+delay);
+        LOG.info("DETERMINE: "+result);
 //         if(result> 0 && < 100){
 //             pair.estimatedDelay = 60;
 //                 delayEstimateHumanReadable
@@ -82,7 +82,7 @@ public class DetermineDisruption extends BaseBasicBolt {
 //             pair.estimatedDelay = 1500;
 //         }
         
-        collector.emit("disruptedArrivalWithPrediction",new Values(pair));
+        collector.emit(new Values(pair));
         
     }
 

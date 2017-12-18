@@ -1,0 +1,5163 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TransXChange CreationDateTime="2017-12-11T18:14:41.5741544Z" ModificationDateTime="2017-12-11T18:14:41.5741544Z" Modification="new" FileName="tfl_54-A10-_-y05-47761.xml" RevisionNumber="3" SchemaVersion="2.1" xml:lang="en" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.transxchange.org.uk/">
+	<NptgLocalities>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034495</NptgLocalityRef>
+			<LocalityName>Heathrow</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0077742</NptgLocalityRef>
+			<LocalityName>Stockley Park</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034492</NptgLocalityRef>
+			<LocalityName>Hayes (Hillingdon)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034493</NptgLocalityRef>
+			<LocalityName>Hayes End (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034497</NptgLocalityRef>
+			<LocalityName>Hillingdon Heath</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034496</NptgLocalityRef>
+			<LocalityName>Hillingdon</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034507</NptgLocalityRef>
+			<LocalityName>Pield Heath</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034515</NptgLocalityRef>
+			<LocalityName>Uxbridge</LocalityName>
+		</AnnotatedNptgLocalityRef>
+	</NptgLocalities>
+	<StopPoints>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>4900801618</AtcoCode>
+			<Descriptor>
+				<CommonName>Heathrow Central Bus Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034495</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507532</Easting>
+					<Northing>175844</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Heathrow Central Bus Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-04-08T00:00:00">
+			<AtcoCode>490018251N</AtcoCode>
+			<Descriptor>
+				<CommonName>Stockley Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077742</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507591</Easting>
+					<Northing>179413</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Stockley Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-07T00:00:00">
+			<AtcoCode>490008499E</AtcoCode>
+			<Descriptor>
+				<CommonName>Iron Bridge Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077742</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507546</Easting>
+					<Northing>180330</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Iron Bridge Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490012827E</AtcoCode>
+			<Descriptor>
+				<CommonName>Bennetsfield Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077742</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507932</Easting>
+					<Northing>180343</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bennetsfield Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490011730S</AtcoCode>
+			<Descriptor>
+				<CommonName>Roundwood Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077742</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508074</Easting>
+					<Northing>180090</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Roundwood Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-10-17T00:00:00">
+			<AtcoCode>490012825E</AtcoCode>
+			<Descriptor>
+				<CommonName>Furzeground Way</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077742</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508237</Easting>
+					<Northing>180092</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Furzeground Way</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013560E1</AtcoCode>
+			<Descriptor>
+				<CommonName>Stockley Park East/The Square</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077742</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508541</Easting>
+					<Northing>180130</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Stockley Park East/The Square</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490019709N</AtcoCode>
+			<Descriptor>
+				<CommonName>Bolingbroke Way</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034492</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508669</Easting>
+					<Northing>180544</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bolingbroke Way</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490007328N</AtcoCode>
+			<Descriptor>
+				<CommonName>Goulds Green</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034493</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508056</Easting>
+					<Northing>181159</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Goulds Green</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010010N</AtcoCode>
+			<Descriptor>
+				<CommonName>Barwick Drive</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034497</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507719</Easting>
+					<Northing>181688</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Barwick Drive</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490007815N1</AtcoCode>
+			<Descriptor>
+				<CommonName>Lees Road (UB8)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034497</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507580</Easting>
+					<Northing>181921</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Lees Road (UB8)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490012289N</AtcoCode>
+			<Descriptor>
+				<CommonName>Southfield Close</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034496</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507257</Easting>
+					<Northing>182460</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Southfield Close</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490005539W</AtcoCode>
+			<Descriptor>
+				<CommonName>Coney Green</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034496</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507026</Easting>
+					<Northing>182909</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Coney Green</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-03-31T00:00:00">
+			<AtcoCode>490008221W</AtcoCode>
+			<Descriptor>
+				<CommonName>St John's Church</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034496</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506730</Easting>
+					<Northing>182918</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>St John's Church</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-03-31T00:00:00">
+			<AtcoCode>490008220W</AtcoCode>
+			<Descriptor>
+				<CommonName>Hillingdon Cemetery</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034507</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506481</Easting>
+					<Northing>182933</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hillingdon Cemetery</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-01-19T00:00:00">
+			<AtcoCode>490013396N</AtcoCode>
+			<Descriptor>
+				<CommonName>The Greenway</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034507</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506159</Easting>
+					<Northing>183072</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Greenway</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490009602N</AtcoCode>
+			<Descriptor>
+				<CommonName>Manor Waye</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506012</Easting>
+					<Northing>183475</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Manor Waye</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010794N</AtcoCode>
+			<Descriptor>
+				<CommonName>Park Road_ Uxbridge</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>505983</Easting>
+					<Northing>183969</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Park Road, Uxbridge</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490005185N</AtcoCode>
+			<Descriptor>
+				<CommonName>York Road (UB8)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>505719</Easting>
+					<Northing>184281</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>York Road (UB8)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-08-17T00:00:00">
+			<AtcoCode>490000246E</AtcoCode>
+			<Descriptor>
+				<CommonName>Belmont Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>505629</Easting>
+					<Northing>184322</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Belmont Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490000246M</AtcoCode>
+			<Descriptor>
+				<CommonName>Uxbridge Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>505585</Easting>
+					<Northing>184188</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Uxbridge Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490005185V</AtcoCode>
+			<Descriptor>
+				<CommonName>York Road (UB8)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>505752</Easting>
+					<Northing>184251</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>York Road (UB8)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490012425S</AtcoCode>
+			<Descriptor>
+				<CommonName>St Andrew's Church / Hillingdon Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506031</Easting>
+					<Northing>183736</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>St Andrew's Church / Hillingdon Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-11-06T00:00:00">
+			<AtcoCode>490011381E</AtcoCode>
+			<Descriptor>
+				<CommonName>Manor Waye</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506058</Easting>
+					<Northing>183512</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Manor Waye</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-01-19T00:00:00">
+			<AtcoCode>490013396E</AtcoCode>
+			<Descriptor>
+				<CommonName>The Greenway</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034507</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506128</Easting>
+					<Northing>183166</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Greenway</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-03-31T00:00:00">
+			<AtcoCode>490015339E</AtcoCode>
+			<Descriptor>
+				<CommonName>Hillingdon Cemetery</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034507</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506586</Easting>
+					<Northing>182949</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hillingdon Cemetery</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-12-06T00:00:00">
+			<AtcoCode>490008221E</AtcoCode>
+			<Descriptor>
+				<CommonName>St John's Church</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034496</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506872</Easting>
+					<Northing>182960</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>St John's Church</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490015095S</AtcoCode>
+			<Descriptor>
+				<CommonName>Hilliers Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034496</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507181</Easting>
+					<Northing>182713</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hilliers Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490012289S</AtcoCode>
+			<Descriptor>
+				<CommonName>Southfield Close</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034496</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507317</Easting>
+					<Northing>182415</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Southfield Close</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490009070S</AtcoCode>
+			<Descriptor>
+				<CommonName>Lees Road (UB8)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034497</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507669</Easting>
+					<Northing>181835</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Lees Road (UB8)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010010S</AtcoCode>
+			<Descriptor>
+				<CommonName>Lady Craig Court</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034497</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507748</Easting>
+					<Northing>181679</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Lady Craig Court</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490009818E</AtcoCode>
+			<Descriptor>
+				<CommonName>Merrimans Cnr /Harlington Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034497</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507870</Easting>
+					<Northing>181527</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Merrimans Cnr /Harlington Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490005623S</AtcoCode>
+			<Descriptor>
+				<CommonName>Corwell Gardens</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034493</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508131</Easting>
+					<Northing>181119</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Corwell Gardens</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490005988S</AtcoCode>
+			<Descriptor>
+				<CommonName>Dawley Parade</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077742</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508469</Easting>
+					<Northing>180763</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Dawley Parade</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013560E2</AtcoCode>
+			<Descriptor>
+				<CommonName>Stockley Park East/The Square</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077742</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508603</Easting>
+					<Northing>180108</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Stockley Park East/The Square</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-06-21T00:00:00">
+			<AtcoCode>490012825W</AtcoCode>
+			<Descriptor>
+				<CommonName>Furzeground Way</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077742</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508242</Easting>
+					<Northing>180081</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Furzeground Way</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-07T00:00:00">
+			<AtcoCode>490009339N</AtcoCode>
+			<Descriptor>
+				<CommonName>Longwalk Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077742</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507874</Easting>
+					<Northing>180214</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Longwalk Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-07T00:00:00">
+			<AtcoCode>490008499W</AtcoCode>
+			<Descriptor>
+				<CommonName>Iron Bridge Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077742</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507526</Easting>
+					<Northing>180301</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Iron Bridge Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-04-08T00:00:00">
+			<AtcoCode>490018251S</AtcoCode>
+			<Descriptor>
+				<CommonName>Stockley Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077742</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507617</Easting>
+					<Northing>179374</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Stockley Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490008016S</AtcoCode>
+			<Descriptor>
+				<CommonName>Heathrow Central Bus Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034495</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507574</Easting>
+					<Northing>175866</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Heathrow Central Bus Station</Notes>
+		</StopPoint>
+	</StopPoints>
+	<RouteSections>
+		<RouteSection id="RS_54-A10-_-y05-47761-O-1">
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-1">
+				<From>
+					<StopPointRef>490000246M</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005185V</StopPointRef>
+				</To>
+				<Distance>422</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-2">
+				<From>
+					<StopPointRef>490005185V</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012425S</StopPointRef>
+				</To>
+				<Distance>670</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-3">
+				<From>
+					<StopPointRef>490012425S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011381E</StopPointRef>
+				</To>
+				<Distance>226</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-4">
+				<From>
+					<StopPointRef>490011381E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013396E</StopPointRef>
+				</To>
+				<Distance>382</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-5">
+				<From>
+					<StopPointRef>490013396E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015339E</StopPointRef>
+				</To>
+				<Distance>487</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-6">
+				<From>
+					<StopPointRef>490015339E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008221E</StopPointRef>
+				</To>
+				<Distance>289</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-7">
+				<From>
+					<StopPointRef>490008221E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015095S</StopPointRef>
+				</To>
+				<Distance>454</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-8">
+				<From>
+					<StopPointRef>490015095S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012289S</StopPointRef>
+				</To>
+				<Distance>330</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-9">
+				<From>
+					<StopPointRef>490012289S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009070S</StopPointRef>
+				</To>
+				<Distance>689</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-10">
+				<From>
+					<StopPointRef>490009070S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010010S</StopPointRef>
+				</To>
+				<Distance>175</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-11">
+				<From>
+					<StopPointRef>490010010S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009818E</StopPointRef>
+				</To>
+				<Distance>196</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-12">
+				<From>
+					<StopPointRef>490009818E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005623S</StopPointRef>
+				</To>
+				<Distance>498</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-13">
+				<From>
+					<StopPointRef>490005623S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005988S</StopPointRef>
+				</To>
+				<Distance>543</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-14">
+				<From>
+					<StopPointRef>490005988S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013560E2</StopPointRef>
+				</To>
+				<Distance>871</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-15">
+				<From>
+					<StopPointRef>490013560E2</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012825W</StopPointRef>
+				</To>
+				<Distance>389</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-16">
+				<From>
+					<StopPointRef>490012825W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009339N</StopPointRef>
+				</To>
+				<Distance>521</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-17">
+				<From>
+					<StopPointRef>490009339N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008499W</StopPointRef>
+				</To>
+				<Distance>489</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-18">
+				<From>
+					<StopPointRef>490008499W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490018251S</StopPointRef>
+				</To>
+				<Distance>1329</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-O-1-19">
+				<From>
+					<StopPointRef>490018251S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008016S</StopPointRef>
+				</To>
+				<Distance>3587</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+		</RouteSection>
+		<RouteSection id="RS_54-A10-_-y05-47761-I-2">
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-1">
+				<From>
+					<StopPointRef>4900801618</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490018251N</StopPointRef>
+				</To>
+				<Distance>3793</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-2">
+				<From>
+					<StopPointRef>490018251N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008499E</StopPointRef>
+				</To>
+				<Distance>1191</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-3">
+				<From>
+					<StopPointRef>490008499E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012827E</StopPointRef>
+				</To>
+				<Distance>417</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-4">
+				<From>
+					<StopPointRef>490012827E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011730S</StopPointRef>
+				</To>
+				<Distance>389</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-5">
+				<From>
+					<StopPointRef>490011730S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012825E</StopPointRef>
+				</To>
+				<Distance>296</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-6">
+				<From>
+					<StopPointRef>490012825E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013560E1</StopPointRef>
+				</To>
+				<Distance>278</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-7">
+				<From>
+					<StopPointRef>490013560E1</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019709N</StopPointRef>
+				</To>
+				<Distance>605</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-8">
+				<From>
+					<StopPointRef>490019709N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007328N</StopPointRef>
+				</To>
+				<Distance>882</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-9">
+				<From>
+					<StopPointRef>490007328N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010010N</StopPointRef>
+				</To>
+				<Distance>633</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-10">
+				<From>
+					<StopPointRef>490010010N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007815N1</StopPointRef>
+				</To>
+				<Distance>271</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-11">
+				<From>
+					<StopPointRef>490007815N1</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012289N</StopPointRef>
+				</To>
+				<Distance>631</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-12">
+				<From>
+					<StopPointRef>490012289N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005539W</StopPointRef>
+				</To>
+				<Distance>532</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-13">
+				<From>
+					<StopPointRef>490005539W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008221W</StopPointRef>
+				</To>
+				<Distance>312</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-14">
+				<From>
+					<StopPointRef>490008221W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008220W</StopPointRef>
+				</To>
+				<Distance>249</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-15">
+				<From>
+					<StopPointRef>490008220W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013396N</StopPointRef>
+				</To>
+				<Distance>353</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-16">
+				<From>
+					<StopPointRef>490013396N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009602N</StopPointRef>
+				</To>
+				<Distance>452</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-17">
+				<From>
+					<StopPointRef>490009602N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010794N</StopPointRef>
+				</To>
+				<Distance>557</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-18">
+				<From>
+					<StopPointRef>490010794N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005185N</StopPointRef>
+				</To>
+				<Distance>435</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-A10-_-y05-47761-I-2-19">
+				<From>
+					<StopPointRef>490005185N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000246E</StopPointRef>
+				</To>
+				<Distance>165</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+		</RouteSection>
+	</RouteSections>
+	<Routes>
+		<Route id="R_54-A10-_-y05-47761-O-1">
+			<PrivateCode>R_54-A10-_-y05-47761-O-1</PrivateCode>
+			<Description>Uxbridge Station - Heathrow Central Bus Station</Description>
+			<RouteSectionRef>RS_54-A10-_-y05-47761-O-1</RouteSectionRef>
+		</Route>
+		<Route id="R_54-A10-_-y05-47761-I-2">
+			<PrivateCode>R_54-A10-_-y05-47761-I-2</PrivateCode>
+			<Description>Heathrow Central Bus Station - Belmont Road</Description>
+			<RouteSectionRef>RS_54-A10-_-y05-47761-I-2</RouteSectionRef>
+		</Route>
+	</Routes>
+	<JourneyPatternSections>
+		<JourneyPatternSection id="JPS_54-A10-_-y05-47761-17-1-O">
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490000246M</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005185V</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-1</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005185V</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012425S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-2</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012425S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011381E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-3</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011381E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013396E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-4</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013396E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015339E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-5</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015339E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008221E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-6</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008221E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015095S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-7</RouteLinkRef>
+				<RunTime>PT48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015095S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012289S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-8</RouteLinkRef>
+				<RunTime>PT48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012289S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009070S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-9</RouteLinkRef>
+				<RunTime>PT48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009070S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010010S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-10</RouteLinkRef>
+				<RunTime>PT48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010010S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009818E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-11</RouteLinkRef>
+				<RunTime>PT48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009818E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005623S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-12</RouteLinkRef>
+				<RunTime>PT1M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005623S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005988S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-13</RouteLinkRef>
+				<RunTime>PT1M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005988S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013560E2</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-14</RouteLinkRef>
+				<RunTime>PT1M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013560E2</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012825W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-15</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012825W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009339N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-16</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009339N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008499W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-17</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008499W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018251S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-18</RouteLinkRef>
+				<RunTime>PT4M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-17-O-1-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018251S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>setDown</Activity>
+					<StopPointRef>490008016S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-19</RouteLinkRef>
+				<RunTime>PT4M</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_54-A10-_-y05-47761-33-2-I">
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>4900801618</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018251N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-1</RouteLinkRef>
+				<RunTime>PT4M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018251N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008499E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-2</RouteLinkRef>
+				<RunTime>PT4M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008499E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012827E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-3</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012827E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011730S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-4</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011730S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012825E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-5</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012825E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013560E1</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-6</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013560E1</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019709N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-7</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019709N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007328N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-8</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007328N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010010N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-9</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010010N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815N1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-10</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815N1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012289N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-11</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012289N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005539W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-12</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005539W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008221W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-13</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008221W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008220W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-14</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008220W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013396N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-15</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013396N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009602N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-16</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009602N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010794N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-17</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010794N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005185N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-18</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-33-I-2-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005185N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>setDown</Activity>
+					<StopPointRef>490000246E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-19</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_54-A10-_-y05-47761-35-2-I">
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>4900801618</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018251N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-1</RouteLinkRef>
+				<RunTime>PT4M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018251N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008499E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-2</RouteLinkRef>
+				<RunTime>PT4M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008499E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012827E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-3</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012827E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011730S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-4</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011730S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012825E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-5</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012825E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013560E1</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-6</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013560E1</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019709N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-7</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019709N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007328N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-8</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007328N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010010N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-9</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010010N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815N1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-10</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815N1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012289N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-11</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012289N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005539W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-12</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005539W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008221W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-13</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008221W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008220W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-14</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008220W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013396N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-15</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013396N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009602N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-16</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009602N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010794N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-17</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010794N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005185N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-18</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-35-I-2-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005185N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>setDown</Activity>
+					<StopPointRef>490000246E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-19</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_54-A10-_-y05-47761-34-2-I">
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>4900801618</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018251N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-1</RouteLinkRef>
+				<RunTime>PT4M30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018251N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008499E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-2</RouteLinkRef>
+				<RunTime>PT4M30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008499E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012827E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-3</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012827E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011730S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-4</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011730S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012825E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-5</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012825E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013560E1</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-6</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013560E1</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019709N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-7</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019709N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007328N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-8</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007328N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010010N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-9</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010010N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815N1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-10</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815N1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012289N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-11</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012289N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005539W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-12</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005539W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008221W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-13</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008221W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008220W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-14</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008220W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013396N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-15</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013396N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009602N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-16</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009602N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010794N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-17</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010794N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005185N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-18</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-34-I-2-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005185N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>setDown</Activity>
+					<StopPointRef>490000246E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-19</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_54-A10-_-y05-47761-18-1-O">
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490000246M</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005185V</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-1</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005185V</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012425S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-2</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012425S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011381E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-3</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011381E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013396E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-4</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013396E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015339E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-5</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015339E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008221E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-6</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008221E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015095S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-7</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015095S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012289S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-8</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012289S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009070S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-9</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009070S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010010S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-10</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010010S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009818E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-11</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009818E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005623S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-12</RouteLinkRef>
+				<RunTime>PT1M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005623S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005988S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-13</RouteLinkRef>
+				<RunTime>PT1M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005988S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013560E2</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-14</RouteLinkRef>
+				<RunTime>PT1M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013560E2</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012825W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-15</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012825W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009339N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-16</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009339N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008499W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-17</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008499W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018251S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-18</RouteLinkRef>
+				<RunTime>PT4M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-18-O-1-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018251S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>setDown</Activity>
+					<StopPointRef>490008016S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-O-1-19</RouteLinkRef>
+				<RunTime>PT4M</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_54-A10-_-y05-47761-20-2-I">
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>4900801618</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018251N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-1</RouteLinkRef>
+				<RunTime>PT4M30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018251N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008499E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-2</RouteLinkRef>
+				<RunTime>PT4M30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008499E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012827E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-3</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012827E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011730S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-4</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011730S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012825E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-5</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012825E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013560E1</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-6</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013560E1</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019709N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-7</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019709N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007328N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-8</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007328N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010010N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-9</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010010N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815N1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-10</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815N1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012289N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-11</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012289N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005539W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-12</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005539W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008221W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-13</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008221W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008220W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-14</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008220W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013396N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-15</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013396N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009602N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-16</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009602N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010794N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-17</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010794N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005185N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-18</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-A10-_-y05-47761-20-I-2-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005185N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>setDown</Activity>
+					<StopPointRef>490000246E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-A10-_-y05-47761-I-2-19</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+	</JourneyPatternSections>
+	<Operators>
+		<Operator id="OId_MT">
+			<OperatorCode>MT</OperatorCode>
+			<OperatorShortName>METROLINE WEST LIMITED</OperatorShortName>
+			<OperatorNameOnLicence>METROLINE WEST LIMITED</OperatorNameOnLicence>
+			<TradingName>METROLINE WEST LIMITED</TradingName>
+		</Operator>
+	</Operators>
+	<Services>
+		<Service>
+			<ServiceCode>54-A10-_-y05-47761</ServiceCode>
+			<PrivateCode>54-A10-_-y05-47761</PrivateCode>
+			<Lines>
+				<Line id="54-A10-_-y05-47761">
+					<LineName>A10</LineName>
+				</Line>
+			</Lines>
+			<OperatingPeriod>
+				<StartDate>2017-12-26</StartDate>
+				<EndDate>2017-12-26</EndDate>
+			</OperatingPeriod>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Wednesday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<RegisteredOperatorRef>OId_MT</RegisteredOperatorRef>
+			<StopRequirements>
+				<NoNewStopsRequired />
+			</StopRequirements>
+			<Mode>bus</Mode>
+			<Description>Uxbridge - Stockley Park - Heathrow Airport</Description>
+			<StandardService>
+				<Origin>Uxbridge Station</Origin>
+				<Destination>Heathrow Central Bus Station</Destination>
+				<JourneyPattern id="JP_54-A10-_-y05-47761-17-O-1">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-A10-_-y05-47761-O-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-A10-_-y05-47761-17-1-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_54-A10-_-y05-47761-33-I-2">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-A10-_-y05-47761-I-2</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-A10-_-y05-47761-33-2-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_54-A10-_-y05-47761-35-I-2">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-A10-_-y05-47761-I-2</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-A10-_-y05-47761-35-2-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_54-A10-_-y05-47761-34-I-2">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-A10-_-y05-47761-I-2</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-A10-_-y05-47761-34-2-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_54-A10-_-y05-47761-18-O-1">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-A10-_-y05-47761-O-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-A10-_-y05-47761-18-1-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_54-A10-_-y05-47761-20-I-2">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-A10-_-y05-47761-I-2</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-A10-_-y05-47761-20-2-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+			</StandardService>
+		</Service>
+	</Services>
+	<VehicleJourneys>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-1-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-1-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>04:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-2-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-2-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-33-I-2</JourneyPatternRef>
+			<DepartureTime>05:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-3-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-3-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>05:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-4-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-4-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-33-I-2</JourneyPatternRef>
+			<DepartureTime>05:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-5-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-5-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>05:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-6-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-6-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-33-I-2</JourneyPatternRef>
+			<DepartureTime>06:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-7-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-7-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>06:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-8-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-8-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-33-I-2</JourneyPatternRef>
+			<DepartureTime>06:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-9-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-9-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>06:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-10-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-10-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-33-I-2</JourneyPatternRef>
+			<DepartureTime>07:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-11-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-11-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>07:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-12-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-12-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-33-I-2</JourneyPatternRef>
+			<DepartureTime>07:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-13-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-13-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>07:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-14-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-14-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-33-I-2</JourneyPatternRef>
+			<DepartureTime>08:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-15-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-15-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>08:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-16-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-16-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-33-I-2</JourneyPatternRef>
+			<DepartureTime>08:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-17-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-17-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>08:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-18-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-18-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-33-I-2</JourneyPatternRef>
+			<DepartureTime>09:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-19-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-19-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>09:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-20-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-20-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-35-I-2</JourneyPatternRef>
+			<DepartureTime>09:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-21-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-21-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>09:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-22-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-22-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-35-I-2</JourneyPatternRef>
+			<DepartureTime>10:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-23-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-23-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>10:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-24-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-24-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-35-I-2</JourneyPatternRef>
+			<DepartureTime>10:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-25-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-25-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>10:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-26-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-26-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-35-I-2</JourneyPatternRef>
+			<DepartureTime>11:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-27-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-27-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>11:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-28-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-28-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-35-I-2</JourneyPatternRef>
+			<DepartureTime>11:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-29-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-29-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>11:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-30-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-30-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-35-I-2</JourneyPatternRef>
+			<DepartureTime>12:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-31-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-31-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>12:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-32-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-32-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-34-I-2</JourneyPatternRef>
+			<DepartureTime>12:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-33-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-33-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-18-O-1</JourneyPatternRef>
+			<DepartureTime>12:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-34-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-34-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-34-I-2</JourneyPatternRef>
+			<DepartureTime>13:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-35-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-35-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-18-O-1</JourneyPatternRef>
+			<DepartureTime>13:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-36-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-36-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-34-I-2</JourneyPatternRef>
+			<DepartureTime>13:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-37-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-37-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-18-O-1</JourneyPatternRef>
+			<DepartureTime>13:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-38-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-38-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-34-I-2</JourneyPatternRef>
+			<DepartureTime>14:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-39-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-39-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-18-O-1</JourneyPatternRef>
+			<DepartureTime>14:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-40-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-40-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-34-I-2</JourneyPatternRef>
+			<DepartureTime>14:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-41-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-41-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-18-O-1</JourneyPatternRef>
+			<DepartureTime>14:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-42-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-42-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-34-I-2</JourneyPatternRef>
+			<DepartureTime>15:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-43-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-43-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-18-O-1</JourneyPatternRef>
+			<DepartureTime>15:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-44-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-44-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-34-I-2</JourneyPatternRef>
+			<DepartureTime>15:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-45-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-45-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-18-O-1</JourneyPatternRef>
+			<DepartureTime>15:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-46-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-46-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-34-I-2</JourneyPatternRef>
+			<DepartureTime>16:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-47-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-47-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-18-O-1</JourneyPatternRef>
+			<DepartureTime>16:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-48-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-48-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-34-I-2</JourneyPatternRef>
+			<DepartureTime>16:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-49-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-49-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-18-O-1</JourneyPatternRef>
+			<DepartureTime>16:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-50-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-50-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-34-I-2</JourneyPatternRef>
+			<DepartureTime>17:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-51-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-51-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-18-O-1</JourneyPatternRef>
+			<DepartureTime>17:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-52-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-52-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>17:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-53-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-53-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-18-O-1</JourneyPatternRef>
+			<DepartureTime>17:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-54-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-54-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>18:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-55-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-55-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>18:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-56-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-56-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>18:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-57-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-57-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>18:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-58-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-58-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>19:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-59-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-59-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>19:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-60-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-60-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>19:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-61-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-61-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>19:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-62-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-62-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>20:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-63-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-63-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>20:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-64-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-64-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>20:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-65-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-65-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>20:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-66-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-66-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>21:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-67-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-67-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>21:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-68-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-68-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>21:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-69-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-69-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>21:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-70-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-70-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>22:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-71-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-71-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>22:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-72-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-72-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>22:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-73-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-73-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>22:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-74-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-74-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>23:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-75-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-75-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>23:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-76-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-76-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-20-I-2</JourneyPatternRef>
+			<DepartureTime>23:40:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-A10-_-y05-47761-77-Bx</PrivateCode>
+			<DestinationDisplay>Heathrow Central</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-A10-_-y05-47761-77-Bx</VehicleJourneyCode>
+			<ServiceRef>54-A10-_-y05-47761</ServiceRef>
+			<LineRef>54-A10-_-y05-47761</LineRef>
+			<JourneyPatternRef>JP_54-A10-_-y05-47761-17-O-1</JourneyPatternRef>
+			<DepartureTime>23:30:00</DepartureTime>
+		</VehicleJourney>
+	</VehicleJourneys>
+</TransXChange>

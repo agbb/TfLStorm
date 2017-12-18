@@ -35,6 +35,7 @@ public class RetreiveAndCompareIncident extends BaseBasicBolt {
         @Override
         public void prepare(Map conf, TopologyContext context) {
         RConnect = new RedisConnector();
+        
     }
         
         @Override
@@ -43,8 +44,7 @@ public class RetreiveAndCompareIncident extends BaseBasicBolt {
 
             Root.Disruptions.Disruption bean = (Root.Disruptions.Disruption) tuple.getValue(0);
             ArrayList<Root.Disruptions.Disruption> dists = RConnect.getIncidentArray();
-            
-            LOG.info("INCIDENT: REDIS: reocvered dists list of size: "+dists.size());
+           
             boolean found = false;
             boolean invalid = false;
             
@@ -69,6 +69,7 @@ public class RetreiveAndCompareIncident extends BaseBasicBolt {
             //A new, valid incident.
             if(!found && !invalid){
                   LOG.info("INCIDENT: new incident found, emmiting to persist.");
+                  RConnect.invalidateIncidentCache();
                   collector.emit("toPersist",new Values(bean));
             }
             

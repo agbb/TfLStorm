@@ -1,0 +1,5929 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TransXChange CreationDateTime="2017-12-11T18:15:41.3554544Z" ModificationDateTime="2017-12-11T18:15:41.3554544Z" Modification="new" FileName="tfl_54-U2-_-y05-43987.xml" RevisionNumber="3" SchemaVersion="2.1" xml:lang="en" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.transxchange.org.uk/">
+	<NptgLocalities>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034515</NptgLocalityRef>
+			<LocalityName>Uxbridge</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034504</NptgLocalityRef>
+			<LocalityName>North Hillingdon</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034496</NptgLocalityRef>
+			<LocalityName>Hillingdon</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034497</NptgLocalityRef>
+			<LocalityName>Hillingdon Heath</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034480</NptgLocalityRef>
+			<LocalityName>Colham Green</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034507</NptgLocalityRef>
+			<LocalityName>Pield Heath</LocalityName>
+		</AnnotatedNptgLocalityRef>
+	</NptgLocalities>
+	<StopPoints>
+		<StopPoint CreationDateTime="2016-04-28T00:00:00">
+			<AtcoCode>490000246N</AtcoCode>
+			<Descriptor>
+				<CommonName>Uxbridge Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>505583</Easting>
+					<Northing>184210</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Uxbridge Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-04-14T00:00:00">
+			<AtcoCode>490010810E</AtcoCode>
+			<Descriptor>
+				<CommonName>The Hermitage</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506067</Easting>
+					<Northing>184621</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Hermitage</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013967S</AtcoCode>
+			<Descriptor>
+				<CommonName>Uxbridge College</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506128</Easting>
+					<Northing>184464</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Uxbridge College</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-06-24T00:00:00">
+			<AtcoCode>490008228E</AtcoCode>
+			<Descriptor>
+				<CommonName>Hillingdon / T A Centre</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506190</Easting>
+					<Northing>184312</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hillingdon / T A Centre</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-04-14T00:00:00">
+			<AtcoCode>490008333E</AtcoCode>
+			<Descriptor>
+				<CommonName>Honey Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506656</Easting>
+					<Northing>184373</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Honey Hill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-17T00:00:00">
+			<AtcoCode>490013113E</AtcoCode>
+			<Descriptor>
+				<CommonName>Sweetcroft Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506932</Easting>
+					<Northing>184460</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Sweetcroft Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490003484E</AtcoCode>
+			<Descriptor>
+				<CommonName>Auriol Drive (UB10)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507456</Easting>
+					<Northing>184843</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Auriol Drive (UB10)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-17T00:00:00">
+			<AtcoCode>490000111B</AtcoCode>
+			<Descriptor>
+				<CommonName>Hillingdon Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507671</Easting>
+					<Northing>184987</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hillingdon Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-06-03T00:00:00">
+			<AtcoCode>490008222S</AtcoCode>
+			<Descriptor>
+				<CommonName>Hillingdon Circus</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507642</Easting>
+					<Northing>184692</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hillingdon Circus</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-17T00:00:00">
+			<AtcoCode>490007374E</AtcoCode>
+			<Descriptor>
+				<CommonName>Granville Road (UB10)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507965</Easting>
+					<Northing>184601</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Granville Road (UB10)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-22T00:00:00">
+			<AtcoCode>490011552S</AtcoCode>
+			<Descriptor>
+				<CommonName>Richmond Avenue_ North Hillingdon</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508193</Easting>
+					<Northing>184430</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Richmond Avenue, North Hillingdon</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-17T00:00:00">
+			<AtcoCode>490009124S</AtcoCode>
+			<Descriptor>
+				<CommonName>Leybourne Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508221</Easting>
+					<Northing>183837</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Leybourne Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-08-02T00:00:00">
+			<AtcoCode>490007539W</AtcoCode>
+			<Descriptor>
+				<CommonName>Grosvenor Crescent_ North Hillingdon</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507844</Easting>
+					<Northing>183942</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Grosvenor Crescent, North Hillingdon</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-15T00:00:00">
+			<AtcoCode>490018655W</AtcoCode>
+			<Descriptor>
+				<CommonName>Burleigh Road / Hillingdon</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507665</Easting>
+					<Northing>183824</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Burleigh Road / Hillingdon</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010483S</AtcoCode>
+			<Descriptor>
+				<CommonName>Oak Farm Library</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507562</Easting>
+					<Northing>183645</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Oak Farm Library</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490005422S</AtcoCode>
+			<Descriptor>
+				<CommonName>Clifton Gardens (UB10)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034496</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507456</Easting>
+					<Northing>183334</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Clifton Gardens (UB10)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-03-31T00:00:00">
+			<AtcoCode>490013974S</AtcoCode>
+			<Descriptor>
+				<CommonName>Crescent Parade</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034496</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507436</Easting>
+					<Northing>182718</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Crescent Parade</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-03-31T00:00:00">
+			<AtcoCode>490008227E</AtcoCode>
+			<Descriptor>
+				<CommonName>Hillingdon School</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034496</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507583</Easting>
+					<Northing>182601</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hillingdon School</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-03-31T00:00:00">
+			<AtcoCode>490013980S</AtcoCode>
+			<Descriptor>
+				<CommonName>Widmore Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034497</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507726</Easting>
+					<Northing>182345</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Widmore Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490003173S</AtcoCode>
+			<Descriptor>
+				<CommonName>Aldenham Drive</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034497</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507553</Easting>
+					<Northing>182051</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Aldenham Drive</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-12-31T00:00:00">
+			<AtcoCode>490007815S</AtcoCode>
+			<Descriptor>
+				<CommonName>Pield Heath Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034480</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507494</Easting>
+					<Northing>181936</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Pield Heath Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490009845W</AtcoCode>
+			<Descriptor>
+				<CommonName>Micawber Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034480</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507195</Easting>
+					<Northing>181875</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Micawber Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-07T00:00:00">
+			<AtcoCode>490008225HA</AtcoCode>
+			<Descriptor>
+				<CommonName>Hillingdon Hospital</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034507</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506760</Easting>
+					<Northing>182031</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hillingdon Hospital</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490008824N</AtcoCode>
+			<Descriptor>
+				<CommonName>Kingston La Pentecostal Church</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034507</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506516</Easting>
+					<Northing>182363</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Kingston La Pentecostal Church</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490004527S</AtcoCode>
+			<Descriptor>
+				<CommonName>Brunel University</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034507</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506478</Easting>
+					<Northing>182564</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Brunel University</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490004527BH</AtcoCode>
+			<Descriptor>
+				<CommonName>Brunel University</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034507</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506468</Easting>
+					<Northing>182545</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Brunel University</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010995S</AtcoCode>
+			<Descriptor>
+				<CommonName>Brunel University Sports Park</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034507</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506578</Easting>
+					<Northing>182205</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Brunel University Sports Park</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-07T00:00:00">
+			<AtcoCode>490008225E</AtcoCode>
+			<Descriptor>
+				<CommonName>Hillingdon Hospital</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034507</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506789</Easting>
+					<Northing>182031</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hillingdon Hospital</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-07T00:00:00">
+			<AtcoCode>490005477E</AtcoCode>
+			<Descriptor>
+				<CommonName>Colham Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034480</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506968</Easting>
+					<Northing>181926</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Colham Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490009845E</AtcoCode>
+			<Descriptor>
+				<CommonName>Micawber Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034480</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507251</Easting>
+					<Northing>181880</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Micawber Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-12-31T00:00:00">
+			<AtcoCode>490007815N</AtcoCode>
+			<Descriptor>
+				<CommonName>Pield Heath Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034480</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507499</Easting>
+					<Northing>181952</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Pield Heath Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490003173N</AtcoCode>
+			<Descriptor>
+				<CommonName>Aldenham Drive</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034497</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507568</Easting>
+					<Northing>182087</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Aldenham Drive</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-03-31T00:00:00">
+			<AtcoCode>490009069N</AtcoCode>
+			<Descriptor>
+				<CommonName>Widmore Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034497</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507707</Easting>
+					<Northing>182320</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Widmore Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-03-31T00:00:00">
+			<AtcoCode>490008227W</AtcoCode>
+			<Descriptor>
+				<CommonName>Hillingdon School</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034496</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507580</Easting>
+					<Northing>182546</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hillingdon School</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-03-31T00:00:00">
+			<AtcoCode>490013974N</AtcoCode>
+			<Descriptor>
+				<CommonName>Crescent Parade</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034496</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507421</Easting>
+					<Northing>182797</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Crescent Parade</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490005422N</AtcoCode>
+			<Descriptor>
+				<CommonName>Clifton Gardens (UB10)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034496</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507439</Easting>
+					<Northing>183337</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Clifton Gardens (UB10)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010483N</AtcoCode>
+			<Descriptor>
+				<CommonName>Oak Farm Library</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507571</Easting>
+					<Northing>183744</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Oak Farm Library</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-08-02T00:00:00">
+			<AtcoCode>490007539E</AtcoCode>
+			<Descriptor>
+				<CommonName>Grosvenor Crescent_ North Hillingdon</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507875</Easting>
+					<Northing>183984</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Grosvenor Crescent, North Hillingdon</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-17T00:00:00">
+			<AtcoCode>490011839N</AtcoCode>
+			<Descriptor>
+				<CommonName>Ryefield Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508082</Easting>
+					<Northing>184256</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Ryefield Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-07-27T00:00:00">
+			<AtcoCode>490011552N</AtcoCode>
+			<Descriptor>
+				<CommonName>Richmond Avenue_ North Hillingdon</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>508192</Easting>
+					<Northing>184474</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Richmond Avenue, North Hillingdon</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-22T00:00:00">
+			<AtcoCode>490007374W</AtcoCode>
+			<Descriptor>
+				<CommonName>Granville Road (UB10)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507914</Easting>
+					<Northing>184611</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Granville Road (UB10)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-06-03T00:00:00">
+			<AtcoCode>490008222N</AtcoCode>
+			<Descriptor>
+				<CommonName>Hillingdon Circus</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507631</Easting>
+					<Northing>184753</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hillingdon Circus</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-17T00:00:00">
+			<AtcoCode>490000111N</AtcoCode>
+			<Descriptor>
+				<CommonName>Hillingdon Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507677</Easting>
+					<Northing>185006</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hillingdon Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490003484W</AtcoCode>
+			<Descriptor>
+				<CommonName>Auriol Drive (UB10)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>507492</Easting>
+					<Northing>184831</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Auriol Drive (UB10)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-17T00:00:00">
+			<AtcoCode>490013113W</AtcoCode>
+			<Descriptor>
+				<CommonName>Sweetcroft Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034504</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506983</Easting>
+					<Northing>184514</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Sweetcroft Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-04-14T00:00:00">
+			<AtcoCode>490008333W</AtcoCode>
+			<Descriptor>
+				<CommonName>Honey Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506550</Easting>
+					<Northing>184326</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Honey Hill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-08-09T00:00:00">
+			<AtcoCode>490008228W</AtcoCode>
+			<Descriptor>
+				<CommonName>Hillingdon / T A Centre</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506304</Easting>
+					<Northing>184315</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hillingdon / T A Centre</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013967N</AtcoCode>
+			<Descriptor>
+				<CommonName>Uxbridge College</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506086</Easting>
+					<Northing>184361</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Uxbridge College</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-04-14T00:00:00">
+			<AtcoCode>490010810W</AtcoCode>
+			<Descriptor>
+				<CommonName>The Hermitage</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>506034</Easting>
+					<Northing>184586</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Hermitage</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-08-17T00:00:00">
+			<AtcoCode>490000246E</AtcoCode>
+			<Descriptor>
+				<CommonName>Belmont Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034515</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>505629</Easting>
+					<Northing>184322</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Belmont Road</Notes>
+		</StopPoint>
+	</StopPoints>
+	<RouteSections>
+		<RouteSection id="RS_54-U2-_-y05-43987-I-1">
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-1">
+				<From>
+					<StopPointRef>490000246N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010810E</StopPointRef>
+				</To>
+				<Distance>708</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-2">
+				<From>
+					<StopPointRef>490010810E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013967S</StopPointRef>
+				</To>
+				<Distance>254</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-3">
+				<From>
+					<StopPointRef>490013967S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008228E</StopPointRef>
+				</To>
+				<Distance>251</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-4">
+				<From>
+					<StopPointRef>490008228E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008333E</StopPointRef>
+				</To>
+				<Distance>476</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-5">
+				<From>
+					<StopPointRef>490008333E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013113E</StopPointRef>
+				</To>
+				<Distance>294</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-6">
+				<From>
+					<StopPointRef>490013113E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003484E</StopPointRef>
+				</To>
+				<Distance>674</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-7">
+				<From>
+					<StopPointRef>490003484E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000111B</StopPointRef>
+				</To>
+				<Distance>557</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-8">
+				<From>
+					<StopPointRef>490000111B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008222S</StopPointRef>
+				</To>
+				<Distance>394</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-9">
+				<From>
+					<StopPointRef>490008222S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007374E</StopPointRef>
+				</To>
+				<Distance>359</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-10">
+				<From>
+					<StopPointRef>490007374E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011552S</StopPointRef>
+				</To>
+				<Distance>344</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-11">
+				<From>
+					<StopPointRef>490011552S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009124S</StopPointRef>
+				</To>
+				<Distance>758</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-12">
+				<From>
+					<StopPointRef>490009124S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007539W</StopPointRef>
+				</To>
+				<Distance>552</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-13">
+				<From>
+					<StopPointRef>490007539W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490018655W</StopPointRef>
+				</To>
+				<Distance>226</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-14">
+				<From>
+					<StopPointRef>490018655W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010483S</StopPointRef>
+				</To>
+				<Distance>319</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-15">
+				<From>
+					<StopPointRef>490010483S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005422S</StopPointRef>
+				</To>
+				<Distance>280</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-16">
+				<From>
+					<StopPointRef>490005422S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013974S</StopPointRef>
+				</To>
+				<Distance>625</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-17">
+				<From>
+					<StopPointRef>490013974S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008227E</StopPointRef>
+				</To>
+				<Distance>438</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-18">
+				<From>
+					<StopPointRef>490008227E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013980S</StopPointRef>
+				</To>
+				<Distance>324</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-19">
+				<From>
+					<StopPointRef>490013980S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003173S</StopPointRef>
+				</To>
+				<Distance>342</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-20">
+				<From>
+					<StopPointRef>490003173S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007815S</StopPointRef>
+				</To>
+				<Distance>163</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-21">
+				<From>
+					<StopPointRef>490007815S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009845W</StopPointRef>
+				</To>
+				<Distance>315</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-22">
+				<From>
+					<StopPointRef>490009845W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008225HA</StopPointRef>
+				</To>
+				<Distance>472</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-23">
+				<From>
+					<StopPointRef>490008225HA</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008824N</StopPointRef>
+				</To>
+				<Distance>447</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-I-1-24">
+				<From>
+					<StopPointRef>490008824N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004527S</StopPointRef>
+				</To>
+				<Distance>203</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+		</RouteSection>
+		<RouteSection id="RS_54-U2-_-y05-43987-O-2">
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-1">
+				<From>
+					<StopPointRef>490004527BH</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010995S</StopPointRef>
+				</To>
+				<Distance>360</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-2">
+				<From>
+					<StopPointRef>490010995S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008225E</StopPointRef>
+				</To>
+				<Distance>303</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-3">
+				<From>
+					<StopPointRef>490008225E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005477E</StopPointRef>
+				</To>
+				<Distance>208</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-4">
+				<From>
+					<StopPointRef>490005477E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009845E</StopPointRef>
+				</To>
+				<Distance>293</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-5">
+				<From>
+					<StopPointRef>490009845E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007815N</StopPointRef>
+				</To>
+				<Distance>275</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-6">
+				<From>
+					<StopPointRef>490007815N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003173N</StopPointRef>
+				</To>
+				<Distance>186</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-7">
+				<From>
+					<StopPointRef>490003173N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009069N</StopPointRef>
+				</To>
+				<Distance>272</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-8">
+				<From>
+					<StopPointRef>490009069N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008227W</StopPointRef>
+				</To>
+				<Distance>322</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-9">
+				<From>
+					<StopPointRef>490008227W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013974N</StopPointRef>
+				</To>
+				<Distance>344</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-10">
+				<From>
+					<StopPointRef>490013974N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005422N</StopPointRef>
+				</To>
+				<Distance>544</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-11">
+				<From>
+					<StopPointRef>490005422N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010483N</StopPointRef>
+				</To>
+				<Distance>428</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-12">
+				<From>
+					<StopPointRef>490010483N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007539E</StopPointRef>
+				</To>
+				<Distance>437</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-13">
+				<From>
+					<StopPointRef>490007539E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011839N</StopPointRef>
+				</To>
+				<Distance>349</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-14">
+				<From>
+					<StopPointRef>490011839N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011552N</StopPointRef>
+				</To>
+				<Distance>246</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-15">
+				<From>
+					<StopPointRef>490011552N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007374W</StopPointRef>
+				</To>
+				<Distance>352</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-16">
+				<From>
+					<StopPointRef>490007374W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008222N</StopPointRef>
+				</To>
+				<Distance>369</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-17">
+				<From>
+					<StopPointRef>490008222N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000111N</StopPointRef>
+				</To>
+				<Distance>282</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-18">
+				<From>
+					<StopPointRef>490000111N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003484W</StopPointRef>
+				</To>
+				<Distance>400</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-19">
+				<From>
+					<StopPointRef>490003484W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013113W</StopPointRef>
+				</To>
+				<Distance>633</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-20">
+				<From>
+					<StopPointRef>490013113W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008333W</StopPointRef>
+				</To>
+				<Distance>485</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-21">
+				<From>
+					<StopPointRef>490008333W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008228W</StopPointRef>
+				</To>
+				<Distance>247</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-22">
+				<From>
+					<StopPointRef>490008228W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013967N</StopPointRef>
+				</To>
+				<Distance>285</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-23">
+				<From>
+					<StopPointRef>490013967N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010810W</StopPointRef>
+				</To>
+				<Distance>376</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_54-U2-_-y05-43987-O-2-24">
+				<From>
+					<StopPointRef>490010810W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000246E</StopPointRef>
+				</To>
+				<Distance>509</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+		</RouteSection>
+	</RouteSections>
+	<Routes>
+		<Route id="R_54-U2-_-y05-43987-I-1">
+			<PrivateCode>R_54-U2-_-y05-43987-I-1</PrivateCode>
+			<Description>Uxbridge Station - Brunel University</Description>
+			<RouteSectionRef>RS_54-U2-_-y05-43987-I-1</RouteSectionRef>
+		</Route>
+		<Route id="R_54-U2-_-y05-43987-O-2">
+			<PrivateCode>R_54-U2-_-y05-43987-O-2</PrivateCode>
+			<Description>Brunel University - Belmont Road</Description>
+			<RouteSectionRef>RS_54-U2-_-y05-43987-O-2</RouteSectionRef>
+		</Route>
+	</Routes>
+	<JourneyPatternSections>
+		<JourneyPatternSection id="JPS_54-U2-_-y05-43987-3-2-O">
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490004527BH</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010995S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-1</RouteLinkRef>
+				<RunTime>PT1M37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010995S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008225E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-2</RouteLinkRef>
+				<RunTime>PT1M23S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008225E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005477E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-3</RouteLinkRef>
+				<RunTime>PT39S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005477E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009845E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-4</RouteLinkRef>
+				<RunTime>PT55S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009845E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-5</RouteLinkRef>
+				<RunTime>PT53S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003173N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-6</RouteLinkRef>
+				<RunTime>PT35S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003173N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009069N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-7</RouteLinkRef>
+				<RunTime>PT51S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009069N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008227W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-8</RouteLinkRef>
+				<RunTime>PT1M1S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008227W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013974N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-9</RouteLinkRef>
+				<RunTime>PT1M6S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013974N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005422N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-10</RouteLinkRef>
+				<RunTime>PT1M32S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005422N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010483N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-11</RouteLinkRef>
+				<RunTime>PT1M14S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010483N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007539E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-12</RouteLinkRef>
+				<RunTime>PT1M14S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007539E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011839N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-13</RouteLinkRef>
+				<RunTime>PT1M7S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011839N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011552N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-14</RouteLinkRef>
+				<RunTime>PT46S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011552N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007374W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-15</RouteLinkRef>
+				<RunTime>PT1M8S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007374W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008222N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-16</RouteLinkRef>
+				<RunTime>PT1M10S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008222N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000111N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-17</RouteLinkRef>
+				<RunTime>PT49S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000111N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003484W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-18</RouteLinkRef>
+				<RunTime>PT47S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003484W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013113W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-19</RouteLinkRef>
+				<RunTime>PT1M18S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-21">
+				<From SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013113W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008333W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-20</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-22">
+				<From SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008333W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008228W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-21</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-23">
+				<From SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008228W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013967N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-22</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-24">
+				<From SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013967N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010810W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-23</RouteLinkRef>
+				<RunTime>PT46S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-3-O-2-25">
+				<From SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010810W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="25">
+					<Activity>setDown</Activity>
+					<StopPointRef>490000246E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-24</RouteLinkRef>
+				<RunTime>PT1M3S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_54-U2-_-y05-43987-1-1-I">
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490000246N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010810E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-1</RouteLinkRef>
+				<RunTime>PT1M32S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010810E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013967S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-2</RouteLinkRef>
+				<RunTime>PT34S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013967S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008228E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-3</RouteLinkRef>
+				<RunTime>PT33S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008228E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008333E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-4</RouteLinkRef>
+				<RunTime>PT1M2S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008333E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013113E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-5</RouteLinkRef>
+				<RunTime>PT38S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013113E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003484E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-6</RouteLinkRef>
+				<RunTime>PT1M28S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003484E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000111B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-7</RouteLinkRef>
+				<RunTime>PT1M13S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000111B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008222S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-8</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008222S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007374E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-9</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007374E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011552S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-10</RouteLinkRef>
+				<RunTime>PT35S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011552S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009124S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-11</RouteLinkRef>
+				<RunTime>PT1M17S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009124S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007539W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-12</RouteLinkRef>
+				<RunTime>PT56S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007539W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018655W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-13</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018655W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010483S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-14</RouteLinkRef>
+				<RunTime>PT43S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010483S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005422S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-15</RouteLinkRef>
+				<RunTime>PT56S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005422S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013974S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-16</RouteLinkRef>
+				<RunTime>PT1M45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013974S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008227E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-17</RouteLinkRef>
+				<RunTime>PT34S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008227E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013980S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-18</RouteLinkRef>
+				<RunTime>PT53S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013980S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003173S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-19</RouteLinkRef>
+				<RunTime>PT56S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-21">
+				<From SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003173S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-20</RouteLinkRef>
+				<RunTime>PT27S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-22">
+				<From SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009845W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-21</RouteLinkRef>
+				<RunTime>PT52S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-23">
+				<From SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009845W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008225HA</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-22</RouteLinkRef>
+				<RunTime>PT1M18S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-24">
+				<From SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008225HA</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008824N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-23</RouteLinkRef>
+				<RunTime>PT1M22S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-1-I-1-25">
+				<From SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008824N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="25">
+					<Activity>setDown</Activity>
+					<StopPointRef>490004527S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-24</RouteLinkRef>
+				<RunTime>PT38S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_54-U2-_-y05-43987-2-1-I">
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490000246N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010810E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-1</RouteLinkRef>
+				<RunTime>PT1M46S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010810E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013967S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-2</RouteLinkRef>
+				<RunTime>PT38S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013967S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008228E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-3</RouteLinkRef>
+				<RunTime>PT37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008228E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008333E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-4</RouteLinkRef>
+				<RunTime>PT1M11S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008333E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013113E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-5</RouteLinkRef>
+				<RunTime>PT44S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013113E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003484E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-6</RouteLinkRef>
+				<RunTime>PT1M41S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003484E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000111B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-7</RouteLinkRef>
+				<RunTime>PT1M23S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000111B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008222S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-8</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008222S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007374E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-9</RouteLinkRef>
+				<RunTime>PT46S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007374E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011552S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-10</RouteLinkRef>
+				<RunTime>PT43S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011552S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009124S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-11</RouteLinkRef>
+				<RunTime>PT1M36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009124S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007539W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-12</RouteLinkRef>
+				<RunTime>PT1M10S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007539W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018655W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-13</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018655W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010483S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-14</RouteLinkRef>
+				<RunTime>PT43S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010483S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005422S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-15</RouteLinkRef>
+				<RunTime>PT56S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005422S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013974S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-16</RouteLinkRef>
+				<RunTime>PT1M45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013974S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008227E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-17</RouteLinkRef>
+				<RunTime>PT34S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008227E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013980S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-18</RouteLinkRef>
+				<RunTime>PT53S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013980S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003173S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-19</RouteLinkRef>
+				<RunTime>PT56S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-21">
+				<From SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003173S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-20</RouteLinkRef>
+				<RunTime>PT27S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-22">
+				<From SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009845W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-21</RouteLinkRef>
+				<RunTime>PT52S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-23">
+				<From SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009845W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008225HA</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-22</RouteLinkRef>
+				<RunTime>PT1M18S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-24">
+				<From SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008225HA</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008824N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-23</RouteLinkRef>
+				<RunTime>PT1M22S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-2-I-1-25">
+				<From SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008824N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="25">
+					<Activity>setDown</Activity>
+					<StopPointRef>490004527S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-I-1-24</RouteLinkRef>
+				<RunTime>PT38S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_54-U2-_-y05-43987-4-2-O">
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490004527BH</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010995S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-1</RouteLinkRef>
+				<RunTime>PT1M37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010995S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008225E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-2</RouteLinkRef>
+				<RunTime>PT1M23S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008225E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005477E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-3</RouteLinkRef>
+				<RunTime>PT39S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005477E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009845E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-4</RouteLinkRef>
+				<RunTime>PT55S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009845E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-5</RouteLinkRef>
+				<RunTime>PT53S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007815N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003173N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-6</RouteLinkRef>
+				<RunTime>PT35S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003173N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009069N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-7</RouteLinkRef>
+				<RunTime>PT51S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009069N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008227W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-8</RouteLinkRef>
+				<RunTime>PT1M1S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008227W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013974N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-9</RouteLinkRef>
+				<RunTime>PT1M6S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013974N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005422N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-10</RouteLinkRef>
+				<RunTime>PT1M32S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005422N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010483N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-11</RouteLinkRef>
+				<RunTime>PT1M14S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010483N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007539E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-12</RouteLinkRef>
+				<RunTime>PT1M14S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007539E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011839N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-13</RouteLinkRef>
+				<RunTime>PT54S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011839N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011552N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-14</RouteLinkRef>
+				<RunTime>PT37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011552N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007374W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-15</RouteLinkRef>
+				<RunTime>PT54S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007374W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008222N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-16</RouteLinkRef>
+				<RunTime>PT56S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008222N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000111N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-17</RouteLinkRef>
+				<RunTime>PT39S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000111N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003484W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-18</RouteLinkRef>
+				<RunTime>PT47S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003484W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013113W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-19</RouteLinkRef>
+				<RunTime>PT1M18S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-21">
+				<From SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013113W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008333W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-20</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-22">
+				<From SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008333W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008228W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-21</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-23">
+				<From SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008228W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013967N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-22</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-24">
+				<From SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013967N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010810W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-23</RouteLinkRef>
+				<RunTime>PT46S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_54-U2-_-y05-43987-4-O-2-25">
+				<From SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010810W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="25">
+					<Activity>setDown</Activity>
+					<StopPointRef>490000246E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_54-U2-_-y05-43987-O-2-24</RouteLinkRef>
+				<RunTime>PT1M3S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+	</JourneyPatternSections>
+	<Operators>
+		<Operator id="OId_MT">
+			<OperatorCode>MT</OperatorCode>
+			<OperatorShortName>METROLINE WEST LIMITED</OperatorShortName>
+			<OperatorNameOnLicence>METROLINE WEST LIMITED</OperatorNameOnLicence>
+			<TradingName>METROLINE WEST LIMITED</TradingName>
+		</Operator>
+	</Operators>
+	<Services>
+		<Service>
+			<ServiceCode>54-U2-_-y05-43987</ServiceCode>
+			<PrivateCode>54-U2-_-y05-43987</PrivateCode>
+			<Lines>
+				<Line id="54-U2-_-y05-43987">
+					<LineName>U2</LineName>
+				</Line>
+			</Lines>
+			<OperatingPeriod>
+				<StartDate>2017-12-26</StartDate>
+				<EndDate>2017-12-26</EndDate>
+			</OperatingPeriod>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Wednesday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<RegisteredOperatorRef>OId_MT</RegisteredOperatorRef>
+			<StopRequirements>
+				<NoNewStopsRequired />
+			</StopRequirements>
+			<Mode>bus</Mode>
+			<Description>Brunel University - Hillingdon - Uxbridge</Description>
+			<StandardService>
+				<Origin>Brunel University</Origin>
+				<Destination>Belmont Road</Destination>
+				<JourneyPattern id="JP_54-U2-_-y05-43987-3-O-2">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-U2-_-y05-43987-O-2</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-U2-_-y05-43987-3-2-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_54-U2-_-y05-43987-1-I-1">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-U2-_-y05-43987-I-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-U2-_-y05-43987-1-1-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_54-U2-_-y05-43987-2-I-1">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-U2-_-y05-43987-I-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-U2-_-y05-43987-2-1-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_54-U2-_-y05-43987-4-O-2">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_54-U2-_-y05-43987-O-2</RouteRef>
+					<JourneyPatternSectionRefs>JPS_54-U2-_-y05-43987-4-2-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+			</StandardService>
+		</Service>
+	</Services>
+	<VehicleJourneys>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-1-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-1-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>06:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-2-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-2-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-1-I-1</JourneyPatternRef>
+			<DepartureTime>06:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-3-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-3-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>06:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-4-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-4-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-1-I-1</JourneyPatternRef>
+			<DepartureTime>06:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-5-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-5-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>07:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-6-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-6-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-1-I-1</JourneyPatternRef>
+			<DepartureTime>07:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-7-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-7-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>07:30:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-8-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-8-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-1-I-1</JourneyPatternRef>
+			<DepartureTime>07:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-9-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-9-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>08:00:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-10-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-10-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-1-I-1</JourneyPatternRef>
+			<DepartureTime>08:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-11-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-11-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>08:24:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-12-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-12-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-1-I-1</JourneyPatternRef>
+			<DepartureTime>08:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-13-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-13-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>08:44:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-14-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-14-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-1-I-1</JourneyPatternRef>
+			<DepartureTime>08:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-15-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-15-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>09:04:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-16-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-16-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-1-I-1</JourneyPatternRef>
+			<DepartureTime>09:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-17-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-17-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>09:24:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-18-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-18-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-1-I-1</JourneyPatternRef>
+			<DepartureTime>09:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-19-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-19-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>09:44:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-20-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-20-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>09:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-21-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-21-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>10:04:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-22-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-22-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>10:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-23-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-23-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>10:24:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-24-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-24-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>10:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-25-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-25-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>10:44:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-26-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-26-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>10:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-27-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-27-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>11:04:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-28-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-28-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>11:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-29-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-29-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>11:24:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-30-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-30-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>11:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-31-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-31-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>11:44:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-32-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-32-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>11:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-33-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-33-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>12:04:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-34-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-34-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>12:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-35-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-35-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>12:24:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-36-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-36-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>12:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-37-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-37-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>12:44:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-38-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-38-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>12:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-39-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-39-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>13:04:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-40-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-40-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>13:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-41-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-41-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>13:24:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-42-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-42-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>13:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-43-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-43-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>13:44:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-44-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-44-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>13:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-45-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-45-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>14:04:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-46-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-46-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>14:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-47-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-47-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>14:24:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-48-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-48-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>14:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-49-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-49-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>14:44:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-50-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-50-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>14:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-51-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-51-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>15:04:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-52-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-52-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>15:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-53-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-53-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>15:24:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-54-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-54-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>15:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-55-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-55-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>15:44:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-56-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-56-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>15:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-57-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-57-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>16:04:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-58-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-58-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>16:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-59-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-59-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>16:24:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-60-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-60-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>16:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-61-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-61-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>16:44:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-62-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-62-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>16:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-63-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-63-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>17:04:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-64-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-64-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>17:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-65-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-65-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>17:24:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-66-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-66-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>17:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-67-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-67-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-3-O-2</JourneyPatternRef>
+			<DepartureTime>17:44:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-68-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-68-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>17:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-69-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-69-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>18:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-70-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-70-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>18:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-71-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-71-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>18:25:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-72-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-72-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>18:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-73-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-73-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>18:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-74-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-74-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>18:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-75-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-75-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>19:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-76-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-76-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>19:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-77-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-77-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>19:25:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-78-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-78-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>19:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-79-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-79-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>19:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-80-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-80-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>19:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-81-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-81-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>20:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-82-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-82-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>20:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-83-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-83-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>20:25:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-84-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-84-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>20:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-85-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-85-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>20:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-86-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-86-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>20:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-87-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-87-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>21:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-88-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-88-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>21:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-89-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-89-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>21:25:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-90-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-90-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>21:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-91-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-91-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>21:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-92-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-92-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>21:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-93-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-93-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>22:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-94-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-94-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>22:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-95-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-95-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>22:25:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-96-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-96-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>22:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-97-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-97-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>22:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-98-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-98-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>22:55:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-99-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-99-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>23:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-100-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-100-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>23:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-101-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-101-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>23:25:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-102-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-102-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>23:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-103-Bx</PrivateCode>
+			<DestinationDisplay>Uxbridge</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-103-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-4-O-2</JourneyPatternRef>
+			<DepartureTime>23:45:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-54-U2-_-y05-43987-104-Bx</PrivateCode>
+			<DestinationDisplay>Brunel University</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_54-U2-_-y05-43987-104-Bx</VehicleJourneyCode>
+			<ServiceRef>54-U2-_-y05-43987</ServiceRef>
+			<LineRef>54-U2-_-y05-43987</LineRef>
+			<JourneyPatternRef>JP_54-U2-_-y05-43987-2-I-1</JourneyPatternRef>
+			<DepartureTime>23:55:00</DepartureTime>
+		</VehicleJourney>
+	</VehicleJourneys>
+</TransXChange>

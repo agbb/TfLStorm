@@ -1,0 +1,4916 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TransXChange CreationDateTime="2017-12-11T17:38:42.116086Z" ModificationDateTime="2017-12-11T17:38:42.116086Z" Modification="new" FileName="tfl_45-658-_-y05-48774.xml" RevisionNumber="3" SchemaVersion="2.1" xml:lang="en" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.transxchange.org.uk/">
+	<NptgLocalities>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034322</NptgLocalityRef>
+			<LocalityName>Avery Hill</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0060442</NptgLocalityRef>
+			<LocalityName>Falconwood</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034034</NptgLocalityRef>
+			<LocalityName>Welling</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034335</NptgLocalityRef>
+			<LocalityName>Plumstead Common</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034338</NptgLocalityRef>
+			<LocalityName>Woolwich</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0075254</NptgLocalityRef>
+			<LocalityName>Thamesmead West</LocalityName>
+		</AnnotatedNptgLocalityRef>
+	</NptgLocalities>
+	<StopPoints>
+		<StopPoint CreationDateTime="2016-06-03T00:00:00">
+			<AtcoCode>490016229E</AtcoCode>
+			<Descriptor>
+				<CommonName>Bexley Road / Crown Woods School</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034322</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544391</Easting>
+					<Northing>174565</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bexley Road / Crown Woods School</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-05-25T00:00:00">
+			<AtcoCode>490003504N</AtcoCode>
+			<Descriptor>
+				<CommonName>Avery Hill / Riefield Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034322</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544541</Easting>
+					<Northing>174625</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Avery Hill / Riefield Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490005846N</AtcoCode>
+			<Descriptor>
+				<CommonName>Riefield Road Crown Woods School</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034322</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544411</Easting>
+					<Northing>174957</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Riefield Road Crown Woods School</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490006536N</AtcoCode>
+			<Descriptor>
+				<CommonName>Eltham Cemetery</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034322</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544382</Easting>
+					<Northing>175182</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Eltham Cemetery</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490001105B</AtcoCode>
+			<Descriptor>
+				<CommonName>Falconwood</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544630</Easting>
+					<Northing>175375</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Falconwood</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490009882E</AtcoCode>
+			<Descriptor>
+				<CommonName>Millbrook Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544860</Easting>
+					<Northing>175401</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Millbrook Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-07-22T00:00:00">
+			<AtcoCode>490010410S</AtcoCode>
+			<Descriptor>
+				<CommonName>Northumberland Avenue_ Falconwood</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544972</Easting>
+					<Northing>175321</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Northumberland Avenue, Falconwood</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490004552N</AtcoCode>
+			<Descriptor>
+				<CommonName>Buckingham Avenue (DA16)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545314</Easting>
+					<Northing>175190</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Buckingham Avenue (DA16)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490006725E</AtcoCode>
+			<Descriptor>
+				<CommonName>Falconwood Community Centre</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545455</Easting>
+					<Northing>175156</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Falconwood Community Centre</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490005897N</AtcoCode>
+			<Descriptor>
+				<CommonName>Cumberland Avenue_ Falconwood</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545692</Easting>
+					<Northing>175107</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Cumberland Avenue, Falconwood</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490015011N</AtcoCode>
+			<Descriptor>
+				<CommonName>Yorkland Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545856</Easting>
+					<Northing>175301</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Yorkland Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-08-10T00:00:00">
+			<AtcoCode>490008341N</AtcoCode>
+			<Descriptor>
+				<CommonName>Hook Lane / Westwood Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545983</Easting>
+					<Northing>175409</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hook Lane / Westwood Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-04-18T00:00:00">
+			<AtcoCode>490006735N</AtcoCode>
+			<Descriptor>
+				<CommonName>Faraday Road (DA16)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546268</Easting>
+					<Northing>175600</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Faraday Road (DA16)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-05-31T00:00:00">
+			<AtcoCode>490014351P</AtcoCode>
+			<Descriptor>
+				<CommonName>Bellegrove Rd / Churchfield Rd</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546443</Easting>
+					<Northing>175837</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bellegrove Rd / Churchfield Rd</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-25T00:00:00">
+			<AtcoCode>490011803G</AtcoCode>
+			<Descriptor>
+				<CommonName>Ruskin Drive</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546221</Easting>
+					<Northing>175869</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Ruskin Drive</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490001318B</AtcoCode>
+			<Descriptor>
+				<CommonName>Welling</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545962</Easting>
+					<Northing>176031</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Welling</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490004602N</AtcoCode>
+			<Descriptor>
+				<CommonName>Central Avenue/ Wickham Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546028</Easting>
+					<Northing>176430</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Central Avenue/ Wickham Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010941N</AtcoCode>
+			<Descriptor>
+				<CommonName>Peregrine Court</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545800</Easting>
+					<Northing>176567</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Peregrine Court</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-04-18T00:00:00">
+			<AtcoCode>490005053N</AtcoCode>
+			<Descriptor>
+				<CommonName>Chaucer Road (DA16)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545669</Easting>
+					<Northing>176853</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Chaucer Road (DA16)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013375N</AtcoCode>
+			<Descriptor>
+				<CommonName>The Glenmore Arms</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545626</Easting>
+					<Northing>176989</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Glenmore Arms</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013627N</AtcoCode>
+			<Descriptor>
+				<CommonName>Thornhill Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545491</Easting>
+					<Northing>177357</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Thornhill Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-24T00:00:00">
+			<AtcoCode>490008773N</AtcoCode>
+			<Descriptor>
+				<CommonName>Kingsdale Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545470</Easting>
+					<Northing>177523</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Kingsdale Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-24T00:00:00">
+			<AtcoCode>490003672N</AtcoCode>
+			<Descriptor>
+				<CommonName>Bassant Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545442</Easting>
+					<Northing>177658</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bassant Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-10-20T00:00:00">
+			<AtcoCode>490013607W</AtcoCode>
+			<Descriptor>
+				<CommonName>The Slade / Ravine Grove</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545121</Easting>
+					<Northing>177741</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Slade / Ravine Grove</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490011072W</AtcoCode>
+			<Descriptor>
+				<CommonName>Plumstead Common Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544822</Easting>
+					<Northing>177749</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Plumstead Common Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490011073W</AtcoCode>
+			<Descriptor>
+				<CommonName>Plumstead Common / The Ship</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544615</Easting>
+					<Northing>177794</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Plumstead Common / The Ship</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-09T00:00:00">
+			<AtcoCode>490008853W</AtcoCode>
+			<Descriptor>
+				<CommonName>Kirk Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544237</Easting>
+					<Northing>177847</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Kirk Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013801W</AtcoCode>
+			<Descriptor>
+				<CommonName>Trinity Church</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544095</Easting>
+					<Northing>177882</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Trinity Church</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-19T00:00:00">
+			<AtcoCode>490008079W</AtcoCode>
+			<Descriptor>
+				<CommonName>Herbert Road (SE18)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034338</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543886</Easting>
+					<Northing>177931</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Herbert Road (SE18)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-09T00:00:00">
+			<AtcoCode>490007000N</AtcoCode>
+			<Descriptor>
+				<CommonName>Frederick Place</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034338</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543722</Easting>
+					<Northing>178282</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Frederick Place</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-10-16T00:00:00">
+			<AtcoCode>490005742E</AtcoCode>
+			<Descriptor>
+				<CommonName>Crescent Road (SE18)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0075254</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544035</Easting>
+					<Northing>178585</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Crescent Road (SE18)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490004624N1</AtcoCode>
+			<Descriptor>
+				<CommonName>Burrage Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0075254</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543999</Easting>
+					<Northing>178868</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Burrage Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490003917D</AtcoCode>
+			<Descriptor>
+				<CommonName>Beresford Sq /Woolwich Arsenal</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034338</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543673</Easting>
+					<Northing>179026</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Beresford Sq /Woolwich Arsenal</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-08-10T00:00:00">
+			<AtcoCode>490014351L</AtcoCode>
+			<Descriptor>
+				<CommonName>Hook Lane / St Leonards Close</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546453</Easting>
+					<Northing>175736</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hook Lane / St Leonards Close</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-04-18T00:00:00">
+			<AtcoCode>490006735S</AtcoCode>
+			<Descriptor>
+				<CommonName>Faraday Road (DA16)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546213</Easting>
+					<Northing>175554</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Faraday Road (DA16)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-01-29T00:00:00">
+			<AtcoCode>490015011S</AtcoCode>
+			<Descriptor>
+				<CommonName>Yorkland Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545879</Easting>
+					<Northing>175311</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Yorkland Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490014537W</AtcoCode>
+			<Descriptor>
+				<CommonName>Westwood Post Office</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545641</Easting>
+					<Northing>175083</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Westwood Post Office</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490006725W</AtcoCode>
+			<Descriptor>
+				<CommonName>Falconwood Community Centre</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545415</Easting>
+					<Northing>175164</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Falconwood Community Centre</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490004552S</AtcoCode>
+			<Descriptor>
+				<CommonName>Buckingham Avenue (DA16)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545314</Easting>
+					<Northing>175145</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Buckingham Avenue (DA16)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010410N</AtcoCode>
+			<Descriptor>
+				<CommonName>Northumberland Avenue_ Falconwood</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544945</Easting>
+					<Northing>175361</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Northumberland Avenue, Falconwood</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490009882W</AtcoCode>
+			<Descriptor>
+				<CommonName>Millbrook Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544881</Easting>
+					<Northing>175400</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Millbrook Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-08-23T00:00:00">
+			<AtcoCode>490001105A</AtcoCode>
+			<Descriptor>
+				<CommonName>Falconwood</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060442</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544626</Easting>
+					<Northing>175363</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Falconwood</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490006536S</AtcoCode>
+			<Descriptor>
+				<CommonName>Eltham Cemetery</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034322</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544442</Easting>
+					<Northing>175247</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Eltham Cemetery</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490005846S</AtcoCode>
+			<Descriptor>
+				<CommonName>Riefield Road Crown Woods School</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034322</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544473</Easting>
+					<Northing>174867</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Riefield Road Crown Woods School</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490003505W</AtcoCode>
+			<Descriptor>
+				<CommonName>Univ of Greenwich/Mansion Site</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034322</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544174</Easting>
+					<Northing>174582</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Univ of Greenwich/Mansion Site</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-01-29T00:00:00">
+			<AtcoCode>490001344S</AtcoCode>
+			<Descriptor>
+				<CommonName>Woolwich Arsenal Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034338</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543626</Easting>
+					<Northing>178779</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Woolwich Arsenal Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-26T00:00:00">
+			<AtcoCode>490001344G</AtcoCode>
+			<Descriptor>
+				<CommonName>Vincent Road /Woolwich Arsenal</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034338</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543750</Easting>
+					<Northing>178789</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Vincent Road /Woolwich Arsenal</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-06-08T00:00:00">
+			<AtcoCode>490005742S</AtcoCode>
+			<Descriptor>
+				<CommonName>Burrage Road / Arthur Grove</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0075254</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544052</Easting>
+					<Northing>178664</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Burrage Road / Arthur Grove</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-09T00:00:00">
+			<AtcoCode>490007000S</AtcoCode>
+			<Descriptor>
+				<CommonName>Frederick Place</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034338</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543949</Easting>
+					<Northing>178249</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Frederick Place</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-06-03T00:00:00">
+			<AtcoCode>490015577S</AtcoCode>
+			<Descriptor>
+				<CommonName>Bloomfield Road / Plumstead Common Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034338</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543913</Easting>
+					<Northing>177959</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bloomfield Road / Plumstead Common Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013801E</AtcoCode>
+			<Descriptor>
+				<CommonName>Trinity Church</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544035</Easting>
+					<Northing>177926</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Trinity Church</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-09T00:00:00">
+			<AtcoCode>490004098E</AtcoCode>
+			<Descriptor>
+				<CommonName>Blendon Terrace</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544357</Easting>
+					<Northing>177858</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Blendon Terrace</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490011073E2</AtcoCode>
+			<Descriptor>
+				<CommonName>Plumstead Common / The Ship</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544604</Easting>
+					<Northing>177808</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Plumstead Common / The Ship</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490011072E</AtcoCode>
+			<Descriptor>
+				<CommonName>Plumstead Common Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544889</Easting>
+					<Northing>177750</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Plumstead Common Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013607E</AtcoCode>
+			<Descriptor>
+				<CommonName>The Slade / Ravine Grove</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545136</Easting>
+					<Northing>177768</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Slade / Ravine Grove</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-24T00:00:00">
+			<AtcoCode>490009795E</AtcoCode>
+			<Descriptor>
+				<CommonName>Bassant Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545476</Easting>
+					<Northing>177593</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bassant Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-24T00:00:00">
+			<AtcoCode>490008773S</AtcoCode>
+			<Descriptor>
+				<CommonName>Kingsdale Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545492</Easting>
+					<Northing>177463</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Kingsdale Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013627S</AtcoCode>
+			<Descriptor>
+				<CommonName>Thornhill Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545511</Easting>
+					<Northing>177298</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Thornhill Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-24T00:00:00">
+			<AtcoCode>490013375S</AtcoCode>
+			<Descriptor>
+				<CommonName>Combeside</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034335</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545624</Easting>
+					<Northing>177047</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Combeside</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-04-18T00:00:00">
+			<AtcoCode>490005053S</AtcoCode>
+			<Descriptor>
+				<CommonName>Chaucer Road (DA16)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545696</Easting>
+					<Northing>176808</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Chaucer Road (DA16)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-11-02T00:00:00">
+			<AtcoCode>490014655E</AtcoCode>
+			<Descriptor>
+				<CommonName>Wickham Street / Edison Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545878</Easting>
+					<Northing>176546</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Wickham Street / Edison Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490004602S</AtcoCode>
+			<Descriptor>
+				<CommonName>Central Avenue/ Wickham Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546031</Easting>
+					<Northing>176399</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Central Avenue/ Wickham Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490001318A</AtcoCode>
+			<Descriptor>
+				<CommonName>Welling</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545986</Easting>
+					<Northing>176038</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Welling</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-06-20T00:00:00">
+			<AtcoCode>490006018H</AtcoCode>
+			<Descriptor>
+				<CommonName>Deepdene Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034034</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546311</Easting>
+					<Northing>175883</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Deepdene Road</Notes>
+		</StopPoint>
+	</StopPoints>
+	<RouteSections>
+		<RouteSection id="RS_45-658-_-y05-48774-O-1">
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-1">
+				<From>
+					<StopPointRef>490016229E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003504N</StopPointRef>
+				</To>
+				<Distance>269</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-2">
+				<From>
+					<StopPointRef>490003504N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005846N</StopPointRef>
+				</To>
+				<Distance>357</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-3">
+				<From>
+					<StopPointRef>490005846N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006536N</StopPointRef>
+				</To>
+				<Distance>231</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-4">
+				<From>
+					<StopPointRef>490006536N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001105B</StopPointRef>
+				</To>
+				<Distance>361</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-5">
+				<From>
+					<StopPointRef>490001105B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009882E</StopPointRef>
+				</To>
+				<Distance>262</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-6">
+				<From>
+					<StopPointRef>490009882E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010410S</StopPointRef>
+				</To>
+				<Distance>176</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-7">
+				<From>
+					<StopPointRef>490010410S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004552N</StopPointRef>
+				</To>
+				<Distance>426</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-8">
+				<From>
+					<StopPointRef>490004552N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006725E</StopPointRef>
+				</To>
+				<Distance>147</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-9">
+				<From>
+					<StopPointRef>490006725E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005897N</StopPointRef>
+				</To>
+				<Distance>269</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-10">
+				<From>
+					<StopPointRef>490005897N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015011N</StopPointRef>
+				</To>
+				<Distance>258</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-11">
+				<From>
+					<StopPointRef>490015011N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008341N</StopPointRef>
+				</To>
+				<Distance>149</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-12">
+				<From>
+					<StopPointRef>490008341N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006735N</StopPointRef>
+				</To>
+				<Distance>358</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-13">
+				<From>
+					<StopPointRef>490006735N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014351P</StopPointRef>
+				</To>
+				<Distance>359</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-14">
+				<From>
+					<StopPointRef>490014351P</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011803G</StopPointRef>
+				</To>
+				<Distance>211</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-15">
+				<From>
+					<StopPointRef>490011803G</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001318B</StopPointRef>
+				</To>
+				<Distance>349</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-16">
+				<From>
+					<StopPointRef>490001318B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004602N</StopPointRef>
+				</To>
+				<Distance>403</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-17">
+				<From>
+					<StopPointRef>490004602N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010941N</StopPointRef>
+				</To>
+				<Distance>316</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-18">
+				<From>
+					<StopPointRef>490010941N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005053N</StopPointRef>
+				</To>
+				<Distance>315</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-19">
+				<From>
+					<StopPointRef>490005053N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013375N</StopPointRef>
+				</To>
+				<Distance>112</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-20">
+				<From>
+					<StopPointRef>490013375N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013627N</StopPointRef>
+				</To>
+				<Distance>470</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-21">
+				<From>
+					<StopPointRef>490013627N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008773N</StopPointRef>
+				</To>
+				<Distance>168</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-22">
+				<From>
+					<StopPointRef>490008773N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003672N</StopPointRef>
+				</To>
+				<Distance>147</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-23">
+				<From>
+					<StopPointRef>490003672N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013607W</StopPointRef>
+				</To>
+				<Distance>453</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-24">
+				<From>
+					<StopPointRef>490013607W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011072W</StopPointRef>
+				</To>
+				<Distance>307</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-25">
+				<From>
+					<StopPointRef>490011072W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011073W</StopPointRef>
+				</To>
+				<Distance>212</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-26">
+				<From>
+					<StopPointRef>490011073W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008853W</StopPointRef>
+				</To>
+				<Distance>390</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-27">
+				<From>
+					<StopPointRef>490008853W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013801W</StopPointRef>
+				</To>
+				<Distance>145</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-28">
+				<From>
+					<StopPointRef>490013801W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008079W</StopPointRef>
+				</To>
+				<Distance>221</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-29">
+				<From>
+					<StopPointRef>490008079W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007000N</StopPointRef>
+				</To>
+				<Distance>420</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-30">
+				<From>
+					<StopPointRef>490007000N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005742E</StopPointRef>
+				</To>
+				<Distance>491</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-31">
+				<From>
+					<StopPointRef>490005742E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004624N1</StopPointRef>
+				</To>
+				<Distance>302</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-O-1-32">
+				<From>
+					<StopPointRef>490004624N1</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003917D</StopPointRef>
+				</To>
+				<Distance>402</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+		</RouteSection>
+		<RouteSection id="RS_45-658-_-y05-48774-I-2">
+			<RouteLink id="RL_45-658-_-y05-48774-I-2-1">
+				<From>
+					<StopPointRef>490014351L</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006735S</StopPointRef>
+				</To>
+				<Distance>282</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-2-2">
+				<From>
+					<StopPointRef>490006735S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015011S</StopPointRef>
+				</To>
+				<Distance>415</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-2-3">
+				<From>
+					<StopPointRef>490015011S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014537W</StopPointRef>
+				</To>
+				<Distance>352</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-2-4">
+				<From>
+					<StopPointRef>490014537W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006725W</StopPointRef>
+				</To>
+				<Distance>316</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-2-5">
+				<From>
+					<StopPointRef>490006725W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004552S</StopPointRef>
+				</To>
+				<Distance>149</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-2-6">
+				<From>
+					<StopPointRef>490004552S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010410N</StopPointRef>
+				</To>
+				<Distance>486</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-2-7">
+				<From>
+					<StopPointRef>490010410N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009882W</StopPointRef>
+				</To>
+				<Distance>110</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-2-8">
+				<From>
+					<StopPointRef>490009882W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001105A</StopPointRef>
+				</To>
+				<Distance>301</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-2-9">
+				<From>
+					<StopPointRef>490001105A</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006536S</StopPointRef>
+				</To>
+				<Distance>254</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-2-10">
+				<From>
+					<StopPointRef>490006536S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005846S</StopPointRef>
+				</To>
+				<Distance>424</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-2-11">
+				<From>
+					<StopPointRef>490005846S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003505W</StopPointRef>
+				</To>
+				<Distance>738</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+		</RouteSection>
+		<RouteSection id="RS_45-658-_-y05-48774-I-3">
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-1">
+				<From>
+					<StopPointRef>490001344S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001344G</StopPointRef>
+				</To>
+				<Distance>172</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-2">
+				<From>
+					<StopPointRef>490001344G</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005742S</StopPointRef>
+				</To>
+				<Distance>363</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-3">
+				<From>
+					<StopPointRef>490005742S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007000S</StopPointRef>
+				</To>
+				<Distance>495</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-4">
+				<From>
+					<StopPointRef>490007000S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015577S</StopPointRef>
+				</To>
+				<Distance>256</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-5">
+				<From>
+					<StopPointRef>490015577S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013801E</StopPointRef>
+				</To>
+				<Distance>181</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-6">
+				<From>
+					<StopPointRef>490013801E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004098E</StopPointRef>
+				</To>
+				<Distance>332</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-7">
+				<From>
+					<StopPointRef>490004098E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011073E2</StopPointRef>
+				</To>
+				<Distance>262</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-8">
+				<From>
+					<StopPointRef>490011073E2</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011072E</StopPointRef>
+				</To>
+				<Distance>290</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-9">
+				<From>
+					<StopPointRef>490011072E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013607E</StopPointRef>
+				</To>
+				<Distance>270</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-10">
+				<From>
+					<StopPointRef>490013607E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009795E</StopPointRef>
+				</To>
+				<Distance>501</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-11">
+				<From>
+					<StopPointRef>490009795E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008773S</StopPointRef>
+				</To>
+				<Distance>135</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-12">
+				<From>
+					<StopPointRef>490008773S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013627S</StopPointRef>
+				</To>
+				<Distance>165</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-13">
+				<From>
+					<StopPointRef>490013627S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013375S</StopPointRef>
+				</To>
+				<Distance>324</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-14">
+				<From>
+					<StopPointRef>490013375S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005053S</StopPointRef>
+				</To>
+				<Distance>250</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-15">
+				<From>
+					<StopPointRef>490005053S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014655E</StopPointRef>
+				</To>
+				<Distance>317</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-16">
+				<From>
+					<StopPointRef>490014655E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004602S</StopPointRef>
+				</To>
+				<Distance>293</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-17">
+				<From>
+					<StopPointRef>490004602S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001318A</StopPointRef>
+				</To>
+				<Distance>373</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-18">
+				<From>
+					<StopPointRef>490001318A</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006018H</StopPointRef>
+				</To>
+				<Distance>437</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-19">
+				<From>
+					<StopPointRef>490006018H</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014351L</StopPointRef>
+				</To>
+				<Distance>332</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-20">
+				<From>
+					<StopPointRef>490014351L</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006735S</StopPointRef>
+				</To>
+				<Distance>282</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-21">
+				<From>
+					<StopPointRef>490006735S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015011S</StopPointRef>
+				</To>
+				<Distance>415</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-22">
+				<From>
+					<StopPointRef>490015011S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014537W</StopPointRef>
+				</To>
+				<Distance>352</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-23">
+				<From>
+					<StopPointRef>490014537W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006725W</StopPointRef>
+				</To>
+				<Distance>316</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-24">
+				<From>
+					<StopPointRef>490006725W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004552S</StopPointRef>
+				</To>
+				<Distance>149</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-25">
+				<From>
+					<StopPointRef>490004552S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010410N</StopPointRef>
+				</To>
+				<Distance>486</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-26">
+				<From>
+					<StopPointRef>490010410N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009882W</StopPointRef>
+				</To>
+				<Distance>110</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-27">
+				<From>
+					<StopPointRef>490009882W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001105A</StopPointRef>
+				</To>
+				<Distance>301</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-28">
+				<From>
+					<StopPointRef>490001105A</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006536S</StopPointRef>
+				</To>
+				<Distance>254</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-29">
+				<From>
+					<StopPointRef>490006536S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005846S</StopPointRef>
+				</To>
+				<Distance>424</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_45-658-_-y05-48774-I-3-30">
+				<From>
+					<StopPointRef>490005846S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003505W</StopPointRef>
+				</To>
+				<Distance>738</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+		</RouteSection>
+	</RouteSections>
+	<Routes>
+		<Route id="R_45-658-_-y05-48774-O-1">
+			<PrivateCode>R_45-658-_-y05-48774-O-1</PrivateCode>
+			<Description>Bexley Road / Crown Woods School - Beresford Sq /Woolwich Arsenal</Description>
+			<RouteSectionRef>RS_45-658-_-y05-48774-O-1</RouteSectionRef>
+		</Route>
+		<Route id="R_45-658-_-y05-48774-I-2">
+			<PrivateCode>R_45-658-_-y05-48774-I-2</PrivateCode>
+			<Description>Hook Lane / St Leonards Close - Univ of Greenwich/Mansion Site</Description>
+			<RouteSectionRef>RS_45-658-_-y05-48774-I-2</RouteSectionRef>
+		</Route>
+		<Route id="R_45-658-_-y05-48774-I-3">
+			<PrivateCode>R_45-658-_-y05-48774-I-3</PrivateCode>
+			<Description>Woolwich Arsenal Station - Univ of Greenwich/Mansion Site</Description>
+			<RouteSectionRef>RS_45-658-_-y05-48774-I-3</RouteSectionRef>
+		</Route>
+	</Routes>
+	<JourneyPatternSections>
+		<JourneyPatternSection id="JPS_45-658-_-y05-48774-1-1-O">
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490016229E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003504N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-1</RouteLinkRef>
+				<RunTime>PT53S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003504N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005846N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-2</RouteLinkRef>
+				<RunTime>PT1M10S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005846N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006536N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-3</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006536N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001105B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-4</RouteLinkRef>
+				<RunTime>PT1M12S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001105B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009882E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-5</RouteLinkRef>
+				<RunTime>PT59S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009882E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010410S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-6</RouteLinkRef>
+				<RunTime>PT39S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010410S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004552N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-7</RouteLinkRef>
+				<RunTime>PT1M48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004552N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006725E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-8</RouteLinkRef>
+				<RunTime>PT34S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006725E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005897N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-9</RouteLinkRef>
+				<RunTime>PT1M8S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005897N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015011N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-10</RouteLinkRef>
+				<RunTime>PT1M3S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015011N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008341N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-11</RouteLinkRef>
+				<RunTime>PT41S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008341N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006735N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-12</RouteLinkRef>
+				<RunTime>PT1M25S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006735N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014351P</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-13</RouteLinkRef>
+				<RunTime>PT1M43S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014351P</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011803G</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-14</RouteLinkRef>
+				<RunTime>PT1M10S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011803G</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001318B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-15</RouteLinkRef>
+				<RunTime>PT1M50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001318B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004602N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-16</RouteLinkRef>
+				<RunTime>PT1M29S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004602N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010941N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-17</RouteLinkRef>
+				<RunTime>PT1M11S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010941N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005053N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-18</RouteLinkRef>
+				<RunTime>PT1M10S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005053N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013375N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-19</RouteLinkRef>
+				<RunTime>PT25S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-21">
+				<From SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013375N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013627N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-20</RouteLinkRef>
+				<RunTime>PT1M45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-22">
+				<From SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013627N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008773N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-21</RouteLinkRef>
+				<RunTime>PT46S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-23">
+				<From SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008773N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003672N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-22</RouteLinkRef>
+				<RunTime>PT41S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-24">
+				<From SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003672N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013607W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-23</RouteLinkRef>
+				<RunTime>PT2M7S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-25">
+				<From SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013607W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="25">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011072W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-24</RouteLinkRef>
+				<RunTime>PT1M26S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-26">
+				<From SequenceNumber="25">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011072W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="26">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011073W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-25</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-27">
+				<From SequenceNumber="26">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011073W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="27">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008853W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-26</RouteLinkRef>
+				<RunTime>PT2M8S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-28">
+				<From SequenceNumber="27">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008853W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="28">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013801W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-27</RouteLinkRef>
+				<RunTime>PT47S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-29">
+				<From SequenceNumber="28">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013801W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="29">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008079W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-28</RouteLinkRef>
+				<RunTime>PT1M13S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-30">
+				<From SequenceNumber="29">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008079W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="30">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007000N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-29</RouteLinkRef>
+				<RunTime>PT2M18S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-31">
+				<From SequenceNumber="30">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007000N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="31">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005742E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-30</RouteLinkRef>
+				<RunTime>PT2M37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-32">
+				<From SequenceNumber="31">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005742E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="32">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004624N1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-31</RouteLinkRef>
+				<RunTime>PT1M44S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-1-O-1-33">
+				<From SequenceNumber="32">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004624N1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="33">
+					<Activity>setDown</Activity>
+					<StopPointRef>490003917D</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-32</RouteLinkRef>
+				<RunTime>PT2M13S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_45-658-_-y05-48774-3-2-I">
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-3-I-2-2">
+				<From SequenceNumber="20">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490014351L</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006735S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-2-1</RouteLinkRef>
+				<RunTime>PT1M42S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-3-I-2-3">
+				<From SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006735S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015011S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-2-2</RouteLinkRef>
+				<RunTime>PT2M11S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-3-I-2-4">
+				<From SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015011S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014537W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-2-3</RouteLinkRef>
+				<RunTime>PT1M51S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-3-I-2-5">
+				<From SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014537W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006725W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-2-4</RouteLinkRef>
+				<RunTime>PT1M16S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-3-I-2-6">
+				<From SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006725W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="25">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004552S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-2-5</RouteLinkRef>
+				<RunTime>PT43S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-3-I-2-7">
+				<From SequenceNumber="25">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004552S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="26">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010410N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-2-6</RouteLinkRef>
+				<RunTime>PT2M21S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-3-I-2-8">
+				<From SequenceNumber="26">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010410N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="27">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009882W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-2-7</RouteLinkRef>
+				<RunTime>PT32S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-3-I-2-9">
+				<From SequenceNumber="27">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009882W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="28">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001105A</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-2-8</RouteLinkRef>
+				<RunTime>PT1M24S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-3-I-2-10">
+				<From SequenceNumber="28">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001105A</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="29">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006536S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-2-9</RouteLinkRef>
+				<RunTime>PT55S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-3-I-2-11">
+				<From SequenceNumber="29">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006536S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="30">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005846S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-2-10</RouteLinkRef>
+				<RunTime>PT1M30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-3-I-2-12">
+				<From SequenceNumber="30">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005846S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="31">
+					<Activity>setDown</Activity>
+					<StopPointRef>490003505W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-2-11</RouteLinkRef>
+				<RunTime>PT2M35S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_45-658-_-y05-48774-4-3-I">
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490001344S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001344G</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-1</RouteLinkRef>
+				<RunTime>PT35S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001344G</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005742S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-2</RouteLinkRef>
+				<RunTime>PT1M14S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005742S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007000S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-3</RouteLinkRef>
+				<RunTime>PT1M41S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007000S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015577S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-4</RouteLinkRef>
+				<RunTime>PT59S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015577S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013801E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-5</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013801E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004098E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-6</RouteLinkRef>
+				<RunTime>PT1M7S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004098E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011073E2</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-7</RouteLinkRef>
+				<RunTime>PT54S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011073E2</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011072E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-8</RouteLinkRef>
+				<RunTime>PT1M4S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011072E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013607E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-9</RouteLinkRef>
+				<RunTime>PT59S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013607E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009795E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-10</RouteLinkRef>
+				<RunTime>PT1M50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009795E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008773S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-11</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008773S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013627S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-12</RouteLinkRef>
+				<RunTime>PT37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013627S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013375S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-13</RouteLinkRef>
+				<RunTime>PT1M27S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013375S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005053S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-14</RouteLinkRef>
+				<RunTime>PT1M7S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005053S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014655E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-15</RouteLinkRef>
+				<RunTime>PT1M37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014655E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004602S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-16</RouteLinkRef>
+				<RunTime>PT1M8S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004602S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001318A</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-17</RouteLinkRef>
+				<RunTime>PT1M41S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001318A</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006018H</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-18</RouteLinkRef>
+				<RunTime>PT3M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006018H</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014351L</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-19</RouteLinkRef>
+				<RunTime>PT2M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-21">
+				<From SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014351L</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006735S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-20</RouteLinkRef>
+				<RunTime>PT1M42S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-22">
+				<From SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006735S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015011S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-21</RouteLinkRef>
+				<RunTime>PT2M11S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-23">
+				<From SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015011S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014537W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-22</RouteLinkRef>
+				<RunTime>PT1M51S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-24">
+				<From SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014537W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006725W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-23</RouteLinkRef>
+				<RunTime>PT1M16S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-25">
+				<From SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006725W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="25">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004552S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-24</RouteLinkRef>
+				<RunTime>PT43S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-26">
+				<From SequenceNumber="25">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004552S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="26">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010410N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-25</RouteLinkRef>
+				<RunTime>PT2M21S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-27">
+				<From SequenceNumber="26">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010410N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="27">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009882W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-26</RouteLinkRef>
+				<RunTime>PT32S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-28">
+				<From SequenceNumber="27">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009882W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="28">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001105A</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-27</RouteLinkRef>
+				<RunTime>PT1M24S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-29">
+				<From SequenceNumber="28">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001105A</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="29">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006536S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-28</RouteLinkRef>
+				<RunTime>PT55S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-30">
+				<From SequenceNumber="29">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006536S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="30">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005846S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-29</RouteLinkRef>
+				<RunTime>PT1M30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-4-I-3-31">
+				<From SequenceNumber="30">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005846S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="31">
+					<Activity>setDown</Activity>
+					<StopPointRef>490003505W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-I-3-30</RouteLinkRef>
+				<RunTime>PT2M35S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_45-658-_-y05-48774-2-1-O">
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490016229E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003504N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-1</RouteLinkRef>
+				<RunTime>PT53S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003504N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005846N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-2</RouteLinkRef>
+				<RunTime>PT1M10S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005846N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006536N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-3</RouteLinkRef>
+				<RunTime>PT45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006536N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001105B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-4</RouteLinkRef>
+				<RunTime>PT1M12S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001105B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009882E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-5</RouteLinkRef>
+				<RunTime>PT59S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009882E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010410S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-6</RouteLinkRef>
+				<RunTime>PT39S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010410S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004552N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-7</RouteLinkRef>
+				<RunTime>PT1M48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004552N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006725E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-8</RouteLinkRef>
+				<RunTime>PT34S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006725E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005897N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-9</RouteLinkRef>
+				<RunTime>PT1M8S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005897N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015011N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-10</RouteLinkRef>
+				<RunTime>PT1M3S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015011N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008341N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-11</RouteLinkRef>
+				<RunTime>PT41S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008341N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006735N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-12</RouteLinkRef>
+				<RunTime>PT1M25S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006735N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014351P</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-13</RouteLinkRef>
+				<RunTime>PT1M43S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014351P</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011803G</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-14</RouteLinkRef>
+				<RunTime>PT1M10S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011803G</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001318B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-15</RouteLinkRef>
+				<RunTime>PT1M50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001318B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004602N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-16</RouteLinkRef>
+				<RunTime>PT1M29S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004602N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010941N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-17</RouteLinkRef>
+				<RunTime>PT1M11S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010941N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005053N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-18</RouteLinkRef>
+				<RunTime>PT1M10S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005053N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013375N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-19</RouteLinkRef>
+				<RunTime>PT25S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-21">
+				<From SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013375N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013627N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-20</RouteLinkRef>
+				<RunTime>PT1M45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-22">
+				<From SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013627N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008773N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-21</RouteLinkRef>
+				<RunTime>PT39S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-23">
+				<From SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008773N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003672N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-22</RouteLinkRef>
+				<RunTime>PT34S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-24">
+				<From SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003672N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013607W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-23</RouteLinkRef>
+				<RunTime>PT1M45S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-25">
+				<From SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013607W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="25">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011072W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-24</RouteLinkRef>
+				<RunTime>PT1M12S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-26">
+				<From SequenceNumber="25">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011072W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="26">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011073W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-25</RouteLinkRef>
+				<RunTime>PT50S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-27">
+				<From SequenceNumber="26">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011073W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="27">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008853W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-26</RouteLinkRef>
+				<RunTime>PT1M48S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-28">
+				<From SequenceNumber="27">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008853W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="28">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013801W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-27</RouteLinkRef>
+				<RunTime>PT40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-29">
+				<From SequenceNumber="28">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013801W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="29">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008079W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-28</RouteLinkRef>
+				<RunTime>PT1M2S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-30">
+				<From SequenceNumber="29">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008079W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="30">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007000N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-29</RouteLinkRef>
+				<RunTime>PT1M57S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-31">
+				<From SequenceNumber="30">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007000N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="31">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005742E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-30</RouteLinkRef>
+				<RunTime>PT2M13S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-32">
+				<From SequenceNumber="31">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005742E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="32">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004624N1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-31</RouteLinkRef>
+				<RunTime>PT1M27S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_45-658-_-y05-48774-2-O-1-33">
+				<From SequenceNumber="32">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004624N1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="33">
+					<Activity>setDown</Activity>
+					<StopPointRef>490003917D</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_45-658-_-y05-48774-O-1-32</RouteLinkRef>
+				<RunTime>PT1M53S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+	</JourneyPatternSections>
+	<Operators>
+		<Operator id="OId_LC">
+			<OperatorCode>LC</OperatorCode>
+			<OperatorShortName>LONDON CENTRAL BUS COMP</OperatorShortName>
+			<OperatorNameOnLicence>LONDON CENTRAL BUS COMPANY LIMITED</OperatorNameOnLicence>
+			<TradingName>LONDON CENTRAL BUS COMPANY LIMITED</TradingName>
+		</Operator>
+	</Operators>
+	<Services>
+		<Service>
+			<ServiceCode>45-658-_-y05-48774</ServiceCode>
+			<PrivateCode>45-658-_-y05-48774</PrivateCode>
+			<Lines>
+				<Line id="45-658-_-y05-48774">
+					<LineName>658</LineName>
+				</Line>
+			</Lines>
+			<OperatingPeriod>
+				<StartDate>2017-12-09</StartDate>
+				<EndDate>2018-12-23</EndDate>
+			</OperatingPeriod>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile>
+			<RegisteredOperatorRef>OId_LC</RegisteredOperatorRef>
+			<StopRequirements>
+				<NoNewStopsRequired />
+			</StopRequirements>
+			<Mode>bus</Mode>
+			<Description>Crown Woods School - Falconwood - Welling - Plumstead Common - Woolwich</Description>
+			<StandardService>
+				<Origin>Bexley Road / Crown Woods School</Origin>
+				<Destination>Beresford Sq /Woolwich Arsenal</Destination>
+				<JourneyPattern id="JP_45-658-_-y05-48774-1-O-1">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SSLW</VehicleTypeCode>
+							<Description>Double Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_45-658-_-y05-48774-O-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_45-658-_-y05-48774-1-1-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_45-658-_-y05-48774-3-I-2">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SSLW</VehicleTypeCode>
+							<Description>Double Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_45-658-_-y05-48774-I-2</RouteRef>
+					<JourneyPatternSectionRefs>JPS_45-658-_-y05-48774-3-2-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_45-658-_-y05-48774-4-I-3">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SSLW</VehicleTypeCode>
+							<Description>Double Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_45-658-_-y05-48774-I-3</RouteRef>
+					<JourneyPatternSectionRefs>JPS_45-658-_-y05-48774-4-3-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_45-658-_-y05-48774-2-O-1">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SSLW</VehicleTypeCode>
+							<Description>Double Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_45-658-_-y05-48774-O-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_45-658-_-y05-48774-2-1-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+			</StandardService>
+		</Service>
+	</Services>
+	<VehicleJourneys>
+		<VehicleJourney>
+			<PrivateCode>tfl-45-658-_-y05-48774-1-MTSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Monday />
+						<Tuesday />
+						<Wednesday />
+						<Thursday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-28</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-12</StartDate>
+							<EndDate>2018-02-15</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-03</StartDate>
+							<EndDate>2018-04-05</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-09</StartDate>
+							<EndDate>2018-04-12</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-05-29</StartDate>
+							<EndDate>2018-05-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-23</StartDate>
+							<EndDate>2018-07-26</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-30</StartDate>
+							<EndDate>2018-08-02</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-06</StartDate>
+							<EndDate>2018-08-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-13</StartDate>
+							<EndDate>2018-08-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-20</StartDate>
+							<EndDate>2018-08-23</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-28</StartDate>
+							<EndDate>2018-08-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_45-658-_-y05-48774-1-MTSc</VehicleJourneyCode>
+			<ServiceRef>45-658-_-y05-48774</ServiceRef>
+			<LineRef>45-658-_-y05-48774</LineRef>
+			<JourneyPatternRef>JP_45-658-_-y05-48774-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-45-658-_-y05-48774-2-MTSc</PrivateCode>
+			<DestinationDisplay>Crown Woods College</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Monday />
+						<Tuesday />
+						<Wednesday />
+						<Thursday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-28</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-12</StartDate>
+							<EndDate>2018-02-15</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-03</StartDate>
+							<EndDate>2018-04-05</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-09</StartDate>
+							<EndDate>2018-04-12</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-05-29</StartDate>
+							<EndDate>2018-05-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-23</StartDate>
+							<EndDate>2018-07-26</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-30</StartDate>
+							<EndDate>2018-08-02</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-06</StartDate>
+							<EndDate>2018-08-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-13</StartDate>
+							<EndDate>2018-08-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-20</StartDate>
+							<EndDate>2018-08-23</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-28</StartDate>
+							<EndDate>2018-08-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_45-658-_-y05-48774-2-MTSc</VehicleJourneyCode>
+			<ServiceRef>45-658-_-y05-48774</ServiceRef>
+			<LineRef>45-658-_-y05-48774</LineRef>
+			<JourneyPatternRef>JP_45-658-_-y05-48774-3-I-2</JourneyPatternRef>
+			<DepartureTime>07:37:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-45-658-_-y05-48774-3-MTSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Monday />
+						<Tuesday />
+						<Wednesday />
+						<Thursday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-28</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-12</StartDate>
+							<EndDate>2018-02-15</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-03</StartDate>
+							<EndDate>2018-04-05</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-09</StartDate>
+							<EndDate>2018-04-12</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-05-29</StartDate>
+							<EndDate>2018-05-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-23</StartDate>
+							<EndDate>2018-07-26</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-30</StartDate>
+							<EndDate>2018-08-02</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-06</StartDate>
+							<EndDate>2018-08-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-13</StartDate>
+							<EndDate>2018-08-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-20</StartDate>
+							<EndDate>2018-08-23</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-28</StartDate>
+							<EndDate>2018-08-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_45-658-_-y05-48774-3-MTSc</VehicleJourneyCode>
+			<ServiceRef>45-658-_-y05-48774</ServiceRef>
+			<LineRef>45-658-_-y05-48774</LineRef>
+			<JourneyPatternRef>JP_45-658-_-y05-48774-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-45-658-_-y05-48774-4-MTSc</PrivateCode>
+			<DestinationDisplay>Crown Woods College</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Monday />
+						<Tuesday />
+						<Wednesday />
+						<Thursday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-28</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-12</StartDate>
+							<EndDate>2018-02-15</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-03</StartDate>
+							<EndDate>2018-04-05</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-09</StartDate>
+							<EndDate>2018-04-12</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-05-29</StartDate>
+							<EndDate>2018-05-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-23</StartDate>
+							<EndDate>2018-07-26</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-30</StartDate>
+							<EndDate>2018-08-02</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-06</StartDate>
+							<EndDate>2018-08-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-13</StartDate>
+							<EndDate>2018-08-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-20</StartDate>
+							<EndDate>2018-08-23</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-28</StartDate>
+							<EndDate>2018-08-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_45-658-_-y05-48774-4-MTSc</VehicleJourneyCode>
+			<ServiceRef>45-658-_-y05-48774</ServiceRef>
+			<LineRef>45-658-_-y05-48774</LineRef>
+			<JourneyPatternRef>JP_45-658-_-y05-48774-4-I-3</JourneyPatternRef>
+			<DepartureTime>07:14:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-45-658-_-y05-48774-5-MTSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Monday />
+						<Tuesday />
+						<Wednesday />
+						<Thursday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-28</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-12</StartDate>
+							<EndDate>2018-02-15</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-03</StartDate>
+							<EndDate>2018-04-05</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-09</StartDate>
+							<EndDate>2018-04-12</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-05-29</StartDate>
+							<EndDate>2018-05-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-23</StartDate>
+							<EndDate>2018-07-26</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-30</StartDate>
+							<EndDate>2018-08-02</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-06</StartDate>
+							<EndDate>2018-08-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-13</StartDate>
+							<EndDate>2018-08-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-20</StartDate>
+							<EndDate>2018-08-23</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-28</StartDate>
+							<EndDate>2018-08-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_45-658-_-y05-48774-5-MTSc</VehicleJourneyCode>
+			<ServiceRef>45-658-_-y05-48774</ServiceRef>
+			<LineRef>45-658-_-y05-48774</LineRef>
+			<JourneyPatternRef>JP_45-658-_-y05-48774-2-O-1</JourneyPatternRef>
+			<DepartureTime>16:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-45-658-_-y05-48774-6-MTSc</PrivateCode>
+			<DestinationDisplay>Crown Woods College</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Monday />
+						<Tuesday />
+						<Wednesday />
+						<Thursday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-28</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-12</StartDate>
+							<EndDate>2018-02-15</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-03</StartDate>
+							<EndDate>2018-04-05</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-09</StartDate>
+							<EndDate>2018-04-12</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-05-29</StartDate>
+							<EndDate>2018-05-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-23</StartDate>
+							<EndDate>2018-07-26</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-30</StartDate>
+							<EndDate>2018-08-02</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-06</StartDate>
+							<EndDate>2018-08-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-13</StartDate>
+							<EndDate>2018-08-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-20</StartDate>
+							<EndDate>2018-08-23</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-28</StartDate>
+							<EndDate>2018-08-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_45-658-_-y05-48774-6-MTSc</VehicleJourneyCode>
+			<ServiceRef>45-658-_-y05-48774</ServiceRef>
+			<LineRef>45-658-_-y05-48774</LineRef>
+			<JourneyPatternRef>JP_45-658-_-y05-48774-4-I-3</JourneyPatternRef>
+			<DepartureTime>07:15:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-45-658-_-y05-48774-1-FrSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Friday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-29</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-16</StartDate>
+							<EndDate>2018-02-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-06</StartDate>
+							<EndDate>2018-04-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-13</StartDate>
+							<EndDate>2018-04-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-06-01</StartDate>
+							<EndDate>2018-06-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-27</StartDate>
+							<EndDate>2018-07-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-03</StartDate>
+							<EndDate>2018-08-03</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-10</StartDate>
+							<EndDate>2018-08-10</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-17</StartDate>
+							<EndDate>2018-08-17</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-24</StartDate>
+							<EndDate>2018-08-24</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-31</StartDate>
+							<EndDate>2018-08-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_45-658-_-y05-48774-1-FrSc</VehicleJourneyCode>
+			<ServiceRef>45-658-_-y05-48774</ServiceRef>
+			<LineRef>45-658-_-y05-48774</LineRef>
+			<JourneyPatternRef>JP_45-658-_-y05-48774-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-45-658-_-y05-48774-2-FrSc</PrivateCode>
+			<DestinationDisplay>Crown Woods College</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Friday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-29</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-16</StartDate>
+							<EndDate>2018-02-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-06</StartDate>
+							<EndDate>2018-04-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-13</StartDate>
+							<EndDate>2018-04-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-06-01</StartDate>
+							<EndDate>2018-06-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-27</StartDate>
+							<EndDate>2018-07-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-03</StartDate>
+							<EndDate>2018-08-03</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-10</StartDate>
+							<EndDate>2018-08-10</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-17</StartDate>
+							<EndDate>2018-08-17</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-24</StartDate>
+							<EndDate>2018-08-24</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-31</StartDate>
+							<EndDate>2018-08-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_45-658-_-y05-48774-2-FrSc</VehicleJourneyCode>
+			<ServiceRef>45-658-_-y05-48774</ServiceRef>
+			<LineRef>45-658-_-y05-48774</LineRef>
+			<JourneyPatternRef>JP_45-658-_-y05-48774-3-I-2</JourneyPatternRef>
+			<DepartureTime>07:37:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-45-658-_-y05-48774-3-FrSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Friday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-29</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-16</StartDate>
+							<EndDate>2018-02-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-06</StartDate>
+							<EndDate>2018-04-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-13</StartDate>
+							<EndDate>2018-04-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-06-01</StartDate>
+							<EndDate>2018-06-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-27</StartDate>
+							<EndDate>2018-07-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-03</StartDate>
+							<EndDate>2018-08-03</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-10</StartDate>
+							<EndDate>2018-08-10</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-17</StartDate>
+							<EndDate>2018-08-17</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-24</StartDate>
+							<EndDate>2018-08-24</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-31</StartDate>
+							<EndDate>2018-08-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_45-658-_-y05-48774-3-FrSc</VehicleJourneyCode>
+			<ServiceRef>45-658-_-y05-48774</ServiceRef>
+			<LineRef>45-658-_-y05-48774</LineRef>
+			<JourneyPatternRef>JP_45-658-_-y05-48774-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-45-658-_-y05-48774-4-FrSc</PrivateCode>
+			<DestinationDisplay>Crown Woods College</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Friday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-29</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-16</StartDate>
+							<EndDate>2018-02-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-06</StartDate>
+							<EndDate>2018-04-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-13</StartDate>
+							<EndDate>2018-04-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-06-01</StartDate>
+							<EndDate>2018-06-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-27</StartDate>
+							<EndDate>2018-07-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-03</StartDate>
+							<EndDate>2018-08-03</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-10</StartDate>
+							<EndDate>2018-08-10</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-17</StartDate>
+							<EndDate>2018-08-17</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-24</StartDate>
+							<EndDate>2018-08-24</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-31</StartDate>
+							<EndDate>2018-08-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_45-658-_-y05-48774-4-FrSc</VehicleJourneyCode>
+			<ServiceRef>45-658-_-y05-48774</ServiceRef>
+			<LineRef>45-658-_-y05-48774</LineRef>
+			<JourneyPatternRef>JP_45-658-_-y05-48774-4-I-3</JourneyPatternRef>
+			<DepartureTime>07:14:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-45-658-_-y05-48774-6-FrSc</PrivateCode>
+			<DestinationDisplay>Crown Woods College</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Friday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-29</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-16</StartDate>
+							<EndDate>2018-02-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-06</StartDate>
+							<EndDate>2018-04-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-13</StartDate>
+							<EndDate>2018-04-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-06-01</StartDate>
+							<EndDate>2018-06-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-27</StartDate>
+							<EndDate>2018-07-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-03</StartDate>
+							<EndDate>2018-08-03</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-10</StartDate>
+							<EndDate>2018-08-10</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-17</StartDate>
+							<EndDate>2018-08-17</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-24</StartDate>
+							<EndDate>2018-08-24</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-31</StartDate>
+							<EndDate>2018-08-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_45-658-_-y05-48774-6-FrSc</VehicleJourneyCode>
+			<ServiceRef>45-658-_-y05-48774</ServiceRef>
+			<LineRef>45-658-_-y05-48774</LineRef>
+			<JourneyPatternRef>JP_45-658-_-y05-48774-4-I-3</JourneyPatternRef>
+			<DepartureTime>07:15:00</DepartureTime>
+		</VehicleJourney>
+	</VehicleJourneys>
+</TransXChange>

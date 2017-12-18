@@ -1,0 +1,1218 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TransXChange CreationDateTime="2017-12-11T17:02:27.2997562Z" ModificationDateTime="2017-12-11T17:02:27.2997562Z" Modification="new" FileName="tfl_8-631-_-y05-48033.xml" RevisionNumber="3" SchemaVersion="2.1" xml:lang="en" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.transxchange.org.uk/">
+	<NptgLocalities>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0033966</NptgLocalityRef>
+			<LocalityName>Golders Green</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0065158</NptgLocalityRef>
+			<LocalityName>Hampstead Garden Sub</LocalityName>
+		</AnnotatedNptgLocalityRef>
+	</NptgLocalities>
+	<StopPoints>
+		<StopPoint CreationDateTime="2015-10-16T00:00:00">
+			<AtcoCode>490015496GW</AtcoCode>
+			<Descriptor>
+				<CommonName>Golders Green</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033966</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525162</Easting>
+					<Northing>187477</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Golders Green</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-16T00:00:00">
+			<AtcoCode>490008343N</AtcoCode>
+			<Descriptor>
+				<CommonName>Hoop Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033966</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525082</Easting>
+					<Northing>187801</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hoop Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-22T00:00:00">
+			<AtcoCode>490007268E</AtcoCode>
+			<Descriptor>
+				<CommonName>Golders Green Crematorium</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033966</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525176</Easting>
+					<Northing>187986</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Golders Green Crematorium</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-30T00:00:00">
+			<AtcoCode>490000833Z</AtcoCode>
+			<Descriptor>
+				<CommonName>Hoop Lane Cemetery</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033966</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525259</Easting>
+					<Northing>188055</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hoop Lane Cemetery</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-22T00:00:00">
+			<AtcoCode>490019465Z</AtcoCode>
+			<Descriptor>
+				<CommonName>Meadway Gate</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065158</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525404</Easting>
+					<Northing>188135</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Meadway Gate</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-08-04T00:00:00">
+			<AtcoCode>490007719Z</AtcoCode>
+			<Descriptor>
+				<CommonName>Hampstead Way / Meadway</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065158</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525454</Easting>
+					<Northing>188160</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hampstead Way / Meadway</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-27T00:00:00">
+			<AtcoCode>490000895Z</AtcoCode>
+			<Descriptor>
+				<CommonName>Heathgate</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065158</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525668</Easting>
+					<Northing>188238</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Heathgate</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-08-29T00:00:00">
+			<AtcoCode>490018801N</AtcoCode>
+			<Descriptor>
+				<CommonName>Bigwood Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065158</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525755</Easting>
+					<Northing>188362</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bigwood Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-08-29T00:00:00">
+			<AtcoCode>490016233N</AtcoCode>
+			<Descriptor>
+				<CommonName>Henrietta Barnett School</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065158</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525661</Easting>
+					<Northing>188527</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Henrietta Barnett School</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-08-07T00:00:00">
+			<AtcoCode>490000913Z</AtcoCode>
+			<Descriptor>
+				<CommonName>Central Square</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065158</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525511</Easting>
+					<Northing>188500</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Central Square</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-08-29T00:00:00">
+			<AtcoCode>490000936Z</AtcoCode>
+			<Descriptor>
+				<CommonName>Southway</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065158</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525672</Easting>
+					<Northing>188464</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Southway</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-08-29T00:00:00">
+			<AtcoCode>490018801Z</AtcoCode>
+			<Descriptor>
+				<CommonName>Bigwood Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065158</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525782</Easting>
+					<Northing>188350</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bigwood Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-08-29T00:00:00">
+			<AtcoCode>490014681Y</AtcoCode>
+			<Descriptor>
+				<CommonName>Meadway</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065158</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525651</Easting>
+					<Northing>188203</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Meadway</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-16T00:00:00">
+			<AtcoCode>490019465W</AtcoCode>
+			<Descriptor>
+				<CommonName>Meadway Gate</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065158</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525397</Easting>
+					<Northing>188102</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Meadway Gate</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-19T00:00:00">
+			<AtcoCode>490000833Y</AtcoCode>
+			<Descriptor>
+				<CommonName>Hoop Lane Cemetery</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033966</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525265</Easting>
+					<Northing>188039</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hoop Lane Cemetery</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-22T00:00:00">
+			<AtcoCode>490007268W</AtcoCode>
+			<Descriptor>
+				<CommonName>Golders Green Crematorium</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033966</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525197</Easting>
+					<Northing>187984</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Golders Green Crematorium</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-22T00:00:00">
+			<AtcoCode>490008343E</AtcoCode>
+			<Descriptor>
+				<CommonName>Hoop Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033966</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525091</Easting>
+					<Northing>187907</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hoop Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-10-16T00:00:00">
+			<AtcoCode>490015496GV</AtcoCode>
+			<Descriptor>
+				<CommonName>Golders Green</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0033966</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>525141</Easting>
+					<Northing>187552</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Golders Green</Notes>
+		</StopPoint>
+	</StopPoints>
+	<RouteSections>
+		<RouteSection id="RS_8-631-_-y05-48033-O-1">
+			<RouteLink id="RL_8-631-_-y05-48033-O-1-1">
+				<From>
+					<StopPointRef>490015496GW</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008343N</StopPointRef>
+				</To>
+				<Distance>335</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-O-1-2">
+				<From>
+					<StopPointRef>490008343N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007268E</StopPointRef>
+				</To>
+				<Distance>245</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-O-1-3">
+				<From>
+					<StopPointRef>490007268E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000833Z</StopPointRef>
+				</To>
+				<Distance>34</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-O-1-4">
+				<From>
+					<StopPointRef>490000833Z</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019465Z</StopPointRef>
+				</To>
+				<Distance>101</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-O-1-5">
+				<From>
+					<StopPointRef>490019465Z</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007719Z</StopPointRef>
+				</To>
+				<Distance>198</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-O-1-6">
+				<From>
+					<StopPointRef>490007719Z</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000895Z</StopPointRef>
+				</To>
+				<Distance>215</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-O-1-7">
+				<From>
+					<StopPointRef>490000895Z</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490018801N</StopPointRef>
+				</To>
+				<Distance>219</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-O-1-8">
+				<From>
+					<StopPointRef>490018801N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490016233N</StopPointRef>
+				</To>
+				<Distance>187</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+		</RouteSection>
+		<RouteSection id="RS_8-631-_-y05-48033-I-2">
+			<RouteLink id="RL_8-631-_-y05-48033-I-2-1">
+				<From>
+					<StopPointRef>490016233N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000913Z</StopPointRef>
+				</To>
+				<Distance>213</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-I-2-2">
+				<From>
+					<StopPointRef>490000913Z</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000936Z</StopPointRef>
+				</To>
+				<Distance>272</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-I-2-3">
+				<From>
+					<StopPointRef>490000936Z</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490018801Z</StopPointRef>
+				</To>
+				<Distance>173</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-I-2-4">
+				<From>
+					<StopPointRef>490018801Z</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014681Y</StopPointRef>
+				</To>
+				<Distance>228</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-I-2-5">
+				<From>
+					<StopPointRef>490014681Y</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490019465W</StopPointRef>
+				</To>
+				<Distance>378</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-I-2-6">
+				<From>
+					<StopPointRef>490019465W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000833Y</StopPointRef>
+				</To>
+				<Distance>109</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-I-2-7">
+				<From>
+					<StopPointRef>490000833Y</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007268W</StopPointRef>
+				</To>
+				<Distance>25</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-I-2-8">
+				<From>
+					<StopPointRef>490007268W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008343E</StopPointRef>
+				</To>
+				<Distance>189</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-I-2-9">
+				<From>
+					<StopPointRef>490008343E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015496GV</StopPointRef>
+				</To>
+				<Distance>385</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_8-631-_-y05-48033-I-2-10">
+				<From>
+					<StopPointRef>490015496GV</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015496GW</StopPointRef>
+				</To>
+				<Distance>88</Distance>
+				<Direction>inbound</Direction>
+			</RouteLink>
+		</RouteSection>
+	</RouteSections>
+	<Routes>
+		<Route id="R_8-631-_-y05-48033-O-1">
+			<PrivateCode>R_8-631-_-y05-48033-O-1</PrivateCode>
+			<Description>Golders Green - Henrietta Barnett School</Description>
+			<RouteSectionRef>RS_8-631-_-y05-48033-O-1</RouteSectionRef>
+		</Route>
+		<Route id="R_8-631-_-y05-48033-I-2">
+			<PrivateCode>R_8-631-_-y05-48033-I-2</PrivateCode>
+			<Description>Henrietta Barnett School - Golders Green</Description>
+			<RouteSectionRef>RS_8-631-_-y05-48033-I-2</RouteSectionRef>
+		</Route>
+	</Routes>
+	<JourneyPatternSections>
+		<JourneyPatternSection id="JPS_8-631-_-y05-48033-2-2-I">
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-2-I-2-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490016233N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000913Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-I-2-1</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-2-I-2-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000913Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000936Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-I-2-2</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-2-I-2-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000936Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018801Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-I-2-3</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-2-I-2-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018801Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014681Y</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-I-2-4</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-2-I-2-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014681Y</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019465W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-I-2-5</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-2-I-2-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019465W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000833Y</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-I-2-6</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-2-I-2-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000833Y</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007268W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-I-2-7</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-2-I-2-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007268W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008343E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-I-2-8</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-2-I-2-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008343E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015496GV</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-I-2-9</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-2-I-2-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015496GV</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>setDown</Activity>
+					<StopPointRef>490015496GW</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-I-2-10</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+		<JourneyPatternSection id="JPS_8-631-_-y05-48033-1-1-O">
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-1-O-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490015496GW</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008343N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-O-1-1</RouteLinkRef>
+				<RunTime>PT37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-1-O-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008343N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007268E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-O-1-2</RouteLinkRef>
+				<RunTime>PT38S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-1-O-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007268E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000833Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-O-1-3</RouteLinkRef>
+				<RunTime>PT37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-1-O-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000833Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019465Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-O-1-4</RouteLinkRef>
+				<RunTime>PT38S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-1-O-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490019465Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007719Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-O-1-5</RouteLinkRef>
+				<RunTime>PT37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-1-O-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007719Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000895Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-O-1-6</RouteLinkRef>
+				<RunTime>PT38S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-1-O-1-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000895Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018801N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-O-1-7</RouteLinkRef>
+				<RunTime>PT37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_8-631-_-y05-48033-1-O-1-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490018801N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>setDown</Activity>
+					<StopPointRef>490016233N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_8-631-_-y05-48033-O-1-8</RouteLinkRef>
+				<RunTime>PT38S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+	</JourneyPatternSections>
+	<Operators>
+		<Operator id="OId_MN">
+			<OperatorCode>MN</OperatorCode>
+			<OperatorShortName>ARRIVA LONDON NORTH LIM</OperatorShortName>
+			<OperatorNameOnLicence>ARRIVA LONDON NORTH LIMITED</OperatorNameOnLicence>
+			<TradingName>ARRIVA LONDON NORTH LIMITED</TradingName>
+		</Operator>
+	</Operators>
+	<Services>
+		<Service>
+			<ServiceCode>8-631-_-y05-48033</ServiceCode>
+			<PrivateCode>8-631-_-y05-48033</PrivateCode>
+			<Lines>
+				<Line id="8-631-_-y05-48033">
+					<LineName>631</LineName>
+				</Line>
+			</Lines>
+			<OperatingPeriod>
+				<StartDate>2017-12-11</StartDate>
+				<EndDate>2018-12-21</EndDate>
+			</OperatingPeriod>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-12</StartDate>
+							<EndDate>2018-02-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-03</StartDate>
+							<EndDate>2018-04-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-09</StartDate>
+							<EndDate>2018-04-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-05-29</StartDate>
+							<EndDate>2018-06-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-23</StartDate>
+							<EndDate>2018-07-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-30</StartDate>
+							<EndDate>2018-08-03</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-06</StartDate>
+							<EndDate>2018-08-10</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-13</StartDate>
+							<EndDate>2018-08-17</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-20</StartDate>
+							<EndDate>2018-08-24</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-28</StartDate>
+							<EndDate>2018-08-31</EndDate>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<RegisteredOperatorRef>OId_MN</RegisteredOperatorRef>
+			<StopRequirements>
+				<NoNewStopsRequired />
+			</StopRequirements>
+			<Mode>bus</Mode>
+			<Description>Golders Green - Hoop Lane - Meadway - Henrietta Barnett School</Description>
+			<StandardService>
+				<Origin>Golders Green</Origin>
+				<Destination>Henrietta Barnett School</Destination>
+				<JourneyPattern id="JP_8-631-_-y05-48033-2-I-2">
+					<Direction>inbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_8-631-_-y05-48033-I-2</RouteRef>
+					<JourneyPatternSectionRefs>JPS_8-631-_-y05-48033-2-2-I</JourneyPatternSectionRefs>
+				</JourneyPattern>
+				<JourneyPattern id="JP_8-631-_-y05-48033-1-O-1">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SDLW</VehicleTypeCode>
+							<Description>Single Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_8-631-_-y05-48033-O-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_8-631-_-y05-48033-1-1-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+			</StandardService>
+		</Service>
+	</Services>
+	<VehicleJourneys>
+		<VehicleJourney>
+			<PrivateCode>tfl-8-631-_-y05-48033-1-MFSc</PrivateCode>
+			<DestinationDisplay>Golders Green</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_8-631-_-y05-48033-1-MFSc</VehicleJourneyCode>
+			<ServiceRef>8-631-_-y05-48033</ServiceRef>
+			<LineRef>8-631-_-y05-48033</LineRef>
+			<JourneyPatternRef>JP_8-631-_-y05-48033-2-I-2</JourneyPatternRef>
+			<DepartureTime>15:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-8-631-_-y05-48033-2-MFSc</PrivateCode>
+			<DestinationDisplay>Henrietta Barnett School</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_8-631-_-y05-48033-2-MFSc</VehicleJourneyCode>
+			<ServiceRef>8-631-_-y05-48033</ServiceRef>
+			<LineRef>8-631-_-y05-48033</LineRef>
+			<JourneyPatternRef>JP_8-631-_-y05-48033-1-O-1</JourneyPatternRef>
+			<DepartureTime>07:50:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-8-631-_-y05-48033-3-MFSc</PrivateCode>
+			<DestinationDisplay>Golders Green</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_8-631-_-y05-48033-3-MFSc</VehicleJourneyCode>
+			<ServiceRef>8-631-_-y05-48033</ServiceRef>
+			<LineRef>8-631-_-y05-48033</LineRef>
+			<JourneyPatternRef>JP_8-631-_-y05-48033-2-I-2</JourneyPatternRef>
+			<DepartureTime>15:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-8-631-_-y05-48033-4-MFSc</PrivateCode>
+			<DestinationDisplay>Henrietta Barnett School</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_8-631-_-y05-48033-4-MFSc</VehicleJourneyCode>
+			<ServiceRef>8-631-_-y05-48033</ServiceRef>
+			<LineRef>8-631-_-y05-48033</LineRef>
+			<JourneyPatternRef>JP_8-631-_-y05-48033-1-O-1</JourneyPatternRef>
+			<DepartureTime>08:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-8-631-_-y05-48033-5-MFSc</PrivateCode>
+			<DestinationDisplay>Golders Green</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_8-631-_-y05-48033-5-MFSc</VehicleJourneyCode>
+			<ServiceRef>8-631-_-y05-48033</ServiceRef>
+			<LineRef>8-631-_-y05-48033</LineRef>
+			<JourneyPatternRef>JP_8-631-_-y05-48033-2-I-2</JourneyPatternRef>
+			<DepartureTime>15:50:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-8-631-_-y05-48033-6-MFSc</PrivateCode>
+			<DestinationDisplay>Henrietta Barnett School</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_8-631-_-y05-48033-6-MFSc</VehicleJourneyCode>
+			<ServiceRef>8-631-_-y05-48033</ServiceRef>
+			<LineRef>8-631-_-y05-48033</LineRef>
+			<JourneyPatternRef>JP_8-631-_-y05-48033-1-O-1</JourneyPatternRef>
+			<DepartureTime>08:20:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-8-631-_-y05-48033-7-MFSc</PrivateCode>
+			<DestinationDisplay>Golders Green</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_8-631-_-y05-48033-7-MFSc</VehicleJourneyCode>
+			<ServiceRef>8-631-_-y05-48033</ServiceRef>
+			<LineRef>8-631-_-y05-48033</LineRef>
+			<JourneyPatternRef>JP_8-631-_-y05-48033-2-I-2</JourneyPatternRef>
+			<DepartureTime>16:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-8-631-_-y05-48033-8-MFSc</PrivateCode>
+			<DestinationDisplay>Henrietta Barnett School</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_8-631-_-y05-48033-8-MFSc</VehicleJourneyCode>
+			<ServiceRef>8-631-_-y05-48033</ServiceRef>
+			<LineRef>8-631-_-y05-48033</LineRef>
+			<JourneyPatternRef>JP_8-631-_-y05-48033-1-O-1</JourneyPatternRef>
+			<DepartureTime>08:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-8-631-_-y05-48033-10-MFSc</PrivateCode>
+			<DestinationDisplay>Henrietta Barnett School</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_8-631-_-y05-48033-10-MFSc</VehicleJourneyCode>
+			<ServiceRef>8-631-_-y05-48033</ServiceRef>
+			<LineRef>8-631-_-y05-48033</LineRef>
+			<JourneyPatternRef>JP_8-631-_-y05-48033-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-8-631-_-y05-48033-12-MFSc</PrivateCode>
+			<DestinationDisplay>Henrietta Barnett School</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_8-631-_-y05-48033-12-MFSc</VehicleJourneyCode>
+			<ServiceRef>8-631-_-y05-48033</ServiceRef>
+			<LineRef>8-631-_-y05-48033</LineRef>
+			<JourneyPatternRef>JP_8-631-_-y05-48033-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:28:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-8-631-_-y05-48033-14-MFSc</PrivateCode>
+			<DestinationDisplay>Henrietta Barnett School</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_8-631-_-y05-48033-14-MFSc</VehicleJourneyCode>
+			<ServiceRef>8-631-_-y05-48033</ServiceRef>
+			<LineRef>8-631-_-y05-48033</LineRef>
+			<JourneyPatternRef>JP_8-631-_-y05-48033-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:43:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-8-631-_-y05-48033-16-MFSc</PrivateCode>
+			<DestinationDisplay>Henrietta Barnett School</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SDLW</VehicleTypeCode>
+					<Description>Single Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<VehicleJourneyCode>VJ_8-631-_-y05-48033-16-MFSc</VehicleJourneyCode>
+			<ServiceRef>8-631-_-y05-48033</ServiceRef>
+			<LineRef>8-631-_-y05-48033</LineRef>
+			<JourneyPatternRef>JP_8-631-_-y05-48033-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:58:00</DepartureTime>
+		</VehicleJourney>
+	</VehicleJourneys>
+</TransXChange>

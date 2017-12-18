@@ -1,0 +1,1623 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TransXChange CreationDateTime="2017-12-11T18:22:06.9729022Z" ModificationDateTime="2017-12-11T18:22:06.9729022Z" Modification="new" FileName="tfl_59-672-_-y05-48247.xml" RevisionNumber="3" SchemaVersion="2.1" xml:lang="en" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.transxchange.org.uk/">
+	<ServicedOrganisations>
+		<ServicedOrganisation>
+			<OrganisationCode>SOId_XX-school</OrganisationCode>
+			<Name>School vacation in free public holidays regulation</Name>
+			<Holidays>
+				<DateRange>
+					<StartDate>2017-07-28</StartDate>
+					<EndDate>2017-09-01</EndDate>
+					<Description>school: Summer holidays</Description>
+				</DateRange>
+				<DateRange>
+					<StartDate>2018-07-29</StartDate>
+					<EndDate>2018-09-02</EndDate>
+					<Description>school: Summer holidays</Description>
+				</DateRange>
+				<DateRange>
+					<StartDate>2011-04-29</StartDate>
+					<EndDate>2011-04-29</EndDate>
+					<Description>school: other school-free days</Description>
+				</DateRange>
+				<DateRange>
+					<StartDate>2011-12-27</StartDate>
+					<EndDate>2011-12-27</EndDate>
+					<Description>school: other school-free days</Description>
+				</DateRange>
+				<DateRange>
+					<StartDate>2012-06-05</StartDate>
+					<EndDate>2012-06-05</EndDate>
+					<Description>school: other school-free days</Description>
+				</DateRange>
+				<DateRange>
+					<StartDate>2016-12-19</StartDate>
+					<EndDate>2017-01-06</EndDate>
+					<Description>school: Christmas</Description>
+				</DateRange>
+				<DateRange>
+					<StartDate>2017-12-22</StartDate>
+					<EndDate>2018-01-05</EndDate>
+					<Description>school: Christmas</Description>
+				</DateRange>
+				<DateRange>
+					<StartDate>2018-12-23</StartDate>
+					<EndDate>2019-01-02</EndDate>
+					<Description>school: Christmas</Description>
+				</DateRange>
+			</Holidays>
+		</ServicedOrganisation>
+	</ServicedOrganisations>
+	<NptgLocalities>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0060483</NptgLocalityRef>
+			<LocalityName>Thamesmead</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0075251</NptgLocalityRef>
+			<LocalityName>Thamesmead Central</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0075254</NptgLocalityRef>
+			<LocalityName>Thamesmead West</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034334</NptgLocalityRef>
+			<LocalityName>Plumstead (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034338</NptgLocalityRef>
+			<LocalityName>Woolwich</LocalityName>
+		</AnnotatedNptgLocalityRef>
+	</NptgLocalities>
+	<StopPoints>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490007923N</AtcoCode>
+			<Descriptor>
+				<CommonName>Hawksmoor School</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060483</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546628</Easting>
+					<Northing>180469</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hawksmoor School</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490007092F</AtcoCode>
+			<Descriptor>
+				<CommonName>Gallions Reach Health Centre</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060483</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546537</Easting>
+					<Northing>180686</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Gallions Reach Health Centre</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-19T00:00:00">
+			<AtcoCode>490014285S</AtcoCode>
+			<Descriptor>
+				<CommonName>Watersmeet Place</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0075251</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546196</Easting>
+					<Northing>180557</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Watersmeet Place</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490007382S</AtcoCode>
+			<Descriptor>
+				<CommonName>Grasshaven Way</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0075251</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546054</Easting>
+					<Northing>180143</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Grasshaven Way</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490003857W</AtcoCode>
+			<Descriptor>
+				<CommonName>Belmarsh Prison</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0075254</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545166</Easting>
+					<Northing>179666</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Belmarsh Prison</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-07-25T00:00:00">
+			<AtcoCode>490001227L</AtcoCode>
+			<Descriptor>
+				<CommonName>Plumstead High Street / Plumsted Stn</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034334</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544898</Easting>
+					<Northing>178821</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Plumstead High Street / Plumsted Stn</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-01-19T00:00:00">
+			<AtcoCode>490001227E</AtcoCode>
+			<Descriptor>
+				<CommonName>Plumstead Road / Plumstead Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034334</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544748</Easting>
+					<Northing>178882</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Plumstead Road / Plumstead Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490014924D</AtcoCode>
+			<Descriptor>
+				<CommonName>Greenwich Community College</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0075254</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544520</Easting>
+					<Northing>178935</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Greenwich Community College</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-04-12T00:00:00">
+			<AtcoCode>490009723W</AtcoCode>
+			<Descriptor>
+				<CommonName>Maxey Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0075254</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544284</Easting>
+					<Northing>178925</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Maxey Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490003917D</AtcoCode>
+			<Descriptor>
+				<CommonName>Beresford Sq /Woolwich Arsenal</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034338</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543673</Easting>
+					<Northing>179026</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Beresford Sq /Woolwich Arsenal</Notes>
+		</StopPoint>
+	</StopPoints>
+	<RouteSections>
+		<RouteSection id="RS_59-672-_-y05-48247-O-1">
+			<RouteLink id="RL_59-672-_-y05-48247-O-1-1">
+				<From>
+					<StopPointRef>490007923N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007092F</StopPointRef>
+				</To>
+				<Distance>270</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_59-672-_-y05-48247-O-1-2">
+				<From>
+					<StopPointRef>490007092F</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014285S</StopPointRef>
+				</To>
+				<Distance>418</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_59-672-_-y05-48247-O-1-3">
+				<From>
+					<StopPointRef>490014285S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007382S</StopPointRef>
+				</To>
+				<Distance>458</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_59-672-_-y05-48247-O-1-4">
+				<From>
+					<StopPointRef>490007382S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003857W</StopPointRef>
+				</To>
+				<Distance>1206</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_59-672-_-y05-48247-O-1-5">
+				<From>
+					<StopPointRef>490003857W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001227L</StopPointRef>
+				</To>
+				<Distance>978</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_59-672-_-y05-48247-O-1-6">
+				<From>
+					<StopPointRef>490001227L</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001227E</StopPointRef>
+				</To>
+				<Distance>279</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_59-672-_-y05-48247-O-1-7">
+				<From>
+					<StopPointRef>490001227E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014924D</StopPointRef>
+				</To>
+				<Distance>225</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_59-672-_-y05-48247-O-1-8">
+				<From>
+					<StopPointRef>490014924D</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009723W</StopPointRef>
+				</To>
+				<Distance>229</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_59-672-_-y05-48247-O-1-9">
+				<From>
+					<StopPointRef>490009723W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003917D</StopPointRef>
+				</To>
+				<Distance>642</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+		</RouteSection>
+	</RouteSections>
+	<Routes>
+		<Route id="R_59-672-_-y05-48247-O-1">
+			<PrivateCode>R_59-672-_-y05-48247-O-1</PrivateCode>
+			<Description>Hawksmoor School - Beresford Sq /Woolwich Arsenal</Description>
+			<RouteSectionRef>RS_59-672-_-y05-48247-O-1</RouteSectionRef>
+		</Route>
+	</Routes>
+	<JourneyPatternSections>
+		<JourneyPatternSection id="JPS_59-672-_-y05-48247-1-1-O">
+			<JourneyPatternTimingLink id="JPL_59-672-_-y05-48247-1-O-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490007923N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007092F</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_59-672-_-y05-48247-O-1-1</RouteLinkRef>
+				<RunTime>PT1M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_59-672-_-y05-48247-1-O-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007092F</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014285S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_59-672-_-y05-48247-O-1-2</RouteLinkRef>
+				<RunTime>PT1M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_59-672-_-y05-48247-1-O-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014285S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007382S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_59-672-_-y05-48247-O-1-3</RouteLinkRef>
+				<RunTime>PT1M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_59-672-_-y05-48247-1-O-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007382S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003857W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_59-672-_-y05-48247-O-1-4</RouteLinkRef>
+				<RunTime>PT1M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_59-672-_-y05-48247-1-O-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003857W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001227L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_59-672-_-y05-48247-O-1-5</RouteLinkRef>
+				<RunTime>PT1M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_59-672-_-y05-48247-1-O-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001227L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001227E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_59-672-_-y05-48247-O-1-6</RouteLinkRef>
+				<RunTime>PT1M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_59-672-_-y05-48247-1-O-1-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001227E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014924D</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_59-672-_-y05-48247-O-1-7</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_59-672-_-y05-48247-1-O-1-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014924D</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009723W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_59-672-_-y05-48247-O-1-8</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_59-672-_-y05-48247-1-O-1-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009723W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>setDown</Activity>
+					<StopPointRef>490003917D</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_59-672-_-y05-48247-O-1-9</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+	</JourneyPatternSections>
+	<Operators>
+		<Operator id="OId_SK">
+			<OperatorCode>SK</OperatorCode>
+			<OperatorShortName>SOUTH EAST LONDON &amp; KEN</OperatorShortName>
+			<OperatorNameOnLicence>SOUTH EAST LONDON &amp; KENT BUS COMPANY LTD</OperatorNameOnLicence>
+			<TradingName>SOUTH EAST LONDON &amp; KENT BUS COMPANY LTD</TradingName>
+		</Operator>
+	</Operators>
+	<Services>
+		<Service>
+			<ServiceCode>59-672-_-y05-48247</ServiceCode>
+			<PrivateCode>59-672-_-y05-48247</PrivateCode>
+			<Lines>
+				<Line id="59-672-_-y05-48247">
+					<LineName>672</LineName>
+				</Line>
+			</Lines>
+			<OperatingPeriod>
+				<StartDate>2017-12-09</StartDate>
+				<EndDate>2018-12-23</EndDate>
+			</OperatingPeriod>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<MondayToFriday />
+					</DaysOfWeek>
+				</RegularDayType>
+			</OperatingProfile>
+			<RegisteredOperatorRef>OId_SK</RegisteredOperatorRef>
+			<StopRequirements>
+				<NoNewStopsRequired />
+			</StopRequirements>
+			<Mode>bus</Mode>
+			<Description>Hawksmoor School - Plumstead - Woolwich Arsenal</Description>
+			<StandardService>
+				<Origin>Hawksmoor School</Origin>
+				<Destination>Beresford Sq /Woolwich Arsenal</Destination>
+				<JourneyPattern id="JP_59-672-_-y05-48247-1-O-1">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SSLW</VehicleTypeCode>
+							<Description>Double Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_59-672-_-y05-48247-O-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_59-672-_-y05-48247-1-1-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+			</StandardService>
+		</Service>
+	</Services>
+	<VehicleJourneys>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-1-FrSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Friday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-29</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-16</StartDate>
+							<EndDate>2018-02-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-06</StartDate>
+							<EndDate>2018-04-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-13</StartDate>
+							<EndDate>2018-04-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-06-01</StartDate>
+							<EndDate>2018-06-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-27</StartDate>
+							<EndDate>2018-07-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-03</StartDate>
+							<EndDate>2018-08-03</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-10</StartDate>
+							<EndDate>2018-08-10</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-17</StartDate>
+							<EndDate>2018-08-17</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-24</StartDate>
+							<EndDate>2018-08-24</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-31</StartDate>
+							<EndDate>2018-08-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-1-FrSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-3-FrSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Friday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-29</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-16</StartDate>
+							<EndDate>2018-02-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-06</StartDate>
+							<EndDate>2018-04-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-13</StartDate>
+							<EndDate>2018-04-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-06-01</StartDate>
+							<EndDate>2018-06-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-27</StartDate>
+							<EndDate>2018-07-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-03</StartDate>
+							<EndDate>2018-08-03</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-10</StartDate>
+							<EndDate>2018-08-10</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-17</StartDate>
+							<EndDate>2018-08-17</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-24</StartDate>
+							<EndDate>2018-08-24</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-31</StartDate>
+							<EndDate>2018-08-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-3-FrSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-5-FrSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Friday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-29</StartDate>
+							<EndDate>2017-12-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-16</StartDate>
+							<EndDate>2018-02-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-06</StartDate>
+							<EndDate>2018-04-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-13</StartDate>
+							<EndDate>2018-04-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-06-01</StartDate>
+							<EndDate>2018-06-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-27</StartDate>
+							<EndDate>2018-07-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-03</StartDate>
+							<EndDate>2018-08-03</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-10</StartDate>
+							<EndDate>2018-08-10</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-17</StartDate>
+							<EndDate>2018-08-17</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-24</StartDate>
+							<EndDate>2018-08-24</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-31</StartDate>
+							<EndDate>2018-08-31</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-5-FrSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-1-MoSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Monday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-02-12</StartDate>
+							<EndDate>2018-02-12</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-09</StartDate>
+							<EndDate>2018-04-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-23</StartDate>
+							<EndDate>2018-07-23</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-30</StartDate>
+							<EndDate>2018-07-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-06</StartDate>
+							<EndDate>2018-08-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-13</StartDate>
+							<EndDate>2018-08-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-20</StartDate>
+							<EndDate>2018-08-20</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-1-MoSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-3-MoSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Monday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-02-12</StartDate>
+							<EndDate>2018-02-12</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-09</StartDate>
+							<EndDate>2018-04-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-23</StartDate>
+							<EndDate>2018-07-23</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-30</StartDate>
+							<EndDate>2018-07-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-06</StartDate>
+							<EndDate>2018-08-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-13</StartDate>
+							<EndDate>2018-08-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-20</StartDate>
+							<EndDate>2018-08-20</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-3-MoSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-5-MoSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Monday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-02-12</StartDate>
+							<EndDate>2018-02-12</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-09</StartDate>
+							<EndDate>2018-04-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-23</StartDate>
+							<EndDate>2018-07-23</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-30</StartDate>
+							<EndDate>2018-07-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-06</StartDate>
+							<EndDate>2018-08-06</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-13</StartDate>
+							<EndDate>2018-08-13</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-20</StartDate>
+							<EndDate>2018-08-20</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-5-MoSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-1-TuSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Tuesday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<ServicedOrganisationDayType>
+					<DaysOfNonOperation>
+						<Holidays>
+							<ServicedOrganisationRef>SOId_XX-school</ServicedOrganisationRef>
+						</Holidays>
+					</DaysOfNonOperation>
+				</ServicedOrganisationDayType>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-1-TuSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-3-TuSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Tuesday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<ServicedOrganisationDayType>
+					<DaysOfNonOperation>
+						<Holidays>
+							<ServicedOrganisationRef>SOId_XX-school</ServicedOrganisationRef>
+						</Holidays>
+					</DaysOfNonOperation>
+				</ServicedOrganisationDayType>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-3-TuSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-5-TuSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Tuesday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<ServicedOrganisationDayType>
+					<DaysOfNonOperation>
+						<Holidays>
+							<ServicedOrganisationRef>SOId_XX-school</ServicedOrganisationRef>
+						</Holidays>
+					</DaysOfNonOperation>
+				</ServicedOrganisationDayType>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<AllBankHolidays />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-5-TuSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-1-WeSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Wednesday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-14</StartDate>
+							<EndDate>2018-02-14</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-04</StartDate>
+							<EndDate>2018-04-04</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-11</StartDate>
+							<EndDate>2018-04-11</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-05-30</StartDate>
+							<EndDate>2018-05-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-25</StartDate>
+							<EndDate>2018-07-25</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-01</StartDate>
+							<EndDate>2018-08-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-08</StartDate>
+							<EndDate>2018-08-08</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-15</StartDate>
+							<EndDate>2018-08-15</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-22</StartDate>
+							<EndDate>2018-08-22</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-29</StartDate>
+							<EndDate>2018-08-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-1-WeSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-3-WeSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Wednesday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-14</StartDate>
+							<EndDate>2018-02-14</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-04</StartDate>
+							<EndDate>2018-04-04</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-11</StartDate>
+							<EndDate>2018-04-11</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-05-30</StartDate>
+							<EndDate>2018-05-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-25</StartDate>
+							<EndDate>2018-07-25</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-01</StartDate>
+							<EndDate>2018-08-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-08</StartDate>
+							<EndDate>2018-08-08</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-15</StartDate>
+							<EndDate>2018-08-15</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-22</StartDate>
+							<EndDate>2018-08-22</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-29</StartDate>
+							<EndDate>2018-08-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-3-WeSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-5-WeSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Wednesday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2017-12-27</StartDate>
+							<EndDate>2017-12-27</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-02-14</StartDate>
+							<EndDate>2018-02-14</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-04</StartDate>
+							<EndDate>2018-04-04</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-11</StartDate>
+							<EndDate>2018-04-11</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-05-30</StartDate>
+							<EndDate>2018-05-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-07-25</StartDate>
+							<EndDate>2018-07-25</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-01</StartDate>
+							<EndDate>2018-08-01</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-08</StartDate>
+							<EndDate>2018-08-08</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-15</StartDate>
+							<EndDate>2018-08-15</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-22</StartDate>
+							<EndDate>2018-08-22</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-29</StartDate>
+							<EndDate>2018-08-29</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-5-WeSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:35:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-1-ThSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Thursday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-08-02</StartDate>
+							<EndDate>2018-08-02</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-09</StartDate>
+							<EndDate>2018-08-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-16</StartDate>
+							<EndDate>2018-08-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-23</StartDate>
+							<EndDate>2018-08-23</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-30</StartDate>
+							<EndDate>2018-08-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-1-ThSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:10:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-3-ThSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Thursday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-08-02</StartDate>
+							<EndDate>2018-08-02</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-09</StartDate>
+							<EndDate>2018-08-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-16</StartDate>
+							<EndDate>2018-08-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-23</StartDate>
+							<EndDate>2018-08-23</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-30</StartDate>
+							<EndDate>2018-08-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-3-ThSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:05:00</DepartureTime>
+		</VehicleJourney>
+		<VehicleJourney>
+			<PrivateCode>tfl-59-672-_-y05-48247-5-ThSc</PrivateCode>
+			<DestinationDisplay>Woolwich</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Thursday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<SpecialDaysOperation>
+					<DaysOfNonOperation>
+						<DateRange>
+							<StartDate>2018-08-02</StartDate>
+							<EndDate>2018-08-02</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-09</StartDate>
+							<EndDate>2018-08-09</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-16</StartDate>
+							<EndDate>2018-08-16</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-23</StartDate>
+							<EndDate>2018-08-23</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-08-30</StartDate>
+							<EndDate>2018-08-30</EndDate>
+						</DateRange>
+						<DateRange>
+							<StartDate>2018-04-02</StartDate>
+							<EndDate>2018-04-02</EndDate>
+							<Note>East Monday</Note>
+						</DateRange>
+					</DaysOfNonOperation>
+				</SpecialDaysOperation>
+				<BankHolidayOperation>
+					<DaysOfNonOperation>
+						<ChristmasDay />
+						<BoxingDay />
+						<GoodFriday />
+						<NewYearsDay />
+						<LateSummerBankHolidayNotScotland />
+						<MayDay />
+						<SpringBank />
+					</DaysOfNonOperation>
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_59-672-_-y05-48247-5-ThSc</VehicleJourneyCode>
+			<ServiceRef>59-672-_-y05-48247</ServiceRef>
+			<LineRef>59-672-_-y05-48247</LineRef>
+			<JourneyPatternRef>JP_59-672-_-y05-48247-1-O-1</JourneyPatternRef>
+			<DepartureTime>15:35:00</DepartureTime>
+		</VehicleJourney>
+	</VehicleJourneys>
+</TransXChange>

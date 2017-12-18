@@ -1,0 +1,6224 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TransXChange CreationDateTime="2017-12-11T18:28:51.88806Z" ModificationDateTime="2017-12-11T18:28:51.88806Z" Modification="new" FileName="tfl_60-N8-_-y05-48157.xml" RevisionNumber="3" SchemaVersion="2.1" xml:lang="en" xsi:schemaLocation="http://www.transxchange.org.uk/ http://www.transxchange.org.uk/schema/2.1/TransXChange_general.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.transxchange.org.uk/">
+	<NptgLocalities>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034727</NptgLocalityRef>
+			<LocalityName>Hainault</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034724</NptgLocalityRef>
+			<LocalityName>Fairlop</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0060444</NptgLocalityRef>
+			<LocalityName>Fulwell Cross</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034721</NptgLocalityRef>
+			<LocalityName>Barkingside</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034725</NptgLocalityRef>
+			<LocalityName>Gants Hill</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0060492</NptgLocalityRef>
+			<LocalityName>Redbridge (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034744</NptgLocalityRef>
+			<LocalityName>Wanstead</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034875</NptgLocalityRef>
+			<LocalityName>Leytonstone</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0065232</NptgLocalityRef>
+			<LocalityName>Leyton</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0060322</NptgLocalityRef>
+			<LocalityName>Stratford New Town</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0060321</NptgLocalityRef>
+			<LocalityName>Stratford (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034838</NptgLocalityRef>
+			<LocalityName>Bow (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034853</NptgLocalityRef>
+			<LocalityName>Old Ford</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034845</NptgLocalityRef>
+			<LocalityName>Globe Town</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034834</NptgLocalityRef>
+			<LocalityName>Bethnal Green</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034860</NptgLocalityRef>
+			<LocalityName>Spitalfields</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034364</NptgLocalityRef>
+			<LocalityName>Shoreditch (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0077693</NptgLocalityRef>
+			<LocalityName>Liverpool Street</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034192</NptgLocalityRef>
+			<LocalityName>Bishopsgate (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0057722</NptgLocalityRef>
+			<LocalityName>City of London</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0065204</NptgLocalityRef>
+			<LocalityName>St Pauls (London)</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>E0034178</NptgLocalityRef>
+			<LocalityName>Holborn</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0077641</NptgLocalityRef>
+			<LocalityName>Chancery Lane</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0077727</NptgLocalityRef>
+			<LocalityName>Tottenham Court Road</LocalityName>
+		</AnnotatedNptgLocalityRef>
+		<AnnotatedNptgLocalityRef>
+			<NptgLocalityRef>N0065187</NptgLocalityRef>
+			<LocalityName>Oxford Circus</LocalityName>
+		</AnnotatedNptgLocalityRef>
+	</NptgLocalities>
+	<StopPoints>
+		<StopPoint CreationDateTime="2016-11-11T00:00:00">
+			<AtcoCode>490006809E1</AtcoCode>
+			<Descriptor>
+				<CommonName>The Lowe</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546130</Easting>
+					<Northing>192058</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Lowe</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013454W</AtcoCode>
+			<Descriptor>
+				<CommonName>Tunstall Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546172</Easting>
+					<Northing>191968</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Tunstall Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-11-13T00:00:00">
+			<AtcoCode>490012469W</AtcoCode>
+			<Descriptor>
+				<CommonName>Staggart Green</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546004</Easting>
+					<Northing>191905</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Staggart Green</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490007648W</AtcoCode>
+			<Descriptor>
+				<CommonName>Hainault Fire Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545700</Easting>
+					<Northing>191784</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hainault Fire Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-27T00:00:00">
+			<AtcoCode>490003813W</AtcoCode>
+			<Descriptor>
+				<CommonName>Beech Grove</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545482</Easting>
+					<Northing>191698</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Beech Grove</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-19T00:00:00">
+			<AtcoCode>490000095A</AtcoCode>
+			<Descriptor>
+				<CommonName>Hainault</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545145</Easting>
+					<Northing>191561</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hainault</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-08-03T00:00:00">
+			<AtcoCode>490013783W</AtcoCode>
+			<Descriptor>
+				<CommonName>Trelawney Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034724</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544765</Easting>
+					<Northing>191408</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Trelawney Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-18T00:00:00">
+			<AtcoCode>490013481S</AtcoCode>
+			<Descriptor>
+				<CommonName>New North Road_ Fullwell Cross</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060444</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544467</Easting>
+					<Northing>191174</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>New North Road, Fullwell Cross</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010189S</AtcoCode>
+			<Descriptor>
+				<CommonName>Neville Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060444</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544498</Easting>
+					<Northing>190839</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Neville Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013704S</AtcoCode>
+			<Descriptor>
+				<CommonName>Tomswood Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060444</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544480</Easting>
+					<Northing>190606</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Tomswood Hill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-28T00:00:00">
+			<AtcoCode>490007059D</AtcoCode>
+			<Descriptor>
+				<CommonName>Fullwell Cross</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060444</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544469</Easting>
+					<Northing>190248</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Fullwell Cross</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490014316G</AtcoCode>
+			<Descriptor>
+				<CommonName>Waverley Gardens (IG6)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034721</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544390</Easting>
+					<Northing>190065</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Waverley Gardens (IG6)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490007012N</AtcoCode>
+			<Descriptor>
+				<CommonName>Barkingside Police Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034721</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544288</Easting>
+					<Northing>189835</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Barkingside Police Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-06-23T00:00:00">
+			<AtcoCode>490004258S</AtcoCode>
+			<Descriptor>
+				<CommonName>Brandville Gardens</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034721</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544178</Easting>
+					<Northing>189529</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Brandville Gardens</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490007060S</AtcoCode>
+			<Descriptor>
+				<CommonName>Fullwood Primary School</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034721</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544077</Easting>
+					<Northing>189360</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Fullwood Primary School</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-06-22T00:00:00">
+			<AtcoCode>490007695S</AtcoCode>
+			<Descriptor>
+				<CommonName>Hamilton Avenue</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034721</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543865</Easting>
+					<Northing>189076</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hamilton Avenue</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-28T00:00:00">
+			<AtcoCode>490007110S</AtcoCode>
+			<Descriptor>
+				<CommonName>Icknield Drive</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034725</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543762</Easting>
+					<Northing>188808</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Icknield Drive</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-11-09T00:00:00">
+			<AtcoCode>490012078S</AtcoCode>
+			<Descriptor>
+				<CommonName>Martley Drive</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034725</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543619</Easting>
+					<Northing>188621</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Martley Drive</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-10-16T00:00:00">
+			<AtcoCode>490015200E</AtcoCode>
+			<Descriptor>
+				<CommonName>Gants Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034725</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543430</Easting>
+					<Northing>188516</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Gants Hill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490000085H</AtcoCode>
+			<Descriptor>
+				<CommonName>Clarence Avenue_ Gants Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034725</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543180</Easting>
+					<Northing>188415</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Clarence Avenue, Gants Hill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-05-31T00:00:00">
+			<AtcoCode>490003829W</AtcoCode>
+			<Descriptor>
+				<CommonName>Beehive Lane_ Gants Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034725</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>542780</Easting>
+					<Northing>188399</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Beehive Lane, Gants Hill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013332W</AtcoCode>
+			<Descriptor>
+				<CommonName>The Drive (IG1)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060492</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>542281</Easting>
+					<Northing>188354</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Drive (IG1)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-06-19T00:00:00">
+			<AtcoCode>490015554C</AtcoCode>
+			<Descriptor>
+				<CommonName>Redbridge</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060492</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>541853</Easting>
+					<Northing>188314</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Redbridge</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-25T00:00:00">
+			<AtcoCode>490011477W</AtcoCode>
+			<Descriptor>
+				<CommonName>Redbridge Lane West</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060492</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>541485</Easting>
+					<Northing>188322</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Redbridge Lane West</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-19T00:00:00">
+			<AtcoCode>490014674W</AtcoCode>
+			<Descriptor>
+				<CommonName>Wigram Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034744</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>540923</Easting>
+					<Northing>188350</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Wigram Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490000250A</AtcoCode>
+			<Descriptor>
+				<CommonName>Wanstead Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034744</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>540681</Easting>
+					<Northing>188287</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Wanstead Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490015125C</AtcoCode>
+			<Descriptor>
+				<CommonName>Wanstead Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034744</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>540542</Easting>
+					<Northing>188192</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Wanstead Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490006778S</AtcoCode>
+			<Descriptor>
+				<CommonName>Felstead Road (E11)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034744</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>540352</Easting>
+					<Northing>187901</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Felstead Road (E11)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490004653S</AtcoCode>
+			<Descriptor>
+				<CommonName>Bush Road (E11)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034744</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>540349</Easting>
+					<Northing>187678</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bush Road (E11)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-07-09T00:00:00">
+			<AtcoCode>490007491R</AtcoCode>
+			<Descriptor>
+				<CommonName>Bush Road / Green Man Rbt</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539931</Easting>
+					<Northing>187664</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bush Road / Green Man Rbt</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-19T00:00:00">
+			<AtcoCode>490007490P</AtcoCode>
+			<Descriptor>
+				<CommonName>Green Man Roundabout</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539722</Easting>
+					<Northing>187663</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Green Man Roundabout</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-03-22T00:00:00">
+			<AtcoCode>490000137W</AtcoCode>
+			<Descriptor>
+				<CommonName>Leytonstone Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539354</Easting>
+					<Northing>187490</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Leytonstone Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490007882K</AtcoCode>
+			<Descriptor>
+				<CommonName>Harvey Road (E11)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539461</Easting>
+					<Northing>187328</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Harvey Road (E11)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-21T00:00:00">
+			<AtcoCode>490009846L</AtcoCode>
+			<Descriptor>
+				<CommonName>Michael Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539447</Easting>
+					<Northing>187156</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Michael Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-03-21T00:00:00">
+			<AtcoCode>490001179S</AtcoCode>
+			<Descriptor>
+				<CommonName>Leytonstone High Road Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539409</Easting>
+					<Northing>186892</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Leytonstone High Road Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-21T00:00:00">
+			<AtcoCode>490009141S</AtcoCode>
+			<Descriptor>
+				<CommonName>Leytonstone Fire Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539295</Easting>
+					<Northing>186517</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Leytonstone Fire Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-21T00:00:00">
+			<AtcoCode>490016314S</AtcoCode>
+			<Descriptor>
+				<CommonName>Harrow Road (E11)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539239</Easting>
+					<Northing>186342</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Harrow Road (E11)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-03-21T00:00:00">
+			<AtcoCode>490007849S</AtcoCode>
+			<Descriptor>
+				<CommonName>Harrow Green</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065232</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539190</Easting>
+					<Northing>186160</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Harrow Green</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-21T00:00:00">
+			<AtcoCode>490011421S</AtcoCode>
+			<Descriptor>
+				<CommonName>Ranelagh Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065232</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539113</Easting>
+					<Northing>185843</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Ranelagh Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-21T00:00:00">
+			<AtcoCode>490009140S</AtcoCode>
+			<Descriptor>
+				<CommonName>Leytonstone High Road / Thatched House</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065232</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539131</Easting>
+					<Northing>185724</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Leytonstone High Road / Thatched House</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-27T00:00:00">
+			<AtcoCode>490008540S</AtcoCode>
+			<Descriptor>
+				<CommonName>Janson Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065232</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539160</Easting>
+					<Northing>185452</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Janson Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-18T00:00:00">
+			<AtcoCode>490005214S</AtcoCode>
+			<Descriptor>
+				<CommonName>Chobham Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060322</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539134</Easting>
+					<Northing>185270</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Chobham Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490001190S1</AtcoCode>
+			<Descriptor>
+				<CommonName>Maryland</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539213</Easting>
+					<Northing>185029</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Maryland</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-27T00:00:00">
+			<AtcoCode>490009536S</AtcoCode>
+			<Descriptor>
+				<CommonName>Manbey Grove</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539100</Easting>
+					<Northing>184801</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Manbey Grove</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490012902R</AtcoCode>
+			<Descriptor>
+				<CommonName>Stratford Library</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539069</Easting>
+					<Northing>184567</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Stratford Library</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-02-14T00:00:00">
+			<AtcoCode>490015114E</AtcoCode>
+			<Descriptor>
+				<CommonName>Stratford Centre</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>538975</Easting>
+					<Northing>184386</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Stratford Centre</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490015114L</AtcoCode>
+			<Descriptor>
+				<CommonName>Old Town Hall</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>538881</Easting>
+					<Northing>184301</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Old Town Hall</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-10-18T00:00:00">
+			<AtcoCode>490004815S</AtcoCode>
+			<Descriptor>
+				<CommonName>Stratford High St / Carpenters Rd</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>538625</Easting>
+					<Northing>183939</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Stratford High St / Carpenters Rd</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490014249S</AtcoCode>
+			<Descriptor>
+				<CommonName>Warton Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>538487</Easting>
+					<Northing>183770</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Warton Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490003025W</AtcoCode>
+			<Descriptor>
+				<CommonName>Abbey Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>538313</Easting>
+					<Northing>183535</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Abbey Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-02-24T00:00:00">
+			<AtcoCode>490004215P</AtcoCode>
+			<Descriptor>
+				<CommonName>Bow Flyover</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034838</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>537990</Easting>
+					<Northing>183140</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bow Flyover</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490011654N</AtcoCode>
+			<Descriptor>
+				<CommonName>Roman Road Market</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034853</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>537008</Easting>
+					<Northing>183445</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Roman Road Market</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490010552N</AtcoCode>
+			<Descriptor>
+				<CommonName>Old Ford Road (E3)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034853</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>536880</Easting>
+					<Northing>183679</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Old Ford Road (E3)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010561W</AtcoCode>
+			<Descriptor>
+				<CommonName>Parnell Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034853</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>536804</Easting>
+					<Northing>183711</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Parnell Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-06-16T00:00:00">
+			<AtcoCode>490012461S</AtcoCode>
+			<Descriptor>
+				<CommonName>Alice Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034853</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>536473</Easting>
+					<Northing>183578</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Alice Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490006904W</AtcoCode>
+			<Descriptor>
+				<CommonName>Ford Road (E3)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034853</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>536538</Easting>
+					<Northing>183315</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Ford Road (E3)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490009786W</AtcoCode>
+			<Descriptor>
+				<CommonName>Medway Road (E3)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034853</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>536311</Easting>
+					<Northing>183243</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Medway Road (E3)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-08-05T00:00:00">
+			<AtcoCode>490007914W</AtcoCode>
+			<Descriptor>
+				<CommonName>Haverfield Green / Grove Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034845</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>535963</Easting>
+					<Northing>183109</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Haverfield Green / Grove Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490012204W</AtcoCode>
+			<Descriptor>
+				<CommonName>Bonner Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034845</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>535620</Easting>
+					<Northing>182968</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bonner Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490004144W</AtcoCode>
+			<Descriptor>
+				<CommonName>Morpeth Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034845</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>535463</Easting>
+					<Northing>182886</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Morpeth Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490007242W</AtcoCode>
+			<Descriptor>
+				<CommonName>Globe Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034845</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>535358</Easting>
+					<Northing>182825</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Globe Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490000022B</AtcoCode>
+			<Descriptor>
+				<CommonName>Bethnal Green</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034834</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>535053</Easting>
+					<Northing>182737</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bethnal Green</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-10-16T00:00:00">
+			<AtcoCode>490014721E</AtcoCode>
+			<Descriptor>
+				<CommonName>Wilmot Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034834</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>534770</Easting>
+					<Northing>182690</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Wilmot Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-24T00:00:00">
+			<AtcoCode>490003638W</AtcoCode>
+			<Descriptor>
+				<CommonName>Barnet Grove</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034834</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>534214</Easting>
+					<Northing>182576</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Barnet Grove</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490004313SB</AtcoCode>
+			<Descriptor>
+				<CommonName>Brick Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034860</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>533924</Easting>
+					<Northing>182456</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Brick Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490006398K</AtcoCode>
+			<Descriptor>
+				<CommonName>Shoreditch High Street Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034364</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>533576</Easting>
+					<Northing>182272</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Shoreditch High Street Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-06-15T00:00:00">
+			<AtcoCode>490005524D</AtcoCode>
+			<Descriptor>
+				<CommonName>Commercial Street / Worship St</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034860</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>533432</Easting>
+					<Northing>182085</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Commercial Street / Worship St</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490012391S</AtcoCode>
+			<Descriptor>
+				<CommonName>Primrose Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034860</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>533381</Easting>
+					<Northing>181845</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Primrose Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-04T00:00:00">
+			<AtcoCode>490000138L</AtcoCode>
+			<Descriptor>
+				<CommonName>Liverpool Street Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077693</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>533321</Easting>
+					<Northing>181640</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Liverpool Street Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-09T00:00:00">
+			<AtcoCode>490004043S</AtcoCode>
+			<Descriptor>
+				<CommonName>Wormwood Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034192</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>533182</Easting>
+					<Northing>181376</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Wormwood Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010527W</AtcoCode>
+			<Descriptor>
+				<CommonName>Old Broad Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057722</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>532936</Easting>
+					<Northing>181204</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Old Broad Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490007596L</AtcoCode>
+			<Descriptor>
+				<CommonName>Poultry / Bank Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057722</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>532544</Easting>
+					<Northing>181134</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Poultry / Bank Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490015124Z</AtcoCode>
+			<Descriptor>
+				<CommonName>Bread Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057722</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>532282</Easting>
+					<Northing>181194</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bread Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-09-08T00:00:00">
+			<AtcoCode>490000225T</AtcoCode>
+			<Descriptor>
+				<CommonName>St. Paul's</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065204</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>532039</Easting>
+					<Northing>181306</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>St. Paul's</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490001067R</AtcoCode>
+			<Descriptor>
+				<CommonName>City Thameslink</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057722</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>531730</Easting>
+					<Northing>181434</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>City Thameslink</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490015096L</AtcoCode>
+			<Descriptor>
+				<CommonName>Holborn Circus</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057722</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>531477</Easting>
+					<Northing>181545</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Holborn Circus</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-08-09T00:00:00">
+			<AtcoCode>490008275G</AtcoCode>
+			<Descriptor>
+				<CommonName>Holborn Circus / Fetter Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034178</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>531321</Easting>
+					<Northing>181567</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Holborn Circus / Fetter Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490000044F</AtcoCode>
+			<Descriptor>
+				<CommonName>Chancery Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077641</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>531082</Easting>
+					<Northing>181605</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Chancery Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490004514W</AtcoCode>
+			<Descriptor>
+				<CommonName>Brownlow Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034178</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>530905</Easting>
+					<Northing>181593</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Brownlow Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-02-16T00:00:00">
+			<AtcoCode>490015239K</AtcoCode>
+			<Descriptor>
+				<CommonName>Holborn Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034178</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>530646</Easting>
+					<Northing>181539</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Holborn Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-01-22T00:00:00">
+			<AtcoCode>490000235X</AtcoCode>
+			<Descriptor>
+				<CommonName>Tottenham Court Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>529980</Easting>
+					<Northing>181412</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Tottenham Court Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490000235YB</AtcoCode>
+			<Descriptor>
+				<CommonName>Oxford Street / Soho Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>529693</Easting>
+					<Northing>181355</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Oxford Street / Soho Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-08-01T00:00:00">
+			<AtcoCode>490010689KB</AtcoCode>
+			<Descriptor>
+				<CommonName>Great Titchfield Street / Oxford Circus Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065187</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>529165</Easting>
+					<Northing>181256</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Great Titchfield Street / Oxford Circus Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-07-28T00:00:00">
+			<AtcoCode>490015196N</AtcoCode>
+			<Descriptor>
+				<CommonName>Holles Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065187</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>528842</Easting>
+					<Northing>181232</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Holles Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-09-07T00:00:00">
+			<AtcoCode>490015196OG</AtcoCode>
+			<Descriptor>
+				<CommonName>Holles Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065187</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>528822</Easting>
+					<Northing>181291</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Holles Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-05-14T00:00:00">
+			<AtcoCode>490010689OJ</AtcoCode>
+			<Descriptor>
+				<CommonName>Great Titchfield Street / Oxford Circus Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065187</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>529226</Easting>
+					<Northing>181280</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Great Titchfield Street / Oxford Circus Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490000235V</AtcoCode>
+			<Descriptor>
+				<CommonName>Tottenham Court Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>529764</Easting>
+					<Northing>181383</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Tottenham Court Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-03-30T00:00:00">
+			<AtcoCode>490000235Z</AtcoCode>
+			<Descriptor>
+				<CommonName>New Oxford Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>529956</Easting>
+					<Northing>181416</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>New Oxford Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010131WB</AtcoCode>
+			<Descriptor>
+				<CommonName>Museum Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034178</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>530240</Easting>
+					<Northing>181518</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Museum Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-07T00:00:00">
+			<AtcoCode>490011244J</AtcoCode>
+			<Descriptor>
+				<CommonName>Procter Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034178</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>530597</Easting>
+					<Northing>181611</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Procter Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490004514E</AtcoCode>
+			<Descriptor>
+				<CommonName>Brownlow Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034178</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>530886</Easting>
+					<Northing>181606</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Brownlow Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490000044E</AtcoCode>
+			<Descriptor>
+				<CommonName>Chancery Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077641</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>531065</Easting>
+					<Northing>181629</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Chancery Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-18T00:00:00">
+			<AtcoCode>490008275D</AtcoCode>
+			<Descriptor>
+				<CommonName>Holborn Circus / Fetter Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034178</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>531271</Easting>
+					<Northing>181596</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Holborn Circus / Fetter Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490008275K</AtcoCode>
+			<Descriptor>
+				<CommonName>Holborn Circus</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057722</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>531486</Easting>
+					<Northing>181550</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Holborn Circus</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490001067Q</AtcoCode>
+			<Descriptor>
+				<CommonName>City Thameslink</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057722</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>531672</Easting>
+					<Northing>181478</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>City Thameslink</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490000225S</AtcoCode>
+			<Descriptor>
+				<CommonName>King Edward Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057722</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>531945</Easting>
+					<Northing>181355</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>King Edward Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>49000225SY</AtcoCode>
+			<Descriptor>
+				<CommonName>St. Paul's</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065204</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>532241</Easting>
+					<Northing>181219</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>St. Paul's</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-05-26T00:00:00">
+			<AtcoCode>490007596K</AtcoCode>
+			<Descriptor>
+				<CommonName>Bank Station / Poultry</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057722</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>532532</Easting>
+					<Northing>181150</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bank Station / Poultry</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-05-26T00:00:00">
+			<AtcoCode>490000013C</AtcoCode>
+			<Descriptor>
+				<CommonName>Bank Station / Threadneedle St</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057722</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>532781</Easting>
+					<Northing>181166</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bank Station / Threadneedle St</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-10-18T00:00:00">
+			<AtcoCode>490010527E</AtcoCode>
+			<Descriptor>
+				<CommonName>Old Broad Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0057722</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>532962</Easting>
+					<Northing>181217</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Old Broad Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-09T00:00:00">
+			<AtcoCode>490004043N2</AtcoCode>
+			<Descriptor>
+				<CommonName>Wormwood Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034192</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>533168</Easting>
+					<Northing>181380</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Wormwood Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-03-04T00:00:00">
+			<AtcoCode>490000138F</AtcoCode>
+			<Descriptor>
+				<CommonName>Liverpool Street Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0077693</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>533272</Easting>
+					<Northing>181587</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Liverpool Street Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490011187N</AtcoCode>
+			<Descriptor>
+				<CommonName>Primrose Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034860</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>533374</Easting>
+					<Northing>181909</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Primrose Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490006398J</AtcoCode>
+			<Descriptor>
+				<CommonName>Bethnal Grn Rd / Shoreditch High St</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034364</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>533538</Easting>
+					<Northing>182287</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bethnal Grn Rd / Shoreditch High St</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490004313SA</AtcoCode>
+			<Descriptor>
+				<CommonName>Brick Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034860</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>533826</Easting>
+					<Northing>182395</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Brick Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-24T00:00:00">
+			<AtcoCode>490003638E</AtcoCode>
+			<Descriptor>
+				<CommonName>Barnet Grove</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034834</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>534169</Easting>
+					<Northing>182579</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Barnet Grove</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490011087E</AtcoCode>
+			<Descriptor>
+				<CommonName>Pollard Row</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034834</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>534432</Easting>
+					<Northing>182637</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Pollard Row</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-10-16T00:00:00">
+			<AtcoCode>490014721F</AtcoCode>
+			<Descriptor>
+				<CommonName>Wilmot Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034834</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>534675</Easting>
+					<Northing>182686</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Wilmot Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490000022D</AtcoCode>
+			<Descriptor>
+				<CommonName>Bethnal Green</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034834</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>534899</Easting>
+					<Northing>182743</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bethnal Green</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490004606K</AtcoCode>
+			<Descriptor>
+				<CommonName>Burnham Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034845</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>535194</Easting>
+					<Northing>182776</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Burnham Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-23T00:00:00">
+			<AtcoCode>490004144E</AtcoCode>
+			<Descriptor>
+				<CommonName>Bonner Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034845</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>535592</Easting>
+					<Northing>182959</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Bonner Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-27T00:00:00">
+			<AtcoCode>490012204E</AtcoCode>
+			<Descriptor>
+				<CommonName>Smart Street</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034845</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>535745</Easting>
+					<Northing>183032</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Smart Street</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-09-13T00:00:00">
+			<AtcoCode>490007580E</AtcoCode>
+			<Descriptor>
+				<CommonName>Roman Road / Grove Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034845</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>536080</Easting>
+					<Northing>183170</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Roman Road / Grove Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490009786E</AtcoCode>
+			<Descriptor>
+				<CommonName>Medway Road (E3)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034853</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>536338</Easting>
+					<Northing>183262</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Medway Road (E3)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490006904E</AtcoCode>
+			<Descriptor>
+				<CommonName>Ford Road (E3)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034853</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>536500</Easting>
+					<Northing>183313</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Ford Road (E3)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-06-16T00:00:00">
+			<AtcoCode>490012461N</AtcoCode>
+			<Descriptor>
+				<CommonName>Alice Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034853</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>536493</Easting>
+					<Northing>183515</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Alice Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010561E</AtcoCode>
+			<Descriptor>
+				<CommonName>Parnell Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034853</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>536775</Easting>
+					<Northing>183717</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Parnell Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-02T00:00:00">
+			<AtcoCode>490011654S</AtcoCode>
+			<Descriptor>
+				<CommonName>Roman Road Market</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034853</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>536918</Easting>
+					<Northing>183619</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Roman Road Market</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-11-09T00:00:00">
+			<AtcoCode>490009695MA</AtcoCode>
+			<Descriptor>
+				<CommonName>Marshgate Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>538048</Easting>
+					<Northing>183249</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Marshgate Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490003025E</AtcoCode>
+			<Descriptor>
+				<CommonName>Warton Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>538360</Easting>
+					<Northing>183633</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Warton Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-01-18T00:00:00">
+			<AtcoCode>490014215N</AtcoCode>
+			<Descriptor>
+				<CommonName>Stratford H St/Carpenters Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>538554</Easting>
+					<Northing>183887</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Stratford H St/Carpenters Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-10-16T00:00:00">
+			<AtcoCode>490012904C</AtcoCode>
+			<Descriptor>
+				<CommonName>Stratford Bus Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>538663</Easting>
+					<Northing>184386</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Stratford Bus Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013232P</AtcoCode>
+			<Descriptor>
+				<CommonName>Theatre Royal Stratford</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>538879</Easting>
+					<Northing>184612</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Theatre Royal Stratford</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-01-19T00:00:00">
+			<AtcoCode>490013402Q</AtcoCode>
+			<Descriptor>
+				<CommonName>The Grove (E15)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539034</Easting>
+					<Northing>184658</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Grove (E15)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490009536N</AtcoCode>
+			<Descriptor>
+				<CommonName>Maryland Station /Manbey Grove</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539087</Easting>
+					<Northing>184867</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Maryland Station /Manbey Grove</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490001190N</AtcoCode>
+			<Descriptor>
+				<CommonName>Maryland</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060321</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539192</Easting>
+					<Northing>185050</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Maryland</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-27T00:00:00">
+			<AtcoCode>490005214N</AtcoCode>
+			<Descriptor>
+				<CommonName>Chobham Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060322</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539121</Easting>
+					<Northing>185364</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Chobham Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-27T00:00:00">
+			<AtcoCode>490009140N</AtcoCode>
+			<Descriptor>
+				<CommonName>Cann Hall Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065232</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539135</Easting>
+					<Northing>185592</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Cann Hall Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-21T00:00:00">
+			<AtcoCode>490011421N</AtcoCode>
+			<Descriptor>
+				<CommonName>Ranelagh Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065232</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539126</Easting>
+					<Northing>185944</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Ranelagh Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-03-21T00:00:00">
+			<AtcoCode>490007849N</AtcoCode>
+			<Descriptor>
+				<CommonName>Harrow Green</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0065232</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539195</Easting>
+					<Northing>186208</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Harrow Green</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-21T00:00:00">
+			<AtcoCode>490014519E</AtcoCode>
+			<Descriptor>
+				<CommonName>West St High Rd Leytonstone</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539235</Easting>
+					<Northing>186395</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>West St High Rd Leytonstone</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-21T00:00:00">
+			<AtcoCode>490009141N</AtcoCode>
+			<Descriptor>
+				<CommonName>Leytonstone Fire Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539281</Easting>
+					<Northing>186517</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Leytonstone Fire Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490001179N</AtcoCode>
+			<Descriptor>
+				<CommonName>Leytonstone High Road Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539371</Easting>
+					<Northing>186788</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Leytonstone High Road Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-21T00:00:00">
+			<AtcoCode>490014033N</AtcoCode>
+			<Descriptor>
+				<CommonName>Vernon Rd/Leytonstone High Rd</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539411</Easting>
+					<Northing>187066</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Vernon Rd/Leytonstone High Rd</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-07-03T00:00:00">
+			<AtcoCode>490007882H</AtcoCode>
+			<Descriptor>
+				<CommonName>Harvey Road (E11)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539443</Easting>
+					<Northing>187319</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Harvey Road (E11)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-19T00:00:00">
+			<AtcoCode>490008852M</AtcoCode>
+			<Descriptor>
+				<CommonName>Kirkdale Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539526</Easting>
+					<Northing>187502</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Kirkdale Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-04-19T00:00:00">
+			<AtcoCode>490007490N</AtcoCode>
+			<Descriptor>
+				<CommonName>Green Man Roundabout</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034875</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>539696</Easting>
+					<Northing>187655</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Green Man Roundabout</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490004711E</AtcoCode>
+			<Descriptor>
+				<CommonName>Cambridge Road (E11)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034744</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>540077</Easting>
+					<Northing>187911</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Cambridge Road (E11)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-27T00:00:00">
+			<AtcoCode>490004088E</AtcoCode>
+			<Descriptor>
+				<CommonName>Blake Hall Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034744</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>540281</Easting>
+					<Northing>188047</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Blake Hall Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490015125B</AtcoCode>
+			<Descriptor>
+				<CommonName>Wanstead Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034744</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>540511</Easting>
+					<Northing>188199</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Wanstead Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010467E</AtcoCode>
+			<Descriptor>
+				<CommonName>Nutter Lane</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034744</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>541034</Easting>
+					<Northing>188418</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Nutter Lane</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490006659E</AtcoCode>
+			<Descriptor>
+				<CommonName>Redbridge Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060492</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>541976</Easting>
+					<Northing>188354</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Redbridge Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013332E</AtcoCode>
+			<Descriptor>
+				<CommonName>The Drive (IG1)</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060492</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>542424</Easting>
+					<Northing>188393</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Drive (IG1)</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-05-31T00:00:00">
+			<AtcoCode>490003829E</AtcoCode>
+			<Descriptor>
+				<CommonName>Beehive Lane_ Gants Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034725</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>542763</Easting>
+					<Northing>188426</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Beehive Lane, Gants Hill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-10-16T00:00:00">
+			<AtcoCode>490000085G</AtcoCode>
+			<Descriptor>
+				<CommonName>Gants Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034725</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543165</Easting>
+					<Northing>188441</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Gants Hill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-10-16T00:00:00">
+			<AtcoCode>490015200C</AtcoCode>
+			<Descriptor>
+				<CommonName>Gants Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034725</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543401</Easting>
+					<Northing>188518</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Gants Hill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-01-13T00:00:00">
+			<AtcoCode>490012078N</AtcoCode>
+			<Descriptor>
+				<CommonName>Shere Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034725</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543574</Easting>
+					<Northing>188609</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Shere Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-28T00:00:00">
+			<AtcoCode>490007110N</AtcoCode>
+			<Descriptor>
+				<CommonName>Gantshill Crescent</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034725</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543762</Easting>
+					<Northing>188890</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Gantshill Crescent</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-06-22T00:00:00">
+			<AtcoCode>490007695N</AtcoCode>
+			<Descriptor>
+				<CommonName>Beattyville Gardens</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034721</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>543940</Easting>
+					<Northing>189188</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Beattyville Gardens</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-06-19T00:00:00">
+			<AtcoCode>490007060N</AtcoCode>
+			<Descriptor>
+				<CommonName>Brandville Gardens</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034721</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544118</Easting>
+					<Northing>189479</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Brandville Gardens</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-24T00:00:00">
+			<AtcoCode>490007012J</AtcoCode>
+			<Descriptor>
+				<CommonName>Fremantle Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034721</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544297</Easting>
+					<Northing>189944</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Fremantle Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-28T00:00:00">
+			<AtcoCode>490007059A</AtcoCode>
+			<Descriptor>
+				<CommonName>Fullwell Cross</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060444</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544475</Easting>
+					<Northing>190279</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Fullwell Cross</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490013704N</AtcoCode>
+			<Descriptor>
+				<CommonName>Tomswood Hill</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060444</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544467</Easting>
+					<Northing>190608</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Tomswood Hill</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490010189N</AtcoCode>
+			<Descriptor>
+				<CommonName>Neville Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060444</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544482</Easting>
+					<Northing>190791</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Neville Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-02-18T00:00:00">
+			<AtcoCode>490013481N</AtcoCode>
+			<Descriptor>
+				<CommonName>New North Road_ Fullwell Cross</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>N0060444</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544449</Easting>
+					<Northing>191219</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>New North Road, Fullwell Cross</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2016-08-03T00:00:00">
+			<AtcoCode>490013783E</AtcoCode>
+			<Descriptor>
+				<CommonName>Trelawney Road</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034724</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>544815</Easting>
+					<Northing>191440</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Trelawney Road</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-18T00:00:00">
+			<AtcoCode>490000095B</AtcoCode>
+			<Descriptor>
+				<CommonName>Hainault</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545171</Easting>
+					<Northing>191581</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hainault</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-05-18T00:00:00">
+			<AtcoCode>490003813E</AtcoCode>
+			<Descriptor>
+				<CommonName>Beech Grove</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545490</Easting>
+					<Northing>191710</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Beech Grove</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2014-02-25T00:00:00">
+			<AtcoCode>490007648E</AtcoCode>
+			<Descriptor>
+				<CommonName>Hainault Fire Station</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545765</Easting>
+					<Northing>191818</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Hainault Fire Station</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2015-04-28T00:00:00">
+			<AtcoCode>490008708N</AtcoCode>
+			<Descriptor>
+				<CommonName>Kielder Close</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>545952</Easting>
+					<Northing>191938</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>Kielder Close</Notes>
+		</StopPoint>
+		<StopPoint CreationDateTime="2017-11-06T00:00:00">
+			<AtcoCode>490013454E1</AtcoCode>
+			<Descriptor>
+				<CommonName>The Lowe</CommonName>
+			</Descriptor>
+			<Place>
+				<NptgLocalityRef>E0034727</NptgLocalityRef>
+				<Location Precision="1m">
+					<Easting>546131</Easting>
+					<Northing>192051</Northing>
+				</Location>
+			</Place>
+			<StopClassification>
+				<StopType>BCS</StopType>
+				<OffStreet>
+					<BusAndCoach>
+						<Bay>
+							<TimingStatus>otherPoint</TimingStatus>
+						</Bay>
+					</BusAndCoach>
+				</OffStreet>
+			</StopClassification>
+			<AdministrativeAreaRef>000</AdministrativeAreaRef>
+			<Notes>The Lowe</Notes>
+		</StopPoint>
+	</StopPoints>
+	<RouteSections>
+		<RouteSection id="RS_60-N8-_-y05-48157-O-1">
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-1">
+				<From>
+					<StopPointRef>490006809E1</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013454W</StopPointRef>
+				</To>
+				<Distance>215</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-2">
+				<From>
+					<StopPointRef>490013454W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012469W</StopPointRef>
+				</To>
+				<Distance>180</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-3">
+				<From>
+					<StopPointRef>490012469W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007648W</StopPointRef>
+				</To>
+				<Distance>327</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-4">
+				<From>
+					<StopPointRef>490007648W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003813W</StopPointRef>
+				</To>
+				<Distance>235</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-5">
+				<From>
+					<StopPointRef>490003813W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000095A</StopPointRef>
+				</To>
+				<Distance>364</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-6">
+				<From>
+					<StopPointRef>490000095A</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013783W</StopPointRef>
+				</To>
+				<Distance>409</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-7">
+				<From>
+					<StopPointRef>490013783W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013481S</StopPointRef>
+				</To>
+				<Distance>446</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-8">
+				<From>
+					<StopPointRef>490013481S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010189S</StopPointRef>
+				</To>
+				<Distance>344</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-9">
+				<From>
+					<StopPointRef>490010189S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013704S</StopPointRef>
+				</To>
+				<Distance>234</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-10">
+				<From>
+					<StopPointRef>490013704S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007059D</StopPointRef>
+				</To>
+				<Distance>453</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-11">
+				<From>
+					<StopPointRef>490007059D</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014316G</StopPointRef>
+				</To>
+				<Distance>198</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-12">
+				<From>
+					<StopPointRef>490014316G</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007012N</StopPointRef>
+				</To>
+				<Distance>253</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-13">
+				<From>
+					<StopPointRef>490007012N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004258S</StopPointRef>
+				</To>
+				<Distance>334</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-14">
+				<From>
+					<StopPointRef>490004258S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007060S</StopPointRef>
+				</To>
+				<Distance>199</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-15">
+				<From>
+					<StopPointRef>490007060S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007695S</StopPointRef>
+				</To>
+				<Distance>350</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-16">
+				<From>
+					<StopPointRef>490007695S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007110S</StopPointRef>
+				</To>
+				<Distance>299</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-17">
+				<From>
+					<StopPointRef>490007110S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012078S</StopPointRef>
+				</To>
+				<Distance>232</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-18">
+				<From>
+					<StopPointRef>490012078S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015200E</StopPointRef>
+				</To>
+				<Distance>214</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-19">
+				<From>
+					<StopPointRef>490015200E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000085H</StopPointRef>
+				</To>
+				<Distance>306</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-20">
+				<From>
+					<StopPointRef>490000085H</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003829W</StopPointRef>
+				</To>
+				<Distance>391</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-21">
+				<From>
+					<StopPointRef>490003829W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490013332W</StopPointRef>
+				</To>
+				<Distance>513</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-22">
+				<From>
+					<StopPointRef>490013332W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015554C</StopPointRef>
+				</To>
+				<Distance>430</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-23">
+				<From>
+					<StopPointRef>490015554C</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011477W</StopPointRef>
+				</To>
+				<Distance>420</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-24">
+				<From>
+					<StopPointRef>490011477W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014674W</StopPointRef>
+				</To>
+				<Distance>545</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-25">
+				<From>
+					<StopPointRef>490014674W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000250A</StopPointRef>
+				</To>
+				<Distance>322</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-26">
+				<From>
+					<StopPointRef>490000250A</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015125C</StopPointRef>
+				</To>
+				<Distance>169</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-27">
+				<From>
+					<StopPointRef>490015125C</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006778S</StopPointRef>
+				</To>
+				<Distance>428</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-28">
+				<From>
+					<StopPointRef>490006778S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004653S</StopPointRef>
+				</To>
+				<Distance>223</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-29">
+				<From>
+					<StopPointRef>490004653S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007491R</StopPointRef>
+				</To>
+				<Distance>526</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-30">
+				<From>
+					<StopPointRef>490007491R</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007490P</StopPointRef>
+				</To>
+				<Distance>247</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-31">
+				<From>
+					<StopPointRef>490007490P</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000137W</StopPointRef>
+				</To>
+				<Distance>489</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-32">
+				<From>
+					<StopPointRef>490000137W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007882K</StopPointRef>
+				</To>
+				<Distance>300</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-33">
+				<From>
+					<StopPointRef>490007882K</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009846L</StopPointRef>
+				</To>
+				<Distance>176</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-34">
+				<From>
+					<StopPointRef>490009846L</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001179S</StopPointRef>
+				</To>
+				<Distance>265</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-35">
+				<From>
+					<StopPointRef>490001179S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009141S</StopPointRef>
+				</To>
+				<Distance>414</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-36">
+				<From>
+					<StopPointRef>490009141S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490016314S</StopPointRef>
+				</To>
+				<Distance>184</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-37">
+				<From>
+					<StopPointRef>490016314S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007849S</StopPointRef>
+				</To>
+				<Distance>166</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-38">
+				<From>
+					<StopPointRef>490007849S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011421S</StopPointRef>
+				</To>
+				<Distance>327</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-39">
+				<From>
+					<StopPointRef>490011421S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009140S</StopPointRef>
+				</To>
+				<Distance>157</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-40">
+				<From>
+					<StopPointRef>490009140S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008540S</StopPointRef>
+				</To>
+				<Distance>281</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-41">
+				<From>
+					<StopPointRef>490008540S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005214S</StopPointRef>
+				</To>
+				<Distance>187</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-42">
+				<From>
+					<StopPointRef>490005214S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001190S1</StopPointRef>
+				</To>
+				<Distance>256</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-43">
+				<From>
+					<StopPointRef>490001190S1</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009536S</StopPointRef>
+				</To>
+				<Distance>326</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-44">
+				<From>
+					<StopPointRef>490009536S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012902R</StopPointRef>
+				</To>
+				<Distance>253</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-45">
+				<From>
+					<StopPointRef>490012902R</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015114E</StopPointRef>
+				</To>
+				<Distance>208</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-46">
+				<From>
+					<StopPointRef>490015114E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015114L</StopPointRef>
+				</To>
+				<Distance>127</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-47">
+				<From>
+					<StopPointRef>490015114L</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004815S</StopPointRef>
+				</To>
+				<Distance>452</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-48">
+				<From>
+					<StopPointRef>490004815S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014249S</StopPointRef>
+				</To>
+				<Distance>217</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-49">
+				<From>
+					<StopPointRef>490014249S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003025W</StopPointRef>
+				</To>
+				<Distance>392</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-50">
+				<From>
+					<StopPointRef>490003025W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004215P</StopPointRef>
+				</To>
+				<Distance>434</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-51">
+				<From>
+					<StopPointRef>490004215P</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490011654N</StopPointRef>
+				</To>
+				<Distance>1224</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-52">
+				<From>
+					<StopPointRef>490011654N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010552N</StopPointRef>
+				</To>
+				<Distance>265</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-53">
+				<From>
+					<StopPointRef>490010552N</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010561W</StopPointRef>
+				</To>
+				<Distance>119</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-54">
+				<From>
+					<StopPointRef>490010561W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012461S</StopPointRef>
+				</To>
+				<Distance>398</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-55">
+				<From>
+					<StopPointRef>490012461S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006904W</StopPointRef>
+				</To>
+				<Distance>321</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-56">
+				<From>
+					<StopPointRef>490006904W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490009786W</StopPointRef>
+				</To>
+				<Distance>238</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-57">
+				<From>
+					<StopPointRef>490009786W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007914W</StopPointRef>
+				</To>
+				<Distance>355</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-58">
+				<From>
+					<StopPointRef>490007914W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012204W</StopPointRef>
+				</To>
+				<Distance>390</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-59">
+				<From>
+					<StopPointRef>490012204W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004144W</StopPointRef>
+				</To>
+				<Distance>170</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-60">
+				<From>
+					<StopPointRef>490004144W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007242W</StopPointRef>
+				</To>
+				<Distance>130</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-61">
+				<From>
+					<StopPointRef>490007242W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000022B</StopPointRef>
+				</To>
+				<Distance>316</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-62">
+				<From>
+					<StopPointRef>490000022B</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490014721E</StopPointRef>
+				</To>
+				<Distance>302</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-63">
+				<From>
+					<StopPointRef>490014721E</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490003638W</StopPointRef>
+				</To>
+				<Distance>568</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-64">
+				<From>
+					<StopPointRef>490003638W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004313SB</StopPointRef>
+				</To>
+				<Distance>320</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-65">
+				<From>
+					<StopPointRef>490004313SB</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490006398K</StopPointRef>
+				</To>
+				<Distance>398</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-66">
+				<From>
+					<StopPointRef>490006398K</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490005524D</StopPointRef>
+				</To>
+				<Distance>283</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-67">
+				<From>
+					<StopPointRef>490005524D</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490012391S</StopPointRef>
+				</To>
+				<Distance>250</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-68">
+				<From>
+					<StopPointRef>490012391S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000138L</StopPointRef>
+				</To>
+				<Distance>242</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-69">
+				<From>
+					<StopPointRef>490000138L</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004043S</StopPointRef>
+				</To>
+				<Distance>269</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-70">
+				<From>
+					<StopPointRef>490004043S</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010527W</StopPointRef>
+				</To>
+				<Distance>317</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-71">
+				<From>
+					<StopPointRef>490010527W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490007596L</StopPointRef>
+				</To>
+				<Distance>398</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-72">
+				<From>
+					<StopPointRef>490007596L</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015124Z</StopPointRef>
+				</To>
+				<Distance>294</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-73">
+				<From>
+					<StopPointRef>490015124Z</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000225T</StopPointRef>
+				</To>
+				<Distance>379</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-74">
+				<From>
+					<StopPointRef>490000225T</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490001067R</StopPointRef>
+				</To>
+				<Distance>219</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-75">
+				<From>
+					<StopPointRef>490001067R</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015096L</StopPointRef>
+				</To>
+				<Distance>279</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-76">
+				<From>
+					<StopPointRef>490015096L</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490008275G</StopPointRef>
+				</To>
+				<Distance>161</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-77">
+				<From>
+					<StopPointRef>490008275G</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000044F</StopPointRef>
+				</To>
+				<Distance>248</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-78">
+				<From>
+					<StopPointRef>490000044F</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490004514W</StopPointRef>
+				</To>
+				<Distance>180</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-79">
+				<From>
+					<StopPointRef>490004514W</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015239K</StopPointRef>
+				</To>
+				<Distance>274</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-80">
+				<From>
+					<StopPointRef>490015239K</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000235X</StopPointRef>
+				</To>
+				<Distance>679</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-81">
+				<From>
+					<StopPointRef>490000235X</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490000235YB</StopPointRef>
+				</To>
+				<Distance>284</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-82">
+				<From>
+					<StopPointRef>490000235YB</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490010689KB</StopPointRef>
+				</To>
+				<Distance>537</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+			<RouteLink id="RL_60-N8-_-y05-48157-O-1-83">
+				<From>
+					<StopPointRef>490010689KB</StopPointRef>
+				</From>
+				<To>
+					<StopPointRef>490015196N</StopPointRef>
+				</To>
+				<Distance>377</Distance>
+				<Direction>outbound</Direction>
+			</RouteLink>
+		</RouteSection>
+	</RouteSections>
+	<Routes>
+		<Route id="R_60-N8-_-y05-48157-O-1">
+			<PrivateCode>R_60-N8-_-y05-48157-O-1</PrivateCode>
+			<Description>The Lowe - Holles Street</Description>
+			<RouteSectionRef>RS_60-N8-_-y05-48157-O-1</RouteSectionRef>
+		</Route>
+	</Routes>
+	<JourneyPatternSections>
+		<JourneyPatternSection id="JPS_60-N8-_-y05-48157-1-1-O">
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-2">
+				<From SequenceNumber="1">
+					<Activity>pickUp</Activity>
+					<StopPointRef>490006809E1</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013454W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-1</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-3">
+				<From SequenceNumber="2">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013454W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012469W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-2</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-4">
+				<From SequenceNumber="3">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012469W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007648W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-3</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-5">
+				<From SequenceNumber="4">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007648W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003813W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-4</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-6">
+				<From SequenceNumber="5">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003813W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000095A</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-5</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-7">
+				<From SequenceNumber="6">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000095A</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013783W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-6</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-8">
+				<From SequenceNumber="7">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013783W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013481S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-7</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-9">
+				<From SequenceNumber="8">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013481S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010189S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-8</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-10">
+				<From SequenceNumber="9">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010189S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013704S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-9</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-11">
+				<From SequenceNumber="10">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013704S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007059D</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-10</RouteLinkRef>
+				<RunTime>PT30S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-12">
+				<From SequenceNumber="11">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007059D</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014316G</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-11</RouteLinkRef>
+				<RunTime>PT33S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-13">
+				<From SequenceNumber="12">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014316G</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007012N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-12</RouteLinkRef>
+				<RunTime>PT33S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-14">
+				<From SequenceNumber="13">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007012N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004258S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-13</RouteLinkRef>
+				<RunTime>PT33S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-15">
+				<From SequenceNumber="14">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004258S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007060S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-14</RouteLinkRef>
+				<RunTime>PT34S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-16">
+				<From SequenceNumber="15">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007060S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007695S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-15</RouteLinkRef>
+				<RunTime>PT33S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-17">
+				<From SequenceNumber="16">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007695S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007110S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-16</RouteLinkRef>
+				<RunTime>PT33S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-18">
+				<From SequenceNumber="17">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007110S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012078S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-17</RouteLinkRef>
+				<RunTime>PT34S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-19">
+				<From SequenceNumber="18">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012078S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015200E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-18</RouteLinkRef>
+				<RunTime>PT33S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-20">
+				<From SequenceNumber="19">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015200E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000085H</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-19</RouteLinkRef>
+				<RunTime>PT34S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-21">
+				<From SequenceNumber="20">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000085H</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003829W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-20</RouteLinkRef>
+				<RunTime>PT51S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-22">
+				<From SequenceNumber="21">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003829W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013332W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-21</RouteLinkRef>
+				<RunTime>PT51S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-23">
+				<From SequenceNumber="22">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490013332W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015554C</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-22</RouteLinkRef>
+				<RunTime>PT52S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-24">
+				<From SequenceNumber="23">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015554C</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011477W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-23</RouteLinkRef>
+				<RunTime>PT51S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-25">
+				<From SequenceNumber="24">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011477W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="25">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014674W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-24</RouteLinkRef>
+				<RunTime>PT52S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-26">
+				<From SequenceNumber="25">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014674W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="26">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000250A</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-25</RouteLinkRef>
+				<RunTime>PT51S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-27">
+				<From SequenceNumber="26">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000250A</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="27">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015125C</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-26</RouteLinkRef>
+				<RunTime>PT52S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-28">
+				<From SequenceNumber="27">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015125C</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="28">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006778S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-27</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-29">
+				<From SequenceNumber="28">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006778S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="29">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004653S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-28</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-30">
+				<From SequenceNumber="29">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004653S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="30">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007491R</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-29</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-31">
+				<From SequenceNumber="30">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007491R</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="31">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007490P</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-30</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-32">
+				<From SequenceNumber="31">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007490P</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="32">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000137W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-31</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-33">
+				<From SequenceNumber="32">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000137W</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="33">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007882K</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-32</RouteLinkRef>
+				<RunTime>PT37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-34">
+				<From SequenceNumber="33">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007882K</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="34">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009846L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-33</RouteLinkRef>
+				<RunTime>PT38S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-35">
+				<From SequenceNumber="34">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009846L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="35">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001179S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-34</RouteLinkRef>
+				<RunTime>PT37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-36">
+				<From SequenceNumber="35">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001179S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="36">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009141S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-35</RouteLinkRef>
+				<RunTime>PT38S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-37">
+				<From SequenceNumber="36">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009141S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="37">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490016314S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-36</RouteLinkRef>
+				<RunTime>PT37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-38">
+				<From SequenceNumber="37">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490016314S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="38">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007849S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-37</RouteLinkRef>
+				<RunTime>PT38S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-39">
+				<From SequenceNumber="38">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007849S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="39">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011421S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-38</RouteLinkRef>
+				<RunTime>PT37S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-40">
+				<From SequenceNumber="39">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011421S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="40">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009140S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-39</RouteLinkRef>
+				<RunTime>PT38S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-41">
+				<From SequenceNumber="40">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009140S</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="41">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008540S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-40</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-42">
+				<From SequenceNumber="41">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008540S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="42">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005214S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-41</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-43">
+				<From SequenceNumber="42">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005214S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="43">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001190S1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-42</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-44">
+				<From SequenceNumber="43">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001190S1</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="44">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009536S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-43</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-45">
+				<From SequenceNumber="44">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009536S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="45">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012902R</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-44</RouteLinkRef>
+				<RunTime>PT36S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-46">
+				<From SequenceNumber="45">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012902R</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="46">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015114E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-45</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-47">
+				<From SequenceNumber="46">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015114E</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="47">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015114L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-46</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-48">
+				<From SequenceNumber="47">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015114L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="48">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004815S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-47</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-49">
+				<From SequenceNumber="48">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004815S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="49">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014249S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-48</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-50">
+				<From SequenceNumber="49">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014249S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="50">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003025W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-49</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-51">
+				<From SequenceNumber="50">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003025W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="51">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004215P</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-50</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-52">
+				<From SequenceNumber="51">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004215P</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="52">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011654N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-51</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-53">
+				<From SequenceNumber="52">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490011654N</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="53">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010552N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-52</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-54">
+				<From SequenceNumber="53">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010552N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="54">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010561W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-53</RouteLinkRef>
+				<RunTime>PT46S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-55">
+				<From SequenceNumber="54">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010561W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="55">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012461S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-54</RouteLinkRef>
+				<RunTime>PT47S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-56">
+				<From SequenceNumber="55">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012461S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="56">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006904W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-55</RouteLinkRef>
+				<RunTime>PT46S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-57">
+				<From SequenceNumber="56">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006904W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="57">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009786W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-56</RouteLinkRef>
+				<RunTime>PT47S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-58">
+				<From SequenceNumber="57">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490009786W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="58">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007914W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-57</RouteLinkRef>
+				<RunTime>PT47S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-59">
+				<From SequenceNumber="58">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007914W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="59">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012204W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-58</RouteLinkRef>
+				<RunTime>PT46S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-60">
+				<From SequenceNumber="59">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012204W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="60">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004144W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-59</RouteLinkRef>
+				<RunTime>PT47S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-61">
+				<From SequenceNumber="60">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004144W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="61">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007242W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-60</RouteLinkRef>
+				<RunTime>PT47S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-62">
+				<From SequenceNumber="61">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007242W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="62">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000022B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-61</RouteLinkRef>
+				<RunTime>PT47S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-63">
+				<From SequenceNumber="62">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000022B</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="63">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014721E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-62</RouteLinkRef>
+				<RunTime>PT1M24S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-64">
+				<From SequenceNumber="63">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490014721E</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="64">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003638W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-63</RouteLinkRef>
+				<RunTime>PT1M24S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-65">
+				<From SequenceNumber="64">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490003638W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="65">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004313SB</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-64</RouteLinkRef>
+				<RunTime>PT1M24S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-66">
+				<From SequenceNumber="65">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004313SB</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="66">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006398K</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-65</RouteLinkRef>
+				<RunTime>PT1M24S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-67">
+				<From SequenceNumber="66">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490006398K</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="67">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005524D</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-66</RouteLinkRef>
+				<RunTime>PT1M24S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-68">
+				<From SequenceNumber="67">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490005524D</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="68">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012391S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-67</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-69">
+				<From SequenceNumber="68">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490012391S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="69">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000138L</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-68</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-70">
+				<From SequenceNumber="69">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000138L</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="70">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004043S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-69</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-71">
+				<From SequenceNumber="70">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004043S</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="71">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010527W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-70</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-72">
+				<From SequenceNumber="71">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010527W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="72">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007596L</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-71</RouteLinkRef>
+				<RunTime>PT1M40S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-73">
+				<From SequenceNumber="72">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490007596L</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="73">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015124Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-72</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-74">
+				<From SequenceNumber="73">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015124Z</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="74">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000225T</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-73</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-75">
+				<From SequenceNumber="74">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000225T</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="75">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001067R</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-74</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-76">
+				<From SequenceNumber="75">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490001067R</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="76">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015096L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-75</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-77">
+				<From SequenceNumber="76">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015096L</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="77">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008275G</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-76</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-78">
+				<From SequenceNumber="77">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490008275G</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="78">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000044F</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-77</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-79">
+				<From SequenceNumber="78">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000044F</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="79">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004514W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-78</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-80">
+				<From SequenceNumber="79">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490004514W</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="80">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015239K</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-79</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-81">
+				<From SequenceNumber="80">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490015239K</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="81">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000235X</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-80</RouteLinkRef>
+				<RunTime>PT1M</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-82">
+				<From SequenceNumber="81">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000235X</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</From>
+				<To SequenceNumber="82">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000235YB</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-81</RouteLinkRef>
+				<RunTime>PT2M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-83">
+				<From SequenceNumber="82">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490000235YB</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="83">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010689KB</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-82</RouteLinkRef>
+				<RunTime>PT2M20S</RunTime>
+			</JourneyPatternTimingLink>
+			<JourneyPatternTimingLink id="JPL_60-N8-_-y05-48157-1-O-1-84">
+				<From SequenceNumber="83">
+					<Activity>pickUpAndSetDown</Activity>
+					<StopPointRef>490010689KB</StopPointRef>
+					<TimingStatus>OTH</TimingStatus>
+				</From>
+				<To SequenceNumber="84">
+					<Activity>setDown</Activity>
+					<StopPointRef>490015196N</StopPointRef>
+					<TimingStatus>PTP</TimingStatus>
+				</To>
+				<RouteLinkRef>RL_60-N8-_-y05-48157-O-1-83</RouteLinkRef>
+				<RunTime>PT2M20S</RunTime>
+			</JourneyPatternTimingLink>
+		</JourneyPatternSection>
+	</JourneyPatternSections>
+	<Operators>
+		<Operator id="OId_IF">
+			<OperatorCode>IF</OperatorCode>
+			<OperatorShortName>EAST LONDON BUS &amp; COACH</OperatorShortName>
+			<OperatorNameOnLicence>EAST LONDON BUS &amp; COACH COMPANY LIMITED</OperatorNameOnLicence>
+			<TradingName>EAST LONDON BUS &amp; COACH COMPANY LIMITED</TradingName>
+		</Operator>
+	</Operators>
+	<Services>
+		<Service>
+			<ServiceCode>60-N8-_-y05-48157</ServiceCode>
+			<PrivateCode>60-N8-_-y05-48157</PrivateCode>
+			<Lines>
+				<Line id="60-N8-_-y05-48157">
+					<LineName>N8</LineName>
+				</Line>
+			</Lines>
+			<OperatingPeriod>
+				<StartDate>2017-12-26</StartDate>
+				<EndDate>2017-12-26</EndDate>
+			</OperatingPeriod>
+			<OperatingProfile>
+				<RegularDayType>
+					<DaysOfWeek>
+						<Wednesday />
+					</DaysOfWeek>
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<RegisteredOperatorRef>OId_IF</RegisteredOperatorRef>
+			<StopRequirements>
+				<NoNewStopsRequired />
+			</StopRequirements>
+			<Mode>bus</Mode>
+			<Description>Hainault - Stratford - Oxford Circus</Description>
+			<StandardService>
+				<Origin>The Lowe</Origin>
+				<Destination>Holles Street</Destination>
+				<JourneyPattern id="JP_60-N8-_-y05-48157-1-O-1">
+					<Direction>outbound</Direction>
+					<Operational>
+						<VehicleType>
+							<VehicleTypeCode>SSLW</VehicleTypeCode>
+							<Description>Double Decker Low Floor+Wheelchair</Description>
+						</VehicleType>
+					</Operational>
+					<RouteRef>R_60-N8-_-y05-48157-O-1</RouteRef>
+					<JourneyPatternSectionRefs>JPS_60-N8-_-y05-48157-1-1-O</JourneyPatternSectionRefs>
+				</JourneyPattern>
+			</StandardService>
+		</Service>
+	</Services>
+	<VehicleJourneys>
+		<VehicleJourney>
+			<PrivateCode>tfl-60-N8-_-y05-48157-1-BxNt</PrivateCode>
+			<DestinationDisplay>Oxford Circus</DestinationDisplay>
+			<Operational>
+				<VehicleType>
+					<VehicleTypeCode>SSLW</VehicleTypeCode>
+					<Description>Double Decker Low Floor+Wheelchair</Description>
+				</VehicleType>
+			</Operational>
+			<OperatingProfile>
+				<RegularDayType>
+					<HolidaysOnly />
+				</RegularDayType>
+				<BankHolidayOperation>
+					<DaysOfOperation>
+						<BoxingDay />
+					</DaysOfOperation>
+					<DaysOfNonOperation />
+				</BankHolidayOperation>
+			</OperatingProfile>
+			<VehicleJourneyCode>VJ_60-N8-_-y05-48157-1-BxNt</VehicleJourneyCode>
+			<ServiceRef>60-N8-_-y05-48157</ServiceRef>
+			<LineRef>60-N8-_-y05-48157</LineRef>
+			<JourneyPatternRef>JP_60-N8-_-y05-48157-1-O-1</JourneyPatternRef>
+			<DepartureTime>23:55:00</DepartureTime>
+		</VehicleJourney>
+	</VehicleJourneys>
+</TransXChange>

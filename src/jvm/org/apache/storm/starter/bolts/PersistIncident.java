@@ -41,6 +41,7 @@ public class PersistIncident extends BaseBasicBolt {
 
         Root.Disruptions.Disruption bean = (Root.Disruptions.Disruption) tuple.getValue(0);
         RConnect.persistIncident(bean);
+        RConnect.invalidateIncidentCache();
         collector.emit(new Values(bean));
     }
 
@@ -48,4 +49,4 @@ public class PersistIncident extends BaseBasicBolt {
     public void declareOutputFields(OutputFieldsDeclarer declarer) {
         declarer.declare(new Fields("incident"));
     }
-    }
+}
