@@ -24,21 +24,28 @@ import org.slf4j.LoggerFactory;
 
 public class TimetableSpout extends BaseRichSpout {
     SpoutOutputCollector _collector;
-    private static final TimetableDataLoader tdl = TimetableDataLoader.getInstance();
+    private static final TimetableFilePathLoader tdl = TimetableFilePathLoader.getInstance();
     
     private static final Logger LOG = LoggerFactory.getLogger(TimetableSpout.class);
+    private static ArrayList<String> filePaths;
 
         @Override
         public void open(Map conf, TopologyContext context, SpoutOutputCollector collector) {
             _collector = collector;
-            tdl.loadXmlFileList();
+            filePaths = tdl.loadXmlFileList();
             
         }
 
         @Override
         public void nextTuple() {
-
-            // _collector.emit(new Values(nextBean), nextBean);
+            
+           
+            if(filePaths.size()!=0){
+                
+                LOG.info("TSPOUT: emmitting ");
+                 _collector.emit(new Values(filePaths.remove(0)));
+            }   
+            
         }
 
         @Override
@@ -53,6 +60,6 @@ public class TimetableSpout extends BaseRichSpout {
         @Override
         public void declareOutputFields(OutputFieldsDeclarer declarer) {
 
-           // declarer.declare(new Fields("Disruption"));
+           declarer.declare(new Fields("timetableXmlFilePath"));
         }
     }

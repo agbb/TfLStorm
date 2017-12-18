@@ -45,7 +45,7 @@ public class ParsePoints extends BaseBasicBolt {
         public void execute(Tuple tuple, BasicOutputCollector collector) {
             ArrayList<Disruption> dists = RConnect.getIncidentArray();
             int count = 0;
-            LOG.info("PARSE: comapring arrival to: "+dists.size());
+            
             try {
                 ArrivalBean bean = (ArrivalBean) tuple.getValue(0);
                 

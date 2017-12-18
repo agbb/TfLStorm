@@ -71,7 +71,7 @@ public class PoopTopology {
         builder.setBolt("DetermineDisruption", new DetermineDisruption(), 4).shuffleGrouping("DetectIntersect","disruptedArrival");
         builder.setBolt("RetrieveAndCompareDisruption", new RetrieveAndCompareDisruption(), 4).shuffleGrouping("DetermineDisruption");
         builder.setBolt("PersistDisruption", new PersistDisruption(), 4).shuffleGrouping("RetrieveAndCompareDisruption");
-        
+        builder.setBolt("TimetableImporter", new TimetableImportBolt(), 4).shuffleGrouping("TimetableSpout");
         // builder.setBolt("count", new WordCount(), 4).fieldsGrouping("split",
         // new Fields("word"));
 

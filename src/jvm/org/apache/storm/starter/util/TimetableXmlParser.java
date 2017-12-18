@@ -18,28 +18,34 @@ import org.apache.storm.starter.timetable.xml.*;
 public class TimetableXmlParser {
  
     private static final Logger LOG = LoggerFactory.getLogger(TimetableXmlParser.class);
+    JAXBContext jc;
+    Unmarshaller unmarshaller;
     
     public TimetableXmlParser(){
-        
+         try{
+             jc = JAXBContext.newInstance("org.apache.storm.starter.timetable.xml");
+             unmarshaller = jc.createUnmarshaller();
+         }catch(Exception e){
+             LOG.error("TIMETABLEXML: "+e);
+        }
     }
     
-    public ArrayList<TransXChange> parseXml(String[] paths){
+    public TransXChange parseXml(String name){
        
-        ArrayList<TransXChange> output = new ArrayList<TransXChange>();
-        
-        for(int i =0; i<paths.length; i++){
-            try{
+        TransXChange output = null;
+        String path = "/opt/apache-storm-1.1.1/examples/storm-starter/src/jvm/org/apache/storm/starter/timetabledata/";
+        LOG.info("XML attempting: "+name);
+        try{
 
-                JAXBContext jc = JAXBContext.newInstance("org.apache.storm.starter.timetable.xml");
+            jc = JAXBContext.newInstance("org.apache.storm.starter.timetable.xml");
+            unmarshaller = jc.createUnmarshaller();
+            TransXChange item = (TransXChange) unmarshaller.unmarshal(new File(path+name));
+            item = output;
 
-                Unmarshaller unmarshaller = jc.createUnmarshaller();
-                TransXChange item = (TransXChange) unmarshaller.unmarshal(new File("./timetabledata"));
-                output.add(item);
-                
-            }catch(Exception e){
-                LOG.error("XML: "+e.toString());
-            }
+        }catch(Exception e){
+            LOG.error("XML: "+e.toString());
         }
+
         return output;
     }
     

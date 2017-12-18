@@ -61,14 +61,13 @@ public class RetreiveAndCompareIncident extends BaseBasicBolt {
             for(int i =0; i<dists.size(); i++){
 
                 if(bean.getId().equals(dists.get(i).getId())){
-                    LOG.info("INCIDENT: found, but already exists");
                     found = true;
                 }
             }
             
             //A new, valid incident.
             if(!found && !invalid){
-                  LOG.info("INCIDENT: new incident found, emmiting to persist.");
+
                   RConnect.invalidateIncidentCache();
                   collector.emit("toPersist",new Values(bean));
             }
