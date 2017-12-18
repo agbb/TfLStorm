@@ -7,6 +7,7 @@
 
 package org.apache.storm.starter.timetable.xml;
 
+import javax.xml.bind.annotation.XmlRegistry;
 
 /**
  * This object contains factory methods for each 

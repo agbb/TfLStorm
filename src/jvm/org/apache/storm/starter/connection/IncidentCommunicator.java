@@ -46,7 +46,7 @@ public class IncidentCommunicator {
     
     private void makeAndFormIncidentRequest(){
         LOG.info("XML: Attempting parse");
-        xmlParser xmlP = new xmlParser();
+        IncidentXmlParser xmlP = new IncidentXmlParser();
         beanList = xmlP.parseXml();
         LOG.info("XML: done parsing");
     }

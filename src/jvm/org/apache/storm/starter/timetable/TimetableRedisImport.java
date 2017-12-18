@@ -31,21 +31,17 @@ import java.util.TimerTask;
 import org.apache.storm.starter.xml.*;
 import org.apache.storm.starter.data.*;
 
-public class timetableRedisImport implements Serializable {
+public class TimetableRedisImport implements Serializable {
 
-    private static final Logger LOG = LoggerFactory.getLogger(timetableRedisImport.class);
+    private static final Logger LOG = LoggerFactory.getLogger(TimetableRedisImport.class);
     private RedisClient redisClient;
     private StatefulRedisConnection<byte[], byte[]> connection;
     private RedisCommands<byte[], byte[]> syncCommands;
     // private RedisConnector connectorSingleton;
 
-    public RedisConnector() {
-        LOG.info("REDIS: instantiated");
-        incidentKey = keyString.getBytes();
-        disruptionKey = disruptionString.getBytes();
+    public TimetableRedisImport() {
+        LOG.info("REDIS TIMETABLE: instantiated"); 
         makeConnection();
-        cachedIncidents = new ArrayList<Root.Disruptions.Disruption>();
-        cachedPairs = new ArrayList<ArrivalDisruptionPair>();
     }
 
     private void makeConnection() {
@@ -54,9 +50,9 @@ public class timetableRedisImport implements Serializable {
         connection = redisClient.connect(new ByteArrayCodec());
         syncCommands = connection.sync();
 
-        LOG.info("REDIS: Connected to Redis");
+        LOG.info("REDIS TIMETABLE: Connected to Redis");
         
-        
+        //PERSIST UNDER ROUTE NAME
     }
 
     public void shutDown() {

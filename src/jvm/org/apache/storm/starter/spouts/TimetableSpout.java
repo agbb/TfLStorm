@@ -12,6 +12,8 @@ import org.apache.storm.tuple.Values;
 import org.apache.storm.starter.*;
 import org.apache.storm.starter.xml.*;
 import org.apache.storm.starter.connection.*;
+import org.apache.storm.starter.timetable.*;
+
 
 import java.util.HashMap;
 import java.util.Map;
@@ -20,39 +22,23 @@ import java.util.ArrayList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class IncidentSpout extends BaseRichSpout {
+public class TimetableSpout extends BaseRichSpout {
     SpoutOutputCollector _collector;
-    public static ArrayList<Root.Disruptions.Disruption> incidentBeans = new ArrayList<Root.Disruptions.Disruption>();
-        private static final IncidentCommunicator incidentComms = IncidentCommunicator.getInstance();
-    private static final Logger LOG = LoggerFactory.getLogger(IncidentSpout.class);
+    private static final TimetableDataLoader tdl = TimetableDataLoader.getInstance();
+    
+    private static final Logger LOG = LoggerFactory.getLogger(TimetableSpout.class);
 
         @Override
         public void open(Map conf, TopologyContext context, SpoutOutputCollector collector) {
             _collector = collector;
-            incidentComms.beginIncidentRequestLoop();
+            tdl.loadXmlFileList();
             
         }
 
         @Override
         public void nextTuple() {
 
-            if(incidentBeans.size()>0){
-                Root.Disruptions.Disruption nextBean = incidentBeans.remove(0);
-                _collector.emit(new Values(nextBean), nextBean);
-            }else{
-                try{
-                    Thread.sleep(10000);
-                    LOG.info("INCIDENT:waiting for new incident data");
-                    incidentBeans = incidentComms.getIncidentUpdates();
-                    if(incidentBeans.size()>0){
-                        LOG.info("INCIDENT: new - incidentBeans size:"+incidentBeans.size()+"");
-                    }
-                }
-                catch(Exception e){
-                    LOG.error("INCIDENT: sleep failed");
-                }   
-            }
-            return;
+            // _collector.emit(new Values(nextBean), nextBean);
         }
 
         @Override
@@ -67,6 +53,6 @@ public class IncidentSpout extends BaseRichSpout {
         @Override
         public void declareOutputFields(OutputFieldsDeclarer declarer) {
 
-            declarer.declare(new Fields("Disruption"));
+           // declarer.declare(new Fields("Disruption"));
         }
     }

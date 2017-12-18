@@ -37,6 +37,7 @@ import org.apache.storm.starter.xml.*;
 import org.apache.storm.starter.bolts.*;
 import org.apache.storm.starter.spouts.*;
 import org.apache.storm.starter.data.*;
+import org.apache.storm.starter.timetable.*;
 
 
 import java.util.HashMap;
@@ -56,10 +57,10 @@ public class PoopTopology {
     public static void main(String[] args) throws Exception {
 
         TopologyBuilder builder = new TopologyBuilder();
-
+    
         builder.setSpout("ArrivalSpout", new ArrivalSpout(), 1);
         builder.setSpout("IncidentSpout", new IncidentSpout(), 1);
-        
+        builder.setSpout("TimetableSpout", new TimetableSpout(), 1);
         
         builder.setBolt("RetreiveAndCompareIncident", new RetreiveAndCompareIncident(), 4).shuffleGrouping("IncidentSpout");
         builder.setBolt("PersistIncident", new PersistIncident(), 4).shuffleGrouping("RetreiveAndCompareIncident","toPersist");

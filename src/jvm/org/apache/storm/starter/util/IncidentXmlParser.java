@@ -15,11 +15,11 @@ import org.w3c.dom.Node;
 import org.w3c.dom.Element;
 import org.apache.storm.starter.xml.*;
 
-public class xmlParser {
+public class IncidentXmlParser {
  
-        private static final Logger LOG = LoggerFactory.getLogger(xmlParser.class);
+        private static final Logger LOG = LoggerFactory.getLogger(IncidentXmlParser.class);
     
-    public xmlParser(){
+    public IncidentXmlParser(){
         
     }
     
