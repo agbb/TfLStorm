@@ -28,7 +28,7 @@ import java.util.ArrayList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-
+//Accepts as input new incident obejcts to be compared to existing ones to determine if they already exist or are new and should be persisted, or if they are no longer valid and should be removed from the store.
 public class RetreiveAndCompareIncident extends BaseBasicBolt {
         RedisConnector RConnect;
         private static final Logger LOG = LoggerFactory.getLogger(RetreiveAndCompareIncident.class);

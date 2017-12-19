@@ -29,8 +29,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 
-//6th Aug 
-//50,0000
+//Comapres a newly received disruption to existing ones to see if it is new and should be persisted, or if it is outdate and should trigger removal from persistence. 
 public class RetrieveAndCompareDisruption extends BaseBasicBolt {
     RedisConnector RConnect;
     

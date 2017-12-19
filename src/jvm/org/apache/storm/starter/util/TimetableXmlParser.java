@@ -15,6 +15,8 @@ import org.w3c.dom.Node;
 import org.w3c.dom.Element;
 import org.apache.storm.starter.timetable.xml.*;
 
+
+//Loads xml timetable files one by one and passes them into Redis for in memory storage.  
 public class TimetableXmlParser {
  
     private static final Logger LOG = LoggerFactory.getLogger(TimetableXmlParser.class);

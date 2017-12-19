@@ -12,6 +12,8 @@ import org.apache.storm.starter.xml.*;
 import org.apache.storm.starter.data.*;
 import org.apache.storm.starter.util.*;
 
+
+//Connects to the TfL API to retreive live incident information once every 5 minutes.
 public class IncidentCommunicator {
  
     private ArrayList<Root.Disruptions.Disruption> beanList = new ArrayList<Root.Disruptions.Disruption>();

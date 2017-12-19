@@ -38,6 +38,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 //June 2015 to June 2017T
 
+// Associates the correct timetable data element with the arrival object so that in subequent arrival predictions we can check how accurate the prediction was.
 public class AssociateTimetableData extends BaseBasicBolt {
     TimetableRedisConnector TConnect;
     private static final Logger LOG = LoggerFactory.getLogger(AssociateTimetableData.class);

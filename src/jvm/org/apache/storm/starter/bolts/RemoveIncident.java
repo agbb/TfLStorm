@@ -27,6 +27,8 @@ import java.util.ArrayList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+
+//Removes an out of date or invalid incident from the store. 
 public class RemoveIncident extends BaseBasicBolt {
         RedisConnector RConnect;
         private static final Logger LOG = LoggerFactory.getLogger(RemoveIncident.class);
@@ -47,7 +49,6 @@ public class RemoveIncident extends BaseBasicBolt {
 
         @Override
         public void declareOutputFields(OutputFieldsDeclarer declarer) {
-            //declarer.declareStream("toPersist",new Fields("incidient"));
-            //declarer.declareStream("toRemove",new Fields("incidient"));
+
         }
     }

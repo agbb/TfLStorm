@@ -33,6 +33,8 @@ import java.lang.Number;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+//Class that takes the input polygon data and converts it into point representations that can be leveraged in the application. 
+//This is a considerable computational burden. 
 public class ParsePoints extends BaseBasicBolt {
     RedisConnector RConnect;
     private static final Logger LOG = LoggerFactory.getLogger(ParsePoints.class);
@@ -66,10 +68,6 @@ public class ParsePoints extends BaseBasicBolt {
                 LOG.error("POINTS:", e);
                 collector.reportError(e);
             }
-
-            
-            //Emit unaffected arrivals.
-            //Emit affected arrivals.
         }
 
     @Override

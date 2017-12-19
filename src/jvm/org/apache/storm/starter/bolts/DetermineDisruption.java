@@ -28,7 +28,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 
-
+//Uses provided information in incoming tuple to estimate the level of disruption caused by an incidient and arrival intersection. 
 public class DetermineDisruption extends BaseBasicBolt {
 
         private static final Logger LOG = LoggerFactory.getLogger(DetermineDisruption.class);

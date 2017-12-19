@@ -27,6 +27,7 @@ import java.util.ArrayList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+//Persists the Java object representation of an incident to Redis.
 public class PersistIncident extends BaseBasicBolt {
     RedisConnector RConnect;
     private static final Logger LOG = LoggerFactory.getLogger(PersistIncident.class);

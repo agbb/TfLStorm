@@ -1,5 +1,6 @@
 package org.apache.storm.starter.data;
 
+//Enumeration of TfL severity levels with tuned variables for severity calculations.
 public enum SEVERITY{
  
     Severe(4.0),

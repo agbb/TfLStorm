@@ -33,6 +33,8 @@ import java.lang.Math;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+
+//Uses information provided about the severity of incidents to determine the area around the polygon or line that is affected by the incident.
 public class DetermineIncidentRadius extends BaseBasicBolt {
 
     private static final Logger LOG = LoggerFactory.getLogger(DetermineIncidentRadius.class);

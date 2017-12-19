@@ -33,6 +33,8 @@ import org.apache.storm.starter.data.*;
 import org.apache.storm.starter.timetable.*;
 import org.apache.storm.starter.timetable.xml.*;
 
+
+//Connects to Redis to persist Timetable data. Sufficiently different to the other Redis connector to warrant redefinition. 
 public class TimetableRedisConnector implements Serializable {
 
    private static final Logger LOG = LoggerFactory.getLogger(TimetableRedisConnector.class);

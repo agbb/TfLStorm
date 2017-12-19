@@ -4,6 +4,8 @@ import java.io.Serializable;
 import org.apache.storm.starter.polygon.*;
 import javax.xml.datatype.XMLGregorianCalendar;
 
+
+//Data object representing arrival data array from TfL streaming API. 
 public class ArrivalBean implements Serializable {
     private static final long serialVersionUID = 1L;
 

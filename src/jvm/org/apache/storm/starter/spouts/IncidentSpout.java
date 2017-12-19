@@ -20,6 +20,7 @@ import java.util.ArrayList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+//Emitts incident tuples from the parsed xml data taken from the tfl API
 public class IncidentSpout extends BaseRichSpout {
     SpoutOutputCollector _collector;
     public static ArrayList<Root.Disruptions.Disruption> incidentBeans = new ArrayList<Root.Disruptions.Disruption>();

@@ -31,6 +31,8 @@ import java.util.TimerTask;
 import org.apache.storm.starter.xml.*;
 import org.apache.storm.starter.data.*;
 
+
+//Class for connection to Redis, through the use of a custom byte array schema rather than the default string implementation.
 public class RedisConnector implements Serializable {
 
     private static final Logger LOG = LoggerFactory.getLogger(RedisConnector.class);

@@ -6,7 +6,7 @@ import java.lang.Math;
  * Line is defined by starting point and ending point on 2D dimension.<br>
  *
  * @author Roman Kushnarenko (sromku@gmail.com)
- * Extended by Alex Gubbay
+ * Extended by Alex Gubbay to include method to calulate minimum distance to a point and to get the length of the line.
  */
 public class Line {
     

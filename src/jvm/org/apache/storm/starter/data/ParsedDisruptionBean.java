@@ -6,6 +6,8 @@ import java.util.ArrayList;
 import org.apache.storm.starter.polygon.*;
 import org.apache.storm.starter.xml.Root.Disruptions.Disruption;
 
+
+//Represents a disruption object. Augmented with various extra peices of information. 
 public class ParsedDisruptionBean implements Serializable{
     private static final long serialVersionUID = 1L;
     

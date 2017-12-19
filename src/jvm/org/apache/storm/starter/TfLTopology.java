@@ -48,10 +48,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * WordCount but teh spout does not stop, and the bolts are implemented in java.
- * This can show how fast the word count can run.
+ * Main topology definition file. Passed into Storm. 
  */
-public class PoopTopology {
+public class TfLTopology {
 
 
     public static void main(String[] args) throws Exception {
@@ -74,7 +73,8 @@ public class PoopTopology {
         builder.setBolt("RetrieveAndCompareDisruption", new RetrieveAndCompareDisruption(), 4).shuffleGrouping("DetermineDisruption");
         builder.setBolt("AssociateTimetable", new AssociateTimetableData(), 4).shuffleGrouping("RetrieveAndCompareDisruption");
         builder.setBolt("PersistDisruption", new PersistDisruption(), 4).shuffleGrouping("AssociateTimetable");
-        
+        builder.setBolt("OutputDisruption", new OutputDisruption(), 4).shuffleGrouping("AssociateTimetable");
+        builder.setBolt("OutputIncident", new OutputIncident(), 4).shuffleGrouping("RetreiveAndCompareIncident","toPersist");
 
         Config conf = new Config();
         conf.registerSerialization(ArrivalBean.class);

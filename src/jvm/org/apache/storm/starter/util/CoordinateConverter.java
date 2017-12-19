@@ -5,8 +5,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.apache.storm.starter.polygon.*;
 
+//Uses the jcoord library to correct the co-ordinate format so that they can be directly compared.
 public class CoordinateConverter{
-
    
     private static final Logger LOG = LoggerFactory.getLogger(CoordinateConverter.class);
     

@@ -28,7 +28,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 
-
+//Compares disruption area + radius and arrival location to determine if they intersect, and therefore if the arrival will be affected by the disruption.
 public class DetectIntersect extends BaseBasicBolt {
 
         private static final Logger LOG = LoggerFactory.getLogger(DetectIntersect.class);

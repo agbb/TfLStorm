@@ -1,5 +1,6 @@
 package org.apache.storm.starter.data;
 
+//Enumeration of TfL hazard levels with tuned variables for severity calculations.
 public enum HAZARD{
     
     Hazard(2.2),

@@ -19,6 +19,8 @@ import java.util.ArrayList;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+
+//Emits arrivalBean objects that have been passed in from the arrival connector class from the http stream request. Entry point for arrival data into storm. 
 public class ArrivalSpout extends BaseRichSpout {
         SpoutOutputCollector _collector;
         public static ArrayList<ArrivalBean> arrivalBeans = new ArrayList<ArrivalBean>();

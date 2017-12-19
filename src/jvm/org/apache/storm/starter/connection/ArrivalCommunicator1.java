@@ -12,7 +12,7 @@ import org.apache.storm.starter.polygon.*;
 import org.apache.storm.starter.data.*;
 import org.apache.storm.starter.util.*;
 
-
+//Connects to the TfL streaming API to get live arrivals. Data is kept for 30 seconds before being overwritten as per the API documentation.
 public class ArrivalCommunicator1 {
  
     private ArrayList<ArrivalBean> beanList = new ArrayList<ArrivalBean>();

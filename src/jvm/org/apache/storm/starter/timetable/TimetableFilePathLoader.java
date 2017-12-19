@@ -8,10 +8,10 @@ import java.nio.file.Paths;
 
 import java.util.ArrayList;
 
+
+//Finds and passes out the file paths to every timetable xml document. There are ~800 of them.
 public class TimetableFilePathLoader{
-    
-    
-    
+
     private static final Logger LOG = LoggerFactory.getLogger(TimetableFilePathLoader.class);
     
     private static TimetableFilePathLoader instance = null;
