@@ -47,7 +47,7 @@ public class RetreiveAndCompareIncident extends BaseBasicBolt {
            
             boolean found = false;
             boolean invalid = false;
-            
+            try{
             //Check if incident should be removed. 
             if(bean.getStatus().equals("inactive")){
                  LOG.info("INCIDENT: found, but invalid");
@@ -56,8 +56,9 @@ public class RetreiveAndCompareIncident extends BaseBasicBolt {
                 LOG.info("INCIDENT: found, but invalid");
                  invalid = true;   
             }
-            
-            //This is not working.
+            }catch(Exception e){
+                 LOG.error("INCIDENT: "+e);
+            }
             for(int i =0; i<dists.size(); i++){
 
                 if(bean.getId().equals(dists.get(i).getId())){

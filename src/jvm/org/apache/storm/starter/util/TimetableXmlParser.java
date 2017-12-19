@@ -21,16 +21,17 @@ public class TimetableXmlParser {
     JAXBContext jc;
     Unmarshaller unmarshaller;
     
-    public TimetableXmlParser(){
+    public TimetableXmlParser() throws javax.xml.bind.JAXBException{
          try{
              jc = JAXBContext.newInstance("org.apache.storm.starter.timetable.xml");
              unmarshaller = jc.createUnmarshaller();
-         }catch(Exception e){
-             LOG.error("TIMETABLEXML: "+e);
+         }catch(javax.xml.bind.JAXBException e){
+             //LOG.error("TIMETABLEXML: "+e);
+             throw e;
         }
     }
     
-    public TransXChange parseXml(String name){
+    public TransXChange parseXml(String name) throws javax.xml.bind.JAXBException{
        
         TransXChange output = null;
         String path = "/opt/apache-storm-1.1.1/examples/storm-starter/src/jvm/org/apache/storm/starter/timetabledata/";
@@ -40,10 +41,11 @@ public class TimetableXmlParser {
             jc = JAXBContext.newInstance("org.apache.storm.starter.timetable.xml");
             unmarshaller = jc.createUnmarshaller();
             TransXChange item = (TransXChange) unmarshaller.unmarshal(new File(path+name));
-            item = output;
+            output = item;
 
-        }catch(Exception e){
-            LOG.error("XML: "+e.toString());
+        }catch(javax.xml.bind.JAXBException e){
+            //LOG.error("XML: "+e.toString());
+            throw e;
         }
 
         return output;

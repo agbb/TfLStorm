@@ -17,7 +17,7 @@ public class ArrivalCommunicator1 {
  
     private ArrayList<ArrivalBean> beanList = new ArrayList<ArrivalBean>();
     private static final Logger LOG = LoggerFactory.getLogger(ArrivalCommunicator1.class);
-    private static final String arrivalUrl = "http://countdown.api.tfl.gov.uk/interfaces/ura/instant_V1?ReturnList=StopPointName,StopCode2,Towards,Latitude,Longitude,VehicleID,RegistrationNumber,LineID,DestinationName,EstimatedTime,ExpireTime";
+    private static final String arrivalUrl = "http://countdown.api.tfl.gov.uk/interfaces/ura/instant_V1?ReturnList=StopPointName,StopCode2,Towards,Latitude,Longitude,VehicleID,RegistrationNumber,LineName,DestinationName,EstimatedTime,ExpireTime";
 
     private static ArrivalCommunicator1 instance = null;
     protected ArrivalCommunicator1() {

@@ -7,6 +7,7 @@
 
 package org.apache.storm.starter.timetable.xml;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 import javax.xml.bind.annotation.XmlAccessType;
@@ -23,8 +24,12 @@ import javax.xml.datatype.XMLGregorianCalendar;
 @XmlType(name = "", propOrder = { "nptgLocalities", "stopPoints", "routeSections", "routes", "journeyPatternSections",
         "operators", "services", "vehicleJourneys" })
 @XmlRootElement(name = "TransXChange")
-public class TransXChange {
+public class TransXChange implements Serializable{
 
+    /**
+     * 
+     */
+    private static final long serialVersionUID = 1L;
     @XmlElement(name = "NptgLocalities", required = true)
     protected TransXChange.NptgLocalities nptgLocalities;
     @XmlElement(name = "StopPoints", required = true)
@@ -170,8 +175,12 @@ public class TransXChange {
 
     @XmlAccessorType(XmlAccessType.FIELD)
     @XmlType(name = "", propOrder = { "journeyPatternSection" })
-    public static class JourneyPatternSections {
+    public static class JourneyPatternSections implements Serializable{
 
+        /**
+         * 
+         */
+        private static final long serialVersionUID = 1L;
         @XmlElement(name = "JourneyPatternSection")
         protected List<TransXChange.JourneyPatternSections.JourneyPatternSection> journeyPatternSection;
 
@@ -184,8 +193,12 @@ public class TransXChange {
 
         @XmlAccessorType(XmlAccessType.FIELD)
         @XmlType(name = "", propOrder = { "journeyPatternTimingLink" })
-        public static class JourneyPatternSection {
+        public static class JourneyPatternSection implements Serializable{
 
+            /**
+             * 
+             */
+            private static final long serialVersionUID = 1L;
             @XmlElement(name = "JourneyPatternTimingLink")
             protected List<TransXChange.JourneyPatternSections.JourneyPatternSection.JourneyPatternTimingLink> journeyPatternTimingLink;
             @XmlAttribute(name = "id")
@@ -208,8 +221,12 @@ public class TransXChange {
 
             @XmlAccessorType(XmlAccessType.FIELD)
             @XmlType(name = "", propOrder = { "from", "to", "routeLinkRef", "runTime" })
-            public static class JourneyPatternTimingLink {
+            public static class JourneyPatternTimingLink implements Serializable{
 
+                /**
+                 * 
+                 */
+                private static final long serialVersionUID = 1L;
                 @XmlElement(name = "From", required = true)
                 protected TransXChange.JourneyPatternSections.JourneyPatternSection.JourneyPatternTimingLink.From from;
                 @XmlElement(name = "To", required = true)
@@ -265,8 +282,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "activity", "stopPointRef", "timingStatus" })
-                public static class From {
+                public static class From implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "Activity", required = true)
                     protected String activity;
                     @XmlElement(name = "StopPointRef", required = true)
@@ -312,8 +333,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "activity", "stopPointRef", "timingStatus" })
-                public static class To {
+                public static class To implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "Activity", required = true)
                     protected String activity;
                     @XmlElement(name = "StopPointRef", required = true)
@@ -365,8 +390,12 @@ public class TransXChange {
 
     @XmlAccessorType(XmlAccessType.FIELD)
     @XmlType(name = "", propOrder = { "annotatedNptgLocalityRef" })
-    public static class NptgLocalities {
+    public static class NptgLocalities implements Serializable{
 
+        /**
+         * 
+         */
+        private static final long serialVersionUID = 1L;
         @XmlElement(name = "AnnotatedNptgLocalityRef")
         protected List<TransXChange.NptgLocalities.AnnotatedNptgLocalityRef> annotatedNptgLocalityRef;
 
@@ -379,8 +408,12 @@ public class TransXChange {
 
         @XmlAccessorType(XmlAccessType.FIELD)
         @XmlType(name = "", propOrder = { "nptgLocalityRef", "localityName" })
-        public static class AnnotatedNptgLocalityRef {
+        public static class AnnotatedNptgLocalityRef implements Serializable{
 
+            /**
+             * 
+             */
+            private static final long serialVersionUID = 1L;
             @XmlElement(name = "NptgLocalityRef", required = true)
             protected String nptgLocalityRef;
             @XmlElement(name = "LocalityName", required = true)
@@ -408,8 +441,12 @@ public class TransXChange {
 
     @XmlAccessorType(XmlAccessType.FIELD)
     @XmlType(name = "", propOrder = { "operator" })
-    public static class Operators {
+    public static class Operators implements Serializable{
 
+        /**
+         * 
+         */
+        private static final long serialVersionUID = 1L;
         @XmlElement(name = "Operator", required = true)
         protected TransXChange.Operators.Operator operator;
 
@@ -423,8 +460,12 @@ public class TransXChange {
 
         @XmlAccessorType(XmlAccessType.FIELD)
         @XmlType(name = "", propOrder = { "operatorCode", "operatorShortName", "operatorNameOnLicence", "tradingName" })
-        public static class Operator {
+        public static class Operator implements Serializable{
 
+            /**
+             * 
+             */
+            private static final long serialVersionUID = 1L;
             @XmlElement(name = "OperatorCode", required = true)
             protected String operatorCode;
             @XmlElement(name = "OperatorShortName", required = true)
@@ -482,8 +523,12 @@ public class TransXChange {
 
     @XmlAccessorType(XmlAccessType.FIELD)
     @XmlType(name = "", propOrder = { "route" })
-    public static class Routes {
+    public static class Routes implements Serializable{
 
+        /**
+         * 
+         */
+        private static final long serialVersionUID = 1L;
         @XmlElement(name = "Route")
         protected List<TransXChange.Routes.Route> route;
 
@@ -496,8 +541,12 @@ public class TransXChange {
 
         @XmlAccessorType(XmlAccessType.FIELD)
         @XmlType(name = "", propOrder = { "privateCode", "description", "routeSectionRef" })
-        public static class Route {
+        public static class Route implements Serializable{
 
+            /**
+             * 
+             */
+            private static final long serialVersionUID = 1L;
             @XmlElement(name = "PrivateCode", required = true)
             protected String privateCode;
             @XmlElement(name = "Description", required = true)
@@ -545,8 +594,12 @@ public class TransXChange {
 
     @XmlAccessorType(XmlAccessType.FIELD)
     @XmlType(name = "", propOrder = { "routeSection" })
-    public static class RouteSections {
+    public static class RouteSections implements Serializable{
 
+        /**
+         * 
+         */
+        private static final long serialVersionUID = 1L;
         @XmlElement(name = "RouteSection")
         protected List<TransXChange.RouteSections.RouteSection> routeSection;
 
@@ -559,8 +612,12 @@ public class TransXChange {
 
         @XmlAccessorType(XmlAccessType.FIELD)
         @XmlType(name = "", propOrder = { "routeLink" })
-        public static class RouteSection {
+        public static class RouteSection implements Serializable{
 
+            /**
+             * 
+             */
+            private static final long serialVersionUID = 1L;
             @XmlElement(name = "RouteLink")
             protected List<TransXChange.RouteSections.RouteSection.RouteLink> routeLink;
             @XmlAttribute(name = "id")
@@ -583,8 +640,12 @@ public class TransXChange {
 
             @XmlAccessorType(XmlAccessType.FIELD)
             @XmlType(name = "", propOrder = { "from", "to", "distance", "direction" })
-            public static class RouteLink {
+            public static class RouteLink implements Serializable{
 
+                /**
+                 * 
+                 */
+                private static final long serialVersionUID = 1L;
                 @XmlElement(name = "From", required = true)
                 protected TransXChange.RouteSections.RouteSection.RouteLink.From from;
                 @XmlElement(name = "To", required = true)
@@ -638,8 +699,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "stopPointRef" })
-                public static class From {
+                public static class From implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "StopPointRef", required = true)
                     protected String stopPointRef;
 
@@ -655,8 +720,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "stopPointRef" })
-                public static class To {
+                public static class To implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "StopPointRef", required = true)
                     protected String stopPointRef;
 
@@ -678,8 +747,12 @@ public class TransXChange {
 
     @XmlAccessorType(XmlAccessType.FIELD)
     @XmlType(name = "", propOrder = { "service" })
-    public static class Services {
+    public static class Services implements Serializable{
 
+        /**
+         * 
+         */
+        private static final long serialVersionUID = 1L;
         @XmlElement(name = "Service", required = true)
         protected TransXChange.Services.Service service;
 
@@ -694,8 +767,12 @@ public class TransXChange {
         @XmlAccessorType(XmlAccessType.FIELD)
         @XmlType(name = "", propOrder = { "serviceCode", "privateCode", "lines", "operatingPeriod", "operatingProfile",
                 "registeredOperatorRef", "stopRequirements", "mode", "description", "standardService" })
-        public static class Service {
+        public static class Service implements Serializable{
 
+            /**
+             * 
+             */
+            private static final long serialVersionUID = 1L;
             @XmlElement(name = "ServiceCode", required = true)
             protected String serviceCode;
             @XmlElement(name = "PrivateCode", required = true)
@@ -799,8 +876,12 @@ public class TransXChange {
 
             @XmlAccessorType(XmlAccessType.FIELD)
             @XmlType(name = "", propOrder = { "line" })
-            public static class Lines {
+            public static class Lines implements Serializable{
 
+                /**
+                 * 
+                 */
+                private static final long serialVersionUID = 1L;
                 @XmlElement(name = "Line", required = true)
                 protected TransXChange.Services.Service.Lines.Line line;
 
@@ -814,8 +895,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "lineName" })
-                public static class Line {
+                public static class Line implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "LineName", required = true)
                     protected String lineName;
                     @XmlAttribute(name = "id")
@@ -843,8 +928,12 @@ public class TransXChange {
 
             @XmlAccessorType(XmlAccessType.FIELD)
             @XmlType(name = "", propOrder = { "startDate", "endDate" })
-            public static class OperatingPeriod {
+            public static class OperatingPeriod implements Serializable{
 
+                /**
+                 * 
+                 */
+                private static final long serialVersionUID = 1L;
                 @XmlElement(name = "StartDate", required = true)
                 @XmlSchemaType(name = "date")
                 protected XMLGregorianCalendar startDate;
@@ -872,8 +961,12 @@ public class TransXChange {
 
             @XmlAccessorType(XmlAccessType.FIELD)
             @XmlType(name = "", propOrder = { "regularDayType", "specialDaysOperation", "bankHolidayOperation" })
-            public static class OperatingProfile {
+            public static class OperatingProfile implements Serializable{
 
+                /**
+                 * 
+                 */
+                private static final long serialVersionUID = 1L;
                 @XmlElement(name = "RegularDayType", required = true)
                 protected TransXChange.Services.Service.OperatingProfile.RegularDayType regularDayType;
                 @XmlElement(name = "SpecialDaysOperation", required = true)
@@ -909,8 +1002,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "daysOfOperation", "daysOfNonOperation" })
-                public static class BankHolidayOperation {
+                public static class BankHolidayOperation implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "DaysOfOperation", required = true)
                     protected TransXChange.Services.Service.OperatingProfile.BankHolidayOperation.DaysOfOperation daysOfOperation;
                     @XmlElement(name = "DaysOfNonOperation", required = true)
@@ -935,8 +1032,12 @@ public class TransXChange {
 
                     @XmlAccessorType(XmlAccessType.FIELD)
                     @XmlType(name = "", propOrder = { "allBankHolidays" })
-                    public static class DaysOfOperation {
+                    public static class DaysOfOperation implements Serializable{
 
+                        /**
+                         * 
+                         */
+                        private static final long serialVersionUID = 1L;
                         @XmlElement(name = "AllBankHolidays", required = true)
                         protected String allBankHolidays;
 
@@ -954,8 +1055,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "daysOfWeek" })
-                public static class RegularDayType {
+                public static class RegularDayType implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "DaysOfWeek", required = true)
                     protected TransXChange.Services.Service.OperatingProfile.RegularDayType.DaysOfWeek daysOfWeek;
 
@@ -970,8 +1075,12 @@ public class TransXChange {
 
                     @XmlAccessorType(XmlAccessType.FIELD)
                     @XmlType(name = "", propOrder = { "mondayToSunday" })
-                    public static class DaysOfWeek {
+                    public static class DaysOfWeek implements Serializable{
 
+                        /**
+                         * 
+                         */
+                        private static final long serialVersionUID = 1L;
                         @XmlElement(name = "MondayToSunday", required = true)
                         protected String mondayToSunday;
 
@@ -989,8 +1098,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "daysOfNonOperation" })
-                public static class SpecialDaysOperation {
+                public static class SpecialDaysOperation implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "DaysOfNonOperation", required = true)
                     protected TransXChange.Services.Service.OperatingProfile.SpecialDaysOperation.DaysOfNonOperation daysOfNonOperation;
 
@@ -1005,8 +1118,12 @@ public class TransXChange {
 
                     @XmlAccessorType(XmlAccessType.FIELD)
                     @XmlType(name = "", propOrder = { "dateRange" })
-                    public static class DaysOfNonOperation {
+                    public static class DaysOfNonOperation implements Serializable{
 
+                        /**
+                         * 
+                         */
+                        private static final long serialVersionUID = 1L;
                         @XmlElement(name = "DateRange", required = true)
                         protected TransXChange.Services.Service.OperatingProfile.SpecialDaysOperation.DaysOfNonOperation.DateRange dateRange;
 
@@ -1021,8 +1138,12 @@ public class TransXChange {
 
                         @XmlAccessorType(XmlAccessType.FIELD)
                         @XmlType(name = "", propOrder = { "startDate", "endDate" })
-                        public static class DateRange {
+                        public static class DateRange implements Serializable{
 
+                            /**
+                             * 
+                             */
+                            private static final long serialVersionUID = 1L;
                             @XmlElement(name = "StartDate", required = true)
                             @XmlSchemaType(name = "date")
                             protected XMLGregorianCalendar startDate;
@@ -1056,8 +1177,12 @@ public class TransXChange {
 
             @XmlAccessorType(XmlAccessType.FIELD)
             @XmlType(name = "", propOrder = { "origin", "destination", "journeyPattern" })
-            public static class StandardService {
+            public static class StandardService implements Serializable{
 
+                /**
+                 * 
+                 */
+                private static final long serialVersionUID = 1L;
                 @XmlElement(name = "Origin", required = true)
                 protected String origin;
                 @XmlElement(name = "Destination", required = true)
@@ -1090,8 +1215,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "direction", "operational", "routeRef", "journeyPatternSectionRefs" })
-                public static class JourneyPattern {
+                public static class JourneyPattern implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "Direction", required = true)
                     protected String direction;
                     @XmlElement(name = "Operational", required = true)
@@ -1146,8 +1275,12 @@ public class TransXChange {
 
                     @XmlAccessorType(XmlAccessType.FIELD)
                     @XmlType(name = "", propOrder = { "vehicleType" })
-                    public static class Operational {
+                    public static class Operational implements Serializable{
 
+                        /**
+                         * 
+                         */
+                        private static final long serialVersionUID = 1L;
                         @XmlElement(name = "VehicleType", required = true)
                         protected TransXChange.Services.Service.StandardService.JourneyPattern.Operational.VehicleType vehicleType;
 
@@ -1162,8 +1295,12 @@ public class TransXChange {
 
                         @XmlAccessorType(XmlAccessType.FIELD)
                         @XmlType(name = "", propOrder = { "vehicleTypeCode", "description" })
-                        public static class VehicleType {
+                        public static class VehicleType implements Serializable{
 
+                            /**
+                             * 
+                             */
+                            private static final long serialVersionUID = 1L;
                             @XmlElement(name = "VehicleTypeCode", required = true)
                             protected String vehicleTypeCode;
                             @XmlElement(name = "Description", required = true)
@@ -1195,8 +1332,12 @@ public class TransXChange {
 
             @XmlAccessorType(XmlAccessType.FIELD)
             @XmlType(name = "", propOrder = { "noNewStopsRequired" })
-            public static class StopRequirements {
+            public static class StopRequirements implements Serializable{
 
+                /**
+                 * 
+                 */
+                private static final long serialVersionUID = 1L;
                 @XmlElement(name = "NoNewStopsRequired", required = true)
                 protected String noNewStopsRequired;
 
@@ -1216,8 +1357,12 @@ public class TransXChange {
 
     @XmlAccessorType(XmlAccessType.FIELD)
     @XmlType(name = "", propOrder = { "stopPoint" })
-    public static class StopPoints {
+    public static class StopPoints implements Serializable{
 
+        /**
+         * 
+         */
+        private static final long serialVersionUID = 1L;
         @XmlElement(name = "StopPoint")
         protected List<TransXChange.StopPoints.StopPoint> stopPoint;
 
@@ -1231,8 +1376,12 @@ public class TransXChange {
         @XmlAccessorType(XmlAccessType.FIELD)
         @XmlType(name = "", propOrder = { "atcoCode", "descriptor", "place", "stopClassification",
                 "administrativeAreaRef", "notes" })
-        public static class StopPoint {
+        public static class StopPoint implements Serializable{
 
+            /**
+             * 
+             */
+            private static final long serialVersionUID = 1L;
             @XmlElement(name = "AtcoCode", required = true)
             protected String atcoCode;
             @XmlElement(name = "Descriptor", required = true)
@@ -1307,8 +1456,12 @@ public class TransXChange {
 
             @XmlAccessorType(XmlAccessType.FIELD)
             @XmlType(name = "", propOrder = { "commonName" })
-            public static class Descriptor {
+            public static class Descriptor implements Serializable{
 
+                /**
+                 * 
+                 */
+                private static final long serialVersionUID = 1L;
                 @XmlElement(name = "CommonName", required = true)
                 protected String commonName;
 
@@ -1324,8 +1477,12 @@ public class TransXChange {
 
             @XmlAccessorType(XmlAccessType.FIELD)
             @XmlType(name = "", propOrder = { "nptgLocalityRef", "location" })
-            public static class Place {
+            public static class Place implements Serializable{
 
+                /**
+                 * 
+                 */
+                private static final long serialVersionUID = 1L;
                 @XmlElement(name = "NptgLocalityRef", required = true)
                 protected String nptgLocalityRef;
                 @XmlElement(name = "Location", required = true)
@@ -1349,8 +1506,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "easting", "northing" })
-                public static class Location {
+                public static class Location implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "Easting")
                     protected int easting;
                     @XmlElement(name = "Northing")
@@ -1388,8 +1549,12 @@ public class TransXChange {
 
             @XmlAccessorType(XmlAccessType.FIELD)
             @XmlType(name = "", propOrder = { "stopType", "offStreet" })
-            public static class StopClassification {
+            public static class StopClassification implements Serializable{
 
+                /**
+                 * 
+                 */
+                private static final long serialVersionUID = 1L;
                 @XmlElement(name = "StopType", required = true)
                 protected String stopType;
                 @XmlElement(name = "OffStreet", required = true)
@@ -1413,8 +1578,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "busAndCoach" })
-                public static class OffStreet {
+                public static class OffStreet implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "BusAndCoach", required = true)
                     protected TransXChange.StopPoints.StopPoint.StopClassification.OffStreet.BusAndCoach busAndCoach;
 
@@ -1429,7 +1598,7 @@ public class TransXChange {
 
                     @XmlAccessorType(XmlAccessType.FIELD)
                     @XmlType(name = "", propOrder = { "bay" })
-                    public static class BusAndCoach {
+                    public static class BusAndCoach implements Serializable{
 
                         @XmlElement(name = "Bay", required = true)
                         protected TransXChange.StopPoints.StopPoint.StopClassification.OffStreet.BusAndCoach.Bay bay;
@@ -1445,8 +1614,12 @@ public class TransXChange {
 
                         @XmlAccessorType(XmlAccessType.FIELD)
                         @XmlType(name = "", propOrder = { "timingStatus" })
-                        public static class Bay {
+                        public static class Bay implements Serializable{
 
+                            /**
+                             * 
+                             */
+                            private static final long serialVersionUID = 1L;
                             @XmlElement(name = "TimingStatus", required = true)
                             protected String timingStatus;
 
@@ -1472,8 +1645,12 @@ public class TransXChange {
 
     @XmlAccessorType(XmlAccessType.FIELD)
     @XmlType(name = "", propOrder = { "vehicleJourney" })
-    public static class VehicleJourneys {
+    public static class VehicleJourneys implements Serializable{
 
+        /**
+         * 
+         */
+        private static final long serialVersionUID = 1L;
         @XmlElement(name = "VehicleJourney")
         protected List<TransXChange.VehicleJourneys.VehicleJourney> vehicleJourney;
 
@@ -1487,8 +1664,12 @@ public class TransXChange {
         @XmlAccessorType(XmlAccessType.FIELD)
         @XmlType(name = "", propOrder = { "privateCode", "destinationDisplay", "operational", "operatingProfile",
                 "vehicleJourneyCode", "serviceRef", "lineRef", "journeyPatternRef", "departureTime" })
-        public static class VehicleJourney {
+        public static class VehicleJourney implements Serializable{
 
+            /**
+             * 
+             */
+            private static final long serialVersionUID = 1L;
             @XmlElement(name = "PrivateCode", required = true)
             protected String privateCode;
             @XmlElement(name = "DestinationDisplay", required = true)
@@ -1583,8 +1764,12 @@ public class TransXChange {
 
             @XmlAccessorType(XmlAccessType.FIELD)
             @XmlType(name = "", propOrder = { "regularDayType", "specialDaysOperation", "bankHolidayOperation" })
-            public static class OperatingProfile {
+            public static class OperatingProfile implements Serializable{
 
+                /**
+                 * 
+                 */
+                private static final long serialVersionUID = 1L;
                 @XmlElement(name = "RegularDayType", required = true)
                 protected TransXChange.VehicleJourneys.VehicleJourney.OperatingProfile.RegularDayType regularDayType;
                 @XmlElement(name = "SpecialDaysOperation", required = true)
@@ -1621,8 +1806,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "daysOfOperation", "daysOfNonOperation" })
-                public static class BankHolidayOperation {
+                public static class BankHolidayOperation implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "DaysOfOperation")
                     protected TransXChange.VehicleJourneys.VehicleJourney.OperatingProfile.BankHolidayOperation.DaysOfOperation daysOfOperation;
                     @XmlElement(name = "DaysOfNonOperation", required = true)
@@ -1649,8 +1838,12 @@ public class TransXChange {
                     @XmlAccessorType(XmlAccessType.FIELD)
                     @XmlType(name = "", propOrder = { "christmasDay", "boxingDay", "goodFriday", "newYearsDay",
                             "lateSummerBankHolidayNotScotland", "mayDay", "springBank" })
-                    public static class DaysOfNonOperation {
+                    public static class DaysOfNonOperation implements Serializable{
 
+                        /**
+                         * 
+                         */
+                        private static final long serialVersionUID = 1L;
                         @XmlElement(name = "ChristmasDay", required = true)
                         protected String christmasDay;
                         @XmlElement(name = "BoxingDay", required = true)
@@ -1727,8 +1920,12 @@ public class TransXChange {
                     @XmlAccessorType(XmlAccessType.FIELD)
                     @XmlType(name = "", propOrder = { "goodFriday", "newYearsDay", "lateSummerBankHolidayNotScotland",
                             "mayDay", "springBank" })
-                    public static class DaysOfOperation {
+                    public static class DaysOfOperation implements Serializable{
 
+                        /**
+                         * 
+                         */
+                        private static final long serialVersionUID = 1L;
                         @XmlElement(name = "GoodFriday")
                         protected String goodFriday;
                         @XmlElement(name = "NewYearsDay")
@@ -1786,8 +1983,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "daysOfWeek" })
-                public static class RegularDayType {
+                public static class RegularDayType implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "DaysOfWeek", required = true)
                     protected TransXChange.VehicleJourneys.VehicleJourney.OperatingProfile.RegularDayType.DaysOfWeek daysOfWeek;
 
@@ -1803,8 +2004,12 @@ public class TransXChange {
                     @XmlAccessorType(XmlAccessType.FIELD)
                     @XmlType(name = "", propOrder = { "saturday", "tuesday", "wednesday", "thursday", "friday",
                             "sunday", "monday" })
-                    public static class DaysOfWeek {
+                    public static class DaysOfWeek implements Serializable{
 
+                        /**
+                         * 
+                         */
+                        private static final long serialVersionUID = 1L;
                         @XmlElement(name = "Saturday")
                         protected String saturday;
                         @XmlElement(name = "Tuesday")
@@ -1882,8 +2087,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "daysOfNonOperation", "daysOfOperation" })
-                public static class SpecialDaysOperation {
+                public static class SpecialDaysOperation implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "DaysOfNonOperation")
                     protected TransXChange.VehicleJourneys.VehicleJourney.OperatingProfile.SpecialDaysOperation.DaysOfNonOperation daysOfNonOperation;
                     @XmlElement(name = "DaysOfOperation")
@@ -1909,8 +2118,12 @@ public class TransXChange {
 
                     @XmlAccessorType(XmlAccessType.FIELD)
                     @XmlType(name = "", propOrder = { "dateRange" })
-                    public static class DaysOfNonOperation {
+                    public static class DaysOfNonOperation implements Serializable{
 
+                        /**
+                         * 
+                         */
+                        private static final long serialVersionUID = 1L;
                         @XmlElement(name = "DateRange")
                         protected List<TransXChange.VehicleJourneys.VehicleJourney.OperatingProfile.SpecialDaysOperation.DaysOfNonOperation.DateRange> dateRange;
 
@@ -1923,8 +2136,12 @@ public class TransXChange {
 
                         @XmlAccessorType(XmlAccessType.FIELD)
                         @XmlType(name = "", propOrder = { "startDate", "endDate", "note" })
-                        public static class DateRange {
+                        public static class DateRange implements Serializable{
 
+                            /**
+                             * 
+                             */
+                            private static final long serialVersionUID = 1L;
                             @XmlElement(name = "StartDate", required = true)
                             @XmlSchemaType(name = "date")
                             protected XMLGregorianCalendar startDate;
@@ -1964,8 +2181,12 @@ public class TransXChange {
 
                     @XmlAccessorType(XmlAccessType.FIELD)
                     @XmlType(name = "", propOrder = { "dateRange" })
-                    public static class DaysOfOperation {
+                    public static class DaysOfOperation implements Serializable{
 
+                        /**
+                         * 
+                         */
+                        private static final long serialVersionUID = 1L;
                         @XmlElement(name = "DateRange")
                         protected List<TransXChange.VehicleJourneys.VehicleJourney.OperatingProfile.SpecialDaysOperation.DaysOfOperation.DateRange> dateRange;
 
@@ -1978,8 +2199,12 @@ public class TransXChange {
 
                         @XmlAccessorType(XmlAccessType.FIELD)
                         @XmlType(name = "", propOrder = { "startDate", "endDate", "note" })
-                        public static class DateRange {
+                        public static class DateRange implements Serializable{
 
+                            /**
+                             * 
+                             */
+                            private static final long serialVersionUID = 1L;
                             @XmlElement(name = "StartDate", required = true)
                             @XmlSchemaType(name = "date")
                             protected XMLGregorianCalendar startDate;
@@ -2023,8 +2248,12 @@ public class TransXChange {
 
             @XmlAccessorType(XmlAccessType.FIELD)
             @XmlType(name = "", propOrder = { "vehicleType" })
-            public static class Operational {
+            public static class Operational implements Serializable{
 
+                /**
+                 * 
+                 */
+                private static final long serialVersionUID = 1L;
                 @XmlElement(name = "VehicleType", required = true)
                 protected TransXChange.VehicleJourneys.VehicleJourney.Operational.VehicleType vehicleType;
 
@@ -2038,8 +2267,12 @@ public class TransXChange {
 
                 @XmlAccessorType(XmlAccessType.FIELD)
                 @XmlType(name = "", propOrder = { "vehicleTypeCode", "description" })
-                public static class VehicleType {
+                public static class VehicleType implements Serializable{
 
+                    /**
+                     * 
+                     */
+                    private static final long serialVersionUID = 1L;
                     @XmlElement(name = "VehicleTypeCode", required = true)
                     protected String vehicleTypeCode;
                     @XmlElement(name = "Description", required = true)
