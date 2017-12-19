@@ -2,7 +2,7 @@ package org.apache.storm.starter.data;
 
 import java.io.Serializable;
 import org.apache.storm.starter.polygon.*;
-
+import javax.xml.datatype.XMLGregorianCalendar;
 
 public class ArrivalBean implements Serializable {
     private static final long serialVersionUID = 1L;
@@ -14,6 +14,8 @@ public class ArrivalBean implements Serializable {
     Point Point;
     String LineID;
     String DestinationName;
+    String journeyId;
+    XMLGregorianCalendar cal;
     int VehicleID;
     String RegistrationNumber;
     int EstimatedTime;
@@ -39,7 +41,23 @@ public class ArrivalBean implements Serializable {
     public ArrivalBean(){
         
     }
-
+    
+    public void setTimetableTime(XMLGregorianCalendar cal){
+        this.cal = cal;
+    }
+    
+    public XMLGregorianCalendar getTimetableTime(){
+        return cal;
+    }
+    
+    public void setJourneyId(String id){
+        journeyId = id;
+    }
+    
+    public String getJourneyId(){
+        return journeyId;
+    }
+    
 	public String getStopPointName() {
 		return StopPointName;
 	}

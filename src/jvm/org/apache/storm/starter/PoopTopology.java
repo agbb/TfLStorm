@@ -65,7 +65,7 @@ public class PoopTopology {
         builder.setBolt("PersistIncident", new PersistIncident(), 4).shuffleGrouping("RetreiveAndCompareIncident","toPersist");
         builder.setBolt("RemoveIncident", new PersistIncident(), 4).shuffleGrouping("RetreiveAndCompareIncident","toRemove");
         
-        builder.setBolt("ParsePoints", new ParsePoints(), 4).shuffleGrouping("AssociateTimetable");
+        builder.setBolt("ParsePoints", new ParsePoints(), 4).shuffleGrouping("ArrivalSpout");
         
         builder.setBolt("DetermineIncidentRadius", new DetermineIncidentRadius(),4).shuffleGrouping("ParsePoints");
         builder.setBolt("DetectIntersect", new DetectIntersect(), 4).shuffleGrouping("DetermineIncidentRadius");
@@ -73,7 +73,7 @@ public class PoopTopology {
         
         builder.setBolt("RetrieveAndCompareDisruption", new RetrieveAndCompareDisruption(), 4).shuffleGrouping("DetermineDisruption");
         builder.setBolt("AssociateTimetable", new AssociateTimetableData(), 4).shuffleGrouping("RetrieveAndCompareDisruption");
-        builder.setBolt("PersistDisruption", new PersistDisruption(), 4).shuffleGrouping("AssociateTimeable");
+        builder.setBolt("PersistDisruption", new PersistDisruption(), 4).shuffleGrouping("AssociateTimetable");
         
 
         Config conf = new Config();
