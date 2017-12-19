@@ -48,14 +48,20 @@ public class RetreiveAndCompareIncident extends BaseBasicBolt {
             boolean found = false;
             boolean invalid = false;
             try{
-            //Check if incident should be removed. 
-            if(bean.getStatus().equals("inactive")){
-                 LOG.info("INCIDENT: found, but invalid");
-                 invalid = true;   
-            }else if(TimeComparitor.isInPast(bean.getEndTime())){
-                LOG.info("INCIDENT: found, but invalid");
-                 invalid = true;   
-            }
+                //Check if incident should be removed. 
+                if(bean.getStatus().equals("Inactive")){
+                     LOG.info("INCIDENT: found, but invalid");
+                     invalid = true;   
+                }else if(TimeComparitor.isInPast(bean.getEndTime())){
+                    LOG.info("INCIDENT: found, but invalid");
+                     invalid = true;   
+                }if(bean.getStatus().equals("Scheduled")){
+                     LOG.info("INCIDENT: found, but invalid");
+                     invalid = true;   
+                }if(bean.getStatus().equals("Recently Cleared")){
+                     LOG.info("INCIDENT: found, but invalid");
+                     invalid = true;   
+                }
             }catch(Exception e){
                  LOG.error("INCIDENT: "+e);
             }
