@@ -8,10 +8,10 @@
 
   </head>
   <body>
-  <h1>This is your page.</h1>
+  <h1>Live Arrival Disruptions - Apache Storm Output</h1>
+  <h2>This table shows the live disruption estimations as outputted from the topology</h2>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-  <script type="text/javascript" src="etc/jquery.dynatable.js"></script>    
-  <script type="text/javascript" src="client.js"></script>
+
   <script type="text/javascript">
    function autorun()
    {
@@ -22,13 +22,23 @@
    else window.onload = autorun;
   </script>
       
-   <table id="my-table">
+   <table id="my-final-table">
       <thead>
-        <th>record</th>
+        <th>Route</th>
+        <th>Station</th>
+        <th>Type</th>
+        <th>Status</th>
+        <th>Location</th>
+        <th>Probability</th>
+        <th>Distance</th>
+        <th>Severity</th>
+        <th>Message</th>
       </thead>
       <tbody>
       </tbody>
     </table>
+  <script type="text/javascript" src="etc/jquery.dynatable.js"></script>    
+  <script type="text/javascript" src="client.js"></script>
   </body>
 </html>
 
