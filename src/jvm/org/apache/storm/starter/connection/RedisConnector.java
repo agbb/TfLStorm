@@ -191,7 +191,9 @@ public class RedisConnector implements Serializable {
         pairCacheInvalid = false;
         return output;
     }
-    
+    public void del(byte[] buf){
+     syncCommands.del(buf);   
+    }
     public void persistDisruption(ArrivalDisruptionPair candidate){
    
         LOG.info("REDIS: new disruption, persisting");
