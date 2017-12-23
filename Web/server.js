@@ -50,7 +50,12 @@ var app = http.createServer(function(req,res){
         res.setHeader('Content-Type', 'application/json')
         res.write(JSON.stringify(disruptions));
         res.end();             
-    }else if(req.url == "/"){
+    }else if(req.url == "/points"){
+        res.setHeader('Content-Type', 'application/json')
+        res.write(JSON.stringify(disruptions));
+        res.end();             
+    }
+    else if(req.url == "/"){
         fs.readFile('./index.html', function (err, data) {
             if (err) {
                console.log(err); 
@@ -74,5 +79,14 @@ var app = http.createServer(function(req,res){
     
 });
 app.listen(3000);
+
+
+
+
+
+
+
+
+
 
 
