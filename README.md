@@ -38,6 +38,10 @@ Contains various helper classes.
 Conatins the classes defining the representation of a road incident area polygon, and the line segment objects used to define the areas of road that are affected by an incident. 
 The implementation extends the code provided [here.](https://github.com/snatik/polygon-contains-point) 
 
+### Web 
+
+Contains the web presentation layer - the interactive table and the live heatmap.
+
 ## Instalation and Running 
 
 ### Requirements
@@ -45,8 +49,9 @@ The implementation extends the code provided [here.](https://github.com/snatik/p
 * Built and tested on Ubuntu 16.04
 * 3+ GB of free RAM
 * Apache Storm - project has been built on 1.1.1 - This requires Zookeeper as part of the instalation. 
-* Redis installed and available locally
+* [Redis](https://redis.io) installed and available locally
 * Application keys from TfL - [They can be applied for here](https://tfl.gov.uk/info-for/open-data-users/)
+* Building the .jar requires the latest JDK and [Maven](http://maven.apache.org). [Node.js](https://nodejs.org/en/) required for the web server.
 
 ### Running the project
 
@@ -67,3 +72,17 @@ All being well, this will push the topology to storm and start it.
 * This is a prototype - there are hardcoded filepaths, urls and error handling is limited. 
 * The system takes considerable time to set up properly and this project has been built with assumptions about the system it will be running on. 
 * Lastly, this has been entirely coded without the help of an IDE. Please excuse code style problems like indentation and unused imports.
+
+## Credits
+
+The following libraries/tools are used in this project:
+
+* [Lettuce](https://github.com/lettuce-io) Java Redis Connection.
+* [Jcoord](http://www.jstott.me.uk/jcoord) Conversion between lat/long and OSB Eastings and Northings.
+* [Polygon](https://github.com/snatik/polygon-contains-point) Java polygon representation.
+* [Dynatable](https://www.dynatable.com) For dynamic table layout in web consumer.
+* [Google Maps Javascript API](https://developers.google.com/maps/documentation/javascript/) For data heat map.
+* [JQuery](http://jquery.com) for JSON client connection and DOM manipulation. 
+* [Google Gson](https://github.com/google/gson) For serialisation of Storm output to JSON.
+* [node_redis](http://redis.js.org) For connection of webserver to Redis. 
+
