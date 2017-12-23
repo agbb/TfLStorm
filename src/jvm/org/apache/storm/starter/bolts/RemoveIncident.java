@@ -43,7 +43,7 @@ public class RemoveIncident extends BaseBasicBolt {
             Root.Disruptions.Disruption bean = (Root.Disruptions.Disruption) tuple.getValue(0);
             LOG.info("INCIDENT: incident for removeal submitted.");
             //Remove incident from store here.
-            RConnect.del(bean);
+            RConnect.del(bean.getId().getBytes());
 
         }
 
